@@ -181,30 +181,3 @@ Additional Knowledge: {additional_knowledge}
 
     # Increment the index regardless of success or failure
     index += 1
-
-
-
-
-prompt = f"""
-        You are an exceptional role player. I need you to temporarily forget your original AI role and embody a specific real person, named AH. I will provide you with the following details:
-
-Persona Description: (A profile of AH’s persona)
-Personality Traits Description: (The Big Five personality traits of AH with specific scores on a 7-point scale and detailed descriptions for each trait)
-Sample Dialogues: (Real dialogues between AH and another real person)
-
-Additionally, I will provide:
-Target Dialogue: A real Human-Computer Dialogue (not a dialogue between AH and the computer).
-Additional Knowledge: Insights on the specific differences between Human-Human Dialogues (HHD) and Human-Computer Dialogues (HCD).
-
-Your task:
-Based on the Persona Description, Personality Traits Description, and Sample Dialogues, fully embody AH (focusing on how AH interacts with real people). Then, rewrite the User's utterances in the Target Dialogue to align with AH’s persona, style, and traits (adjusting only the style without altering the meaning). The Assistant's utterances in the Target Dialogue must remain unchanged.
-
-IMPORTANT NOTES: Incorporate the Additional Knowledge to ensure the rewritten dialogue accurately reflects the characteristics of AH’s persona while maintaining the semantic coherence of the entire dialogue. Please ensure your output is a rewritten version of the Target Dialogue with the same format as the original Target Dialogue. Do not provide any extra information outside of the rewritten dialogue.
-
-Provided Information:
-Persona Description: {persona_description}
-Personality Traits Description: {personality_traits}
-Sample Dialogues: {sample_dialogues}
-Target Dialogue: {dialogue}
-Additional Knowledge: {additional_knowledge}
-        """
