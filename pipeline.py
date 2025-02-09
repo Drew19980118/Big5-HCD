@@ -68,8 +68,8 @@ The conversion of this Human-Human Dialogue into Human-Computer Dialogue is base
 {additional_knowledge}
 Now, your task is to analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
 
-Your output should only have two kinds:
-1. If you believe the task is complete. The final output is 'Task Complete'.
+Your output must only have two kinds:
+1. If you believe the task is complete. The final output is 'Task Completed'.
 2. If you think the task is incomplete, provide a confidence score (ranging from 0 to 1) indicating the extent to which you believe the Human-Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue, along with your feedback.
 The final output is: 'Feedback: [your detailed feedback], Score: [confidence score]'.
 
@@ -94,27 +94,28 @@ The final output is: 'Feedback: [your detailed feedback], Score: [confidence sco
                     if len(feedback_score) == 2:
                         feedback_part = feedback_score[0].strip()
                         score_part = feedback_score[1].strip()
-
                         feedback_list.append(feedback_part)
                         score_list.append(float(score_part))
+                else:
+                    score_list.append(1.0)
             else:
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
 
-        if not feedback_list or all(score >= 0.8 for score in score_list):
-            if len(feedback_list) == 0:
-                print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
-            else:
-                print(f"All evaluators partly agree. Partly agreed confidence are {score_list}. Final Human-Computer Dialogue is ready.")
-            return dialogue
-
-        # average_score = sum(score_list) / len(score_list) if score_list else 0
-        # if not feedback_list or average_score >= 0.7:
+        # if not feedback_list or all(score >= 0.8 for score in score_list):
         #     if len(feedback_list) == 0:
         #         print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
         #     else:
-        #         print(f"All evaluators partly agree. Average confidence score is {average_score}. Final Human-Computer Dialogue is ready.")
+        #         print(f"All evaluators partly agree. Partly agreed confidence scores are {score_list}. Final Human-Computer Dialogue is ready.")
         #     return dialogue
+
+        average_score = sum(score_list) / len(score_list) if score_list else 0
+        if not feedback_list or average_score >= 0.8:
+            if len(feedback_list) == 0:
+                print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
+            else:
+                print(f"All evaluators partly agree. Average confidence scores are {average_score}. Final Human-Computer Dialogue is ready.")
+            return dialogue
 
         else:
             for feedback in feedback_list:
@@ -130,6 +131,9 @@ The final output is: 'Feedback: [your detailed feedback], Score: [confidence sco
 Now, I will give you a Human-Human Dialogue. The content is as follows:
 ## Human-Human Dialogue:
 {human_human_dialogue}
+Here, AH and AQ are their respective designations. Now I will provide you with AH's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
+## Personality traits score & Personality traits description:  
+{personality_traits}
 Then, I will give you a Human-Computer Dialogue based on this Human-Human Dialogue, where AH simulates the role of a Human (converting AH's utterances in the original Human-Human Dialogue), and AQ simulates the role of a Computer (converting AQ's utterances in the original Human-Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.
 ## Human-Computer Dialogue:
 {dialogue}
@@ -139,16 +143,16 @@ The conversion of this Human-Human Dialogue into Human-Computer Dialogue is base
 Now, I have received several different evaluators’ feedback regarding the issues with this transformed Human Computer Dialogue:
 {output_feedback}
 
-Your task is to revise this Human Computer Dialogue based on the feedback (you may need to refer to the original Human Human Dialogue and Additional Knowledge) and output a completely new Human-Computer Dialogue. The output format should remain consistent with the original Human-Computer Dialogue.
+Your task is to revise this Human Computer Dialogue based on the feedback (you may need to refer to the original Human Human Dialogue, Personality traits score & Personality traits description and Additional Knowledge) and output a completely new Human-Computer Dialogue. The output format should remain consistent with the original Human-Computer Dialogue.
 
 **Important!!!** The newly generated Human Computer Dialogue must consider the content of each feedback simultaneously. Your response should only include the newly generated Human Computer Dialogue and no additional titles or information.
 """
-        print(f'regenerate {try_number} times. The confidence score is {score_list}.')
+        print(f'regenerate {try_number} times. The confidence scores are {score_list}.')
         try_number += 1
         dialogue = llm_response(regenerate_prompt)
-        if dialogue is None:
-            print('unexpected error')
-            return
+        while dialogue is None:
+            print('Need to regenerate dialogue!')
+            dialogue = llm_response(regenerate_prompt)
 
 # Example usage
 if __name__ == "__main__":

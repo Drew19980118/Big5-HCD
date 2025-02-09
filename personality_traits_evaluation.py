@@ -30,7 +30,6 @@ dimensions = [
     },
 ]
 
-# 额外的知识
 additional_knowledge = """
 Differences Between Human-Human (HHD) and Human-Computer Dialogues (HCD):
 
@@ -121,25 +120,25 @@ with open('assessment_results.txt', 'w') as result_file:
 
             prompt = f"""
             You are an expert in Psychometrics, especially Big Five. I am conducting the Big Five test on someone. I am gauging
-            his/her position on the {dimension['dimension_name']} dimension through a series of open-ended questions. For clarity, here’s some background
+            his/her position on the {dimension['dimension_name']} dimension through a dialogue. For clarity, here’s some background
             this particular dimension:
             ===
             {dimension['description']}
             ===
-            I’ve invited a participant, AH, and we had many dialogues between AH and Computer (Human-Computer Dialogues) in English. I
-            will input the dialogues (User represents AH and Assistant represents Computer).
+            I’ve invited a participant, AH, and I have a dialogue between AH and Computer (Human Computer Dialogue) in English. I
+            will input the dialogue.
 
-            ##Dialogues:
+            ##Dialogue:
             {dialogue}
 
-            Besides, I will provide you the additional knowledge regarding the difference between Human-Human Dialogue (HHD) and Human-Computer Dialogue (HCD):
+            Besides, I will provide you the additional knowledge regarding the difference between Human Human Dialogue (HHD) and Human Computer Dialogue (HCD):
             ##Additional Knowledge:
             {additional_knowledge}
 
             Please help me assess AH’s score within the {dimension['dimension_name']} dimension of Big Five (your assessment should consider the additional knowledge).
             You should provide the score of AH in terms of {dimension['dimension_name']}, which is a number between 0 and
-            7. 0 denotes ’not {dimension['dimension_name']} at all’, 3.5 denotes ’neutral’, and 7 denotes
-            ’strongly {dimension['dimension_name']}’. Other numbers in this range represent different degrees of ’{dimension['dimension_name']}’. Note, you must present your answer. Please directly output the score without any other information.
+            7. 0 denotes 'not {dimension['dimension_name']} at all', 3.5 denotes 'neutral', and 7 denotes
+            'strongly {dimension['dimension_name']}'. Other numbers in this range represent different degrees of '{dimension['dimension_name']}'. Note, you must present your answer. Please directly output the score without any other information.
             """
             # 调用 LLM API
             result = llm_response(prompt)
