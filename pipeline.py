@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 
 # Configuration
 API_KEY = '50a857aec1164241a3411b5e38e99982'
@@ -45,8 +46,12 @@ def llm_response(prompt):
 
     return None
 
-def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, evaluators, api_url, try_number = 1):
-    while True:
+global_score_lists = []
+
+def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, evaluators, api_url, try_number=1):
+    global global_score_lists  # Declare the global list to be used in the function
+
+    for try_number in range(1, 101):  # Loop for 100 iterations
         feedback_list = []
         new_feedback_list = []
         score_list = []
@@ -66,7 +71,7 @@ Then, I will give you a Human-Computer Dialogue based on this Human-Human Dialog
 The conversion of this Human-Human Dialogue into Human-Computer Dialogue is based on the following Additional Knowledge:  
 ## Additional Knowledge   
 {additional_knowledge}
-Now, your task is to analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+Now, your task is to analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue.
 
 Your output must only have two kinds:
 1. If you believe the task is complete. The final output is 'Task Completed'.
@@ -102,30 +107,14 @@ The final output is: 'Feedback: [your detailed feedback], Score: [confidence sco
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
 
-        # if not feedback_list or all(score >= 0.8 for score in score_list):
-        #     if len(feedback_list) == 0:
-        #         print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
-        #     else:
-        #         print(f"All evaluators partly agree. Partly agreed confidence scores are {score_list}. Final Human-Computer Dialogue is ready.")
-        #     return dialogue
+        for feedback in feedback_list:
+            if feedback.startswith("Feedback"):
+                cleaned_response = feedback[len("Feedback:"):].strip()
+                formatted_feedback = f"Feedback {feedback_counter}:\n{cleaned_response}"
+                new_feedback_list.append(formatted_feedback)
+                feedback_counter += 1
 
-        average_score = sum(score_list) / len(score_list) if score_list else 0
-        if not feedback_list or average_score >= 0.8:
-            if len(feedback_list) == 0:
-                print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
-            else:
-                print(f"All evaluators partly agree. Average confidence scores are {average_score}. Final Human-Computer Dialogue is ready.")
-            return dialogue
-
-        else:
-            for feedback in feedback_list:
-                if feedback.startswith("Feedback"):
-                    cleaned_response = feedback[len("Feedback:"):].strip()
-                    formatted_feedback = f"Feedback {feedback_counter}:\n{cleaned_response}"
-                    new_feedback_list.append(formatted_feedback)
-                    feedback_counter += 1
-
-            output_feedback = "\n\n".join(new_feedback_list)
+        output_feedback = "\n\n".join(new_feedback_list)
 
         regenerate_prompt = f"""
 Now, I will give you a Human-Human Dialogue. The content is as follows:
@@ -143,50 +132,64 @@ The conversion of this Human-Human Dialogue into Human-Computer Dialogue is base
 Now, I have received several different evaluators’ feedback regarding the issues with this transformed Human Computer Dialogue:
 {output_feedback}
 
-Your task is to revise this Human Computer Dialogue based on the feedback (you may need to refer to the original Human Human Dialogue, Personality traits score & Personality traits description and Additional Knowledge) and output a completely new Human-Computer Dialogue. The output format should remain consistent with the original Human-Computer Dialogue.
+Your task is to revise this Human Computer Dialogue based on the feedback (you may need to refer to the original Human Human Dialogue, Personality traits score & Personality Traits Description and Additional Knowledge) and output a completely new Human-Computer Dialogue. The output format should remain consistent with the original Human-Computer Dialogue.
 
 **Important!!!** The newly generated Human Computer Dialogue must consider the content of each feedback simultaneously. Your response should only include the newly generated Human Computer Dialogue and no additional titles or information.
 """
         print(f'regenerate {try_number} times. The confidence scores are {score_list}.')
-        try_number += 1
         dialogue = llm_response(regenerate_prompt)
         while dialogue is None:
             print('Need to regenerate dialogue!')
             dialogue = llm_response(regenerate_prompt)
+
+        # Store the score_list in the global list after each iteration
+        global_score_lists.append(score_list)
+
+        # Print progress
+        print(f"regenerate {try_number} completed.")
+
+    # After 100 iterations, write the scores to a file (e.g., CSV)
+    with open("feedback_scores.csv", "w", newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Iteration", "Score List"])
+        for i, score_list in enumerate(global_score_lists, 1):
+            writer.writerow([i, score_list])
+
+    print("100 iterations completed. Scores saved to feedback_scores.csv.")
 
 # Example usage
 if __name__ == "__main__":
     human_human_dialogue = """
     AH: Hello! 
     AQ: Hello. 
-    AH: Do you eat breakfast? 
-    AQ: I will eat. 
-    AH: Could you tell me what kind of menu it is? 
-    AQ: Most of the time, it's plain white rice with natto. 
-    AH: Natto rice is easy to make and delicious, isn't it! 
-    AQ: That's right. Sometimes I even put in raw eggs. 
-    AH: Raw eggs, natto, and rice seem to be a great match! 
-    AQ: "It's delicious. Can you eat natto?" 
-    AH: Yes, I eat it every night. 
-    AQ: That is wonderful. 
-    AH: It seems to be good for health. 
-    AQ: Oh, by the way, it seems that this is the number one food recommended by doctors. 
-    AH: It was so good that even the doctor recommended it. 
-    AQ: "It seems so. They said it on the news." 
-    AH: I didn't think it was that good. 
-    AQ: Yeah, yeah. They say it also affects lifespan. 
-    AH: Fermented foods are said to be good for your health. 
-    AQ: In short, that's what it means. 
-    AH: I think the person who ate it first is amazing. 
-    AQ: "That's certainly true." 
-    AH: If there are rotten items, I will throw them away. 
-    AQ: Certainly. Something so slimy. 
-    AH: I also think that the person who came up with that sauce made a great invention. 
-    AQ: Got it! I like that thing. Something with natto and a raw egg. 
-    AH: I also love that sauce! 
-    AQ: Did you understand? Good. 
-    AH: Yes, I never thought that there would be other people who think the same thing. 
-    AQ: Hahaha. Let's talk again.
+    AH: It was quite hot today. 
+    AQ: It's hot, isn't it? Are you staying inside the house all the time? 
+    AH: I was outside in the morning. 
+    AQ: Are you shopping? 
+    AH: No, it's a walk. 
+    AQ: You're great for going on a walk! 
+    AH: I haven't been exercising much lately. 
+    AQ: Me too. 
+    AH: I thought I could manage walking by myself, so I am doing it. 
+    AQ: "That's amazing. It's outside, right?" 
+    AH: Yes, it's outside! 
+    AQ: It looks like I'm going to get drenched in sweat. 
+    AH: Yes, I was sweating a lot halfway through. 
+    AQ: That's right. But it's better in the morning, isn't it? 
+    AH: Yes, it seems it will get hotter in the afternoon. 
+    AQ: I can't walk from the afternoon. 
+    AH: Yes, I want to stay at home from the afternoon. 
+    AQ: Yes, yes, but recently I've been staying at home all day. 
+    AH: It looks comfortable and I'm envious. 
+    AQ: "Work was also remote until last month." 
+    AH: It seems convenient since you don't have to go out when working remotely. 
+    AQ: Once you get used to remote work, you won't be able to go out to work. 
+    AH: Certainly, the habit of going outside has been interrupted. 
+    AQ: That's right. It's so comfortable that I can't escape. 
+    AH: I would also like to try remote work. 
+    AQ: Please give it a try if you have the chance. 
+    AH: Yes, I would like to consider such a type of job as well. 
+    AQ: Let's talk again.
     """
 
     personality_traits = """
@@ -231,14 +234,13 @@ if __name__ == "__main__":
     **Important!!!** Your final output format must strictly follow the format of the provided Human-Human Dialogue, and you must directly output the transformed new dialogue without including any additional title or text in your response!!!
     """
 
-    # First transformation
     human_computer_dialogue = llm_response(dialogue_transformation_prompt)
 
     if human_computer_dialogue is None:
         print('unexpected error')
         exit(1)
 
-        # Evaluators and API URL
+    # Evaluators and API URL
     evaluators = ["deepseek-r1:8b", "llama3.1:8b", "gemma2:9b"]
     api_url = "http://127.0.0.1:11434/api/generate"
 
