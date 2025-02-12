@@ -75,7 +75,7 @@ Now, your task is to analyze whether this Human Computer Dialogue strictly follo
 
 Your output must only have two kinds:
 1. If you believe the task is complete. The final output is 'Task Completed'.
-2. If you think the task is incomplete, provide a confidence score (ranging from 0 to 1) indicating the extent to which you believe the Human-Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue, along with your feedback.
+2. If you think the task is incomplete, provide a confidence score (ranging from 0.0 to 1.0, in increments of 0.01) indicating the extent to which you believe the Human-Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue, along with your feedback.
 The final output is: 'Feedback: [your detailed feedback], Score: [confidence score]'.
 
 **Important!!!** Your final output must not include any other text or information.
@@ -106,6 +106,24 @@ The final output is: 'Feedback: [your detailed feedback], Score: [confidence sco
             else:
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
+
+                # if not feedback_list or all(score >= 0.8 for score in score_list):
+                #     if len(feedback_list) == 0:
+                #         print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
+                #     else:
+                #         print(f"All evaluators partly agree. Partly agreed confidence scores are {score_list}. Final Human-Computer Dialogue is ready.")
+                #     return dialogue
+
+                # average_score = sum(score_list) / len(score_list) if score_list else 0
+                # if not feedback_list or average_score >= 0.8:
+                #     if len(feedback_list) == 0:
+                #         print("All evaluators fully agree. Final Human-Computer Dialogue is ready.")
+                #     else:
+                #         print(
+                #             f"All evaluators partly agree. Average confidence scores are {average_score}. Final Human-Computer Dialogue is ready.")
+                #     return dialogue
+                #
+                # else:
 
         for feedback in feedback_list:
             if feedback.startswith("Feedback"):
@@ -144,9 +162,6 @@ Your task is to revise this Human Computer Dialogue based on the feedback (you m
 
         # Store the score_list in the global list after each iteration
         global_score_lists.append(score_list)
-
-        # Print progress
-        print(f"regenerate {try_number} completed.")
 
     # After 100 iterations, write the scores to a file (e.g., CSV)
     with open("feedback_scores.csv", "w", newline='') as file:
@@ -207,16 +222,22 @@ if __name__ == "__main__":
 
     additional_knowledge = """
     Differences Between Human Human Dialogue (HHD) and Human Computer Dialogue (HCD):
+    
     Communication Styles:
+    
     HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: "It’s 72°F and sunny."
+    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    
     HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
-    Example: "It’s 72°F and sunny, but should we bring an umbrella later?"
+    Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
+    
     Relational and Personality Expression:
+    
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: When a user expresses stress, a machine might respond neutrally, e.g., "I'm here to help."
+    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
-    Example: A friend might respond empathetically, e.g., "I understand how you feel. Let’s figure this out together."
+    Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."
     """
 
     dialogue_transformation_prompt = f"""

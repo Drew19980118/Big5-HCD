@@ -18,9 +18,9 @@ dialogue_dataset = load_dataset(
 )
 train_dialogue_dataset = dialogue_dataset['train']
 
-filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == 'AH')
+filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == 'AC')
 
-output_file = 'test_interlocutor_dialogues/O_High_AH_example_dialogues.csv'
+output_file = 'test_interlocutor_dialogues/O_Low_AC_example_dialogues.csv'
 
 lock = Lock()
 dialogue_count = 0  # Initialize the dialogue count
