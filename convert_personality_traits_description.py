@@ -19,7 +19,7 @@ def llm_response(prompt):
         ],
         "temperature": 1,
         "top_p": 0.95,
-        "max_tokens": 400
+        "max_tokens": 2000
     }
 
     ENDPOINT = "https://genai-jp.openai.azure.com/openai/deployments/ln-gpt40/chat/completions?api-version=2024-02-15-preview"
@@ -46,11 +46,11 @@ def llm_response(prompt):
 
 prompt = f"""You are an outstanding psychologist. You will be given a user's Big Five personality traits with scores on a 7-point scale. For each trait, please provide a concise description of the user’s personality, explaining what kind of person they are based on the score. The traits include 'Openness,' 'Conscientiousness,' 'Extraversion,' 'Agreeableness,' and 'Neuroticism.'
 Example input:
-'Openness': 5.25,
-'Conscientiousness': 3.1666667461395264,
-'Extraversion': 3.3333332538604736,
-'Agreeableness': 4.166666507720947,
-'Neuroticism': 4.416666507720947
+'Openness': 3.1666667461395264,
+'Conscientiousness': 4.666666507720947,
+'Extraversion': 4.166666507720947,
+'Agreeableness': 4.416666507720947,
+'Neuroticism': 3.8333332538604736
 
 For each trait:
 Explain what the score represents in terms of the user's behavior, tendencies, and characteristics.
