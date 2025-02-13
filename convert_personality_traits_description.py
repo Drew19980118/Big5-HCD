@@ -46,11 +46,11 @@ def llm_response(prompt):
 
 prompt = f"""You are an outstanding psychologist. You will be given a user's Big Five personality traits with scores on a 7-point scale. For each trait, please provide a concise description of the user’s personality, explaining what kind of person they are based on the score. The traits include 'Openness,' 'Conscientiousness,' 'Extraversion,' 'Agreeableness,' and 'Neuroticism.'
 Example input:
-'Openness': 3.1666667461395264,
-'Conscientiousness': 4.666666507720947,
-'Extraversion': 4.166666507720947,
-'Agreeableness': 4.416666507720947,
-'Neuroticism': 3.8333332538604736
+'Openness': 5.333333492279053,
+'Conscientiousness': 6.333333492279053,
+'Extraversion': 6.25,
+'Agreeableness': 6.25,
+'Neuroticism': 1.0833333730697632
 
 For each trait:
 Explain what the score represents in terms of the user's behavior, tendencies, and characteristics.

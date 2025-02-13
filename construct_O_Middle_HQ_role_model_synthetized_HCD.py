@@ -53,7 +53,7 @@ def evaluate_dialogue(human_human_dialogue, human_computer_dialogue, personality
         Here, HQ and GR are their respective designations. Now I will provide you with HQ's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
         ## Personality traits score & Personality traits description:  
         {personality_traits}
-        Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where HQ simulates the role of a Human (converting HQ's utterances in the original Human Human Dialogue), and GR simulates the role of a Computer (converting HQ's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.
+        Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where HQ simulates the role of a Human (converting HQ's utterances in the original Human Human Dialogue), and GR simulates the role of a Computer (converting GR's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.
         ## Human Computer Dialogue:
         {human_computer_dialogue}
         The conversion of this Human Human Dialogue into Human Computer Dialogue is based on the following Additional Knowledge:
@@ -179,7 +179,7 @@ if __name__ == "__main__":
     Additionally, I will now provide you with Additional Knowledge (regarding differences between Human Human Dialogue and Human Computer Dialogue) as follows:  
     ## Additional Knowledge:  
     {additional_knowledge}
-    Now, I need you to perform a Task where you transform this Human-Human Dialogue into a Human Computer Dialogue, with HQ playing the role of the Human and GR playing the role of the Computer. Specifically, you need to transform HQ's utterances based on HQ's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform GR's utterances into a Computer style, also without altering the content and meaning.  
+    Now, I need you to perform a Task where you transform this Human Human Dialogue into a Human Computer Dialogue, with HQ playing the role of the Human and GR playing the role of the Computer. Specifically, you need to transform HQ's utterances based on HQ's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform GR's utterances into a Computer style, also without altering the content and meaning.  
 
     **Important!!!** Your final output format must strictly follow the format of the provided Human Human Dialogue, and you must directly output the transformed new dialogue without including any additional title or text in your response!!!
     """
@@ -194,7 +194,7 @@ if __name__ == "__main__":
     Additionally, I will now provide you with Additional Knowledge (regarding differences between Human Human Dialogue and Human Computer Dialogue) as follows:  
     ## Additional Knowledge:  
     {additional_knowledge}
-    Now, I need you to perform a Task where you transform this Human-Human Dialogue into a Human Computer Dialogue, with HQ playing the role of the Human and GR playing the role of the Computer. Specifically, you need to transform HQ's utterances based on HQ's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform GR's utterances into a Computer style, also without altering the content and meaning.  
+    Now, I need you to perform a Task where you transform this Human Human Dialogue into a Human Computer Dialogue, with HQ playing the role of the Human and GR playing the role of the Computer. Specifically, you need to transform HQ's utterances based on HQ's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform GR's utterances into a Computer style, also without altering the content and meaning.  
 
     **Important!!!** Your final output format must strictly follow the format of the provided Human Human Dialogue, and you must directly output the transformed new dialogue without including any additional title or text in your response!!!
     """
