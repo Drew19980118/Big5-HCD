@@ -71,11 +71,17 @@ Then, I will give you a Human-Computer Dialogue based on this Human-Human Dialog
 The conversion of this Human-Human Dialogue into Human-Computer Dialogue is based on the following Additional Knowledge:  
 ## Additional Knowledge   
 {additional_knowledge}
-Now, your task is to analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue.
+
+You will analyze two aspects of the Human Computer Dialogue converted from Human Human Dialogue:
+
+Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+
+Task 2. Check whether the content and meaning of all utterances (from both Human Role and Computer Role) are preserved without alteration from the original Human Human Dialogue.
 
 Your output must only have two kinds:
-1. If you believe the task is complete. The final output is 'Task Completed'.
-2. If you think the task is incomplete, provide a confidence score (ranging from 0.0 to 1.0, in increments of 0.01) indicating the extent to which you believe the Human-Computer Dialogue strictly follows the Additional Knowledge to transform the original Human-Human Dialogue, along with your feedback.
+1. If you believe both of the tasks are complete. The final output is 'Task Completed'.
+
+2. If you think any task is incomplete, provide a single confidence score (0.0-1.0, 0.01 increments) reflecting the overall performance across both tasks, along with your feedback listing the specific deficiencies.
 The final output is: 'Feedback: [your detailed feedback], Score: [confidence score]'.
 
 **Important!!!** Your final output must not include any other text or information.
