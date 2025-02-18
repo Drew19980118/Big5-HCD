@@ -100,8 +100,8 @@ HHD: Conversations with humans allow for more casual, expressive, and dynamic to
 Example: "Hey, can you give me a hand? 😊"
 """
 
-# 读取 O_HIgh_AH_example_dialogues.csv 的第二列（含表头）
-example_dialogues_df = pd.read_csv('test_interlocutor_dialogues/O_HIgh_AH_example_dialogues.csv')
+# 读取 O_High_AH_example_dialogues.csv 的第二列（含表头）
+example_dialogues_df = pd.read_csv('test_interlocutor_dialogues/O_High_AH_example_dialogues.csv')
 header = example_dialogues_df.columns[1]
 data_rows = example_dialogues_df.iloc[:, 1].astype(str).dropna().tolist()
 sample_dialogues_list = [header] + data_rows

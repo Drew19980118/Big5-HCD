@@ -171,18 +171,18 @@ if __name__ == "__main__":
     """
 
     sample_1_dialogue_transformation_prompt = f"""
-    Now I will provide you with a Human-Human Dialogue as follows:  
-    ## Human-Human Dialogue:  
+    Now I will provide you with a Human Human Dialogue as follows:  
+    ## Human Human Dialogue:  
     {sample_1_human_human_dialogue}
     Here, AH and AQ are their respective designations. Now I will provide you with AH's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
     ## Personality traits score & Personality traits description:  
     {personality_traits}
-    Additionally, I will now provide you with Additional Knowledge (regarding differences between Human-Human Dialogue and Human-Computer Dialogue) as follows:  
+    Additionally, I will now provide you with Additional Knowledge (regarding differences between Human-Human Dialogue and Human Computer Dialogue) as follows:  
     ## Additional Knowledge:  
     {additional_knowledge}
-    Now, I need you to perform a Task where you transform this Human Human Dialogue into a Human-Computer Dialogue, with AH playing the role of the Human and AQ playing the role of the Computer. Specifically, you need to transform AH's utterances based on AH's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform AQ's utterances into a Computer style, also without altering the content and meaning.  
+    Now, I need you to perform a Task where you transform this Human Human Dialogue into a Human Computer Dialogue, with AH playing the role of the Human and AQ playing the role of the Computer. Specifically, you need to transform AH's utterances based on AH's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform AQ's utterances into a Computer style, also without altering the content and meaning.  
 
-    **Important!!!** Your final output format must strictly follow the format of the provided Human-Human Dialogue, and you must directly output the transformed new dialogue without including any additional title or text in your response!!!
+    **Important!!!** Your final output format must strictly follow the format of the provided Human Human Dialogue, and you must directly output the transformed new dialogue without including any additional title or text in your response!!!
     """
 
     sample_2_dialogue_transformation_prompt = f"""
