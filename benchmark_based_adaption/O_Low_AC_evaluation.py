@@ -2,6 +2,7 @@ import requests
 import json
 import csv
 import re
+import os
 
 # Configuration
 API_KEY = '50a857aec1164241a3411b5e38e99982'
@@ -107,7 +108,10 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                         feedback_part = feedback_score[0].strip()
                         score_part = feedback_score[1].strip()
                         feedback_list.append(feedback_part)
-                        score_list.append(float(score_part))
+                        score_match = re.search(r'-?\d+\.?\d*', score_part)
+                        if score_match:
+                            score_part_cleaned = score_match.group(0)
+                            score_list.append(float(score_part_cleaned))
                 else:
                     score_list.append(1.0)
             else:
@@ -159,7 +163,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 3 <= i <= 10:
+            if 9 <= i <= 10:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -172,14 +176,18 @@ if __name__ == "__main__":
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 
+    file_exists = os.path.exists(output_csv_path) and os.path.getsize(output_csv_path) > 0
+
     # 打开CSV文件准备写入
-    with open(output_csv_path, mode='w', newline='', encoding='utf-8') as output_file:
+    with open(output_csv_path, mode='a', newline='', encoding='utf-8') as output_file:
         fieldnames = ['Index', 'Dialogue', 'Try_Number']
         writer = csv.DictWriter(output_file, fieldnames=fieldnames)
-        writer.writeheader()
+        # 如果文件不存在或为空，写入表头
+        if not file_exists:
+            writer.writeheader()
 
         # Initialize an index counter
-        index = 1
+        index = 7
 
         for human_human_dialogue in human_human_dialogues:
 

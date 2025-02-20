@@ -1,0 +1,236 @@
+Index,Dialogue,Try_Number
+1,"HF: Hello! Nice to meet you.  
+GL: Hello, nice to meet you!  
+HF: What are your plans for today?  
+GL: I think I’ll go shopping in the early afternoon.  
+HF: Sounds good! What will you buy?  
+GL: Even though I'm going shopping, I have meal coupons valid until today, so the main focus will probably be on meals.  
+HF: Oh! Sounds good. Is it dinner?  
+GL: Yes, that's right. It seems like we either use the meal voucher for lunch or take out something for dinner.  
+HF: What do you plan to eat?  
+GL: For lunch, maybe yakiniku, and for dinner, perhaps gyudon.  
+HF: Yakiniku is nice! Solo yakiniku is something I often enjoy.  
+GL: Understood. Are there places specifically for solo BBQ?  
+HF: Yes, that's correct!  
+GL: Acknowledged. Near me, only chain stores are available.  
+HF: Yakiniku Like is also a chain!  
+GL: Understood. I have not heard of it before. I will investigate further.  
+HF: I believe the cheapest option was around 600 yen.  
+GL: Confirming: Is that for one plate?  
+HF: The set includes rice, 100g of meat, soup, and kimchi.  
+GL: Acknowledged. It appears delicious and cost-effective.  
+HF: Additionally, you can have free refills of rice.  
+GL: Understood. I could consume several bowls.  
+HF: Yes, and there are plenty of toppings available.  
+GL: Confirming: Are the toppings part of the meal?  
+HF: It may have been on the table, but I don't remember clearly.  
+GL: Understood. I have a preference for grilled meat and envy your ease of access.  
+HF: Weekdays are usually not crowded, so please do visit!  
+GL: Affirmative. I will make an effort to try it.",1
+2,"HF: Hello
+GL: Hello.
+HF: Can you tell me about the part-time jobs you've done so far?
+GL: I have experience in customer service, computer work, and event-related tasks.
+HF: Was the customer service job in the food and beverage industry?
+GL: Yes, it was for takeout.
+HF: What kind of food did you handle?
+GL: It was omurice.
+HF: Did you get to have a staff meal?
+GL: Yes, if there were leftovers.
+HF: What kind of computer work did you do?
+GL: Call center work.
+HF: I work at a call center too.
+GL: It can be quite challenging.
+HF: It's straightforward but can get monotonous.
+GL: Yes, maintaining focus is difficult.
+HF: How long have you been doing it?
+GL: About two years.
+HF: That's quite a while.
+GL: It got easier with time.
+HF: Is it mostly incoming or outgoing calls?
+GL: Mostly incoming calls.
+HF: There's often a high turnover rate in call centers, right?
+GL: Correct. Supportive colleagues helped a lot.
+HF: Having a good work environment is essential.
+GL: Yes, it's very important.
+HF: Are the event-related tasks usually one-time events?
+GL: Yes, usually around the end of the year.
+HF: I'll look into it.
+GL: Seasonal jobs are well-paid and manageable.",4
+3,"HF: Good evening!  
+GH: Good evening! How can I assist you today?  
+HF: How did you spend your day today?  
+GH: I was out all day today.  
+HF: Were you out shopping or doing something else?  
+GH: That's right! I visited the 100-yen shop and the bank.  
+HF: What did you buy at the 100-yen shop?  
+GH: I bought storage items, such as daily necessities.  
+HF: That sounds practical and useful!  
+GH: Storage cases are very convenient.  
+HF: Absolutely! Have you bought anything else recently?  
+GH: Recently, I bought Blu-ray playback software. It was expensive.  
+HF: That's interesting! Is the Blu-ray something you use with your TV?  
+GH: I bought it to view on my computer.  
+HF: Got it! Do you use any streaming services like Netflix?  
+GH: Yes, I use Amazon Prime.  
+HF: Same here! Have you watched any movies lately?  
+GH: I watched 007.  
+HF: I haven't heard of that! Is it a drama or a movie?  
+GH: It's an overseas movie. Have you heard of James Bond?  
+HF: I haven't. What's it about?  
+GH: It's a story about a spy.  
+HF: That sounds intriguing! I'll check it out.  
+GH: Sure, let me know if you need more information. What kind of movies do you enjoy?  
+HF: I often watch dramas!  
+GH: Dramas are great. Do you prefer ones from overseas or local?  
+HF: I like ones from Japan!  
+GH: I see! I often watch those too.  
+HF: I can relate to the protagonist's feelings in those dramas.  
+GH: They are indeed moving.",1
+4,"HF: Good evening.
+GH: Good evening. How can I assist you today?
+HF: Do you have any hobbies or activities you enjoy on your days off?
+GH: I enjoy gardening.
+HF: What are you currently growing?
+GH: Passion fruit.
+HF: When will they be ready for harvest?
+GH: By midsummer, if planted in early summer.
+HF: I'll look into that.
+GH: Sure, it’s easy to grow.
+HF: Are you growing anything else?
+GH: Basil and some summer vegetables.
+HF: Which vegetables?
+GH: Tomatoes.
+HF: Are they cherry tomatoes?
+GH: Yes, mini tomatoes for the balcony.
+HF: Larger ones must be difficult in small spaces.
+GH: Correct. I'd like a farm someday.
+HF: Would you consider farming professionally?
+GH: No, just as a hobby.
+HF: Hobbies are fulfilling, and fresh vegetables are great.
+GH: Fresh produce is the best.
+HF: Becoming a soccer player is tough.
+GH: It is fun to watch, though.
+HF: Playing is challenging for me now.
+GH: Starting new activities can be difficult.
+HF: I enjoy staying active with manageable activities.
+GH: That’s a good approach.",13
+5,"HF: Good evening.
+GH: Good evening.
+HF: What is your favorite food?
+GH: Eggs.
+HF: How do you like them prepared?
+GH: Omurice.
+HF: Do you prefer ketchup or demi-glace sauce?
+GH: Demi-glace.
+HF: I enjoy demi-glace too. 
+GH: Which sauce do you prefer?
+HF: Demi-glace.
+GH: Same.
+HF: I'm starting to feel hungry. What's your favorite sushi topping?
+GH: Tuna.
+HF: I like salmon. How about you?
+GH: Salmon is great.
+HF: What's the first thing you order at a sushi place?
+GH: Negitoro.
+HF: I usually get about two plates of negitoro.
+GH: Sometimes I get fatty tuna.
+HF: I went to Sushiro today.
+GH: I haven't been there recently.
+HF: Do you have a favorite sushi chain?
+GH: Sushiro.
+HF: Kura Sushi is also good.
+GH: I usually get takeout.
+HF: Either way, it's good.
+GH: Agreed.",10
+6,"HF: Good evening.
+GH: Good evening!
+HF: Have you traveled recently?
+GH: Recently, I haven't been able to do it.
+HF: Which one did you go to last?
+GH: It's Kyushu!
+HF: Where in Kyushu?
+GH: It's different from Fukuoka to Oita.
+HF: How many nights did you stay?
+GH: Five nights.
+HF: That's a good amount of time to explore.
+GH: We explored quite a lot! I went with my family and it was a great memory.
+HF: Any other trip that left the most impression on you?
+GH: The trip to Tokyo was also impressive.
+HF: Did you go to Disney?
+GH: I went to Disney!
+HF: Was it Land or Sea?
+GH: I went to both!
+HF: Which one did you like better?
+GH: The child was happy with the land, so it's land.
+HF: I like the scenery at Sea.
+GH: Fireworks at DisneySea are wonderful.
+HF: Since it is modeled after an Italian city, I would like to visit the real one someday.
+GH: Authentic Disney is impressive.
+HF: It seems that it's quite large and can't be covered in one day.
+GH: It looks like it's going to be quite an elaborate trip.
+HF: My friend said it took them five days to go around.
+GH: It's really spacious.
+HF: I want to save money and go while I'm still a student.
+GH: That's great! Absolutely!",1
+7,"HF: Good evening.  
+GQ: Good evening!  
+HF: How was your day today?  
+GQ: I worked part-time during the day and did housework when I got back.  
+HF: Great job managing both! I spent my day studying since I didn't have work.  
+GQ: Are you a student?  
+HF: Yes, I am a student!  
+GQ: Studying is commendable. I only did it before tests.  
+HF: Thank you! The company where I got a job told me to study.  
+GQ: Ah, you have a job offer already. Wonderful!  
+HF: Thanks! Next week is the unofficial job offer ceremony.  
+GQ: Congratulations! Exciting times ahead.  
+HF: Thank you. I'm both excited and a bit anxious.  
+GQ: Is your job in your hometown?  
+HF: My assignment will be decided at the beginning of the year, so I don't know yet, but I hope it's in my hometown.  
+GQ: Is it a big company with a possibility of a transfer?  
+HF: Yes, there is a possibility of being transferred. I love my hometown, so I prefer not to leave.  
+GQ: It's great that you like your hometown. I'm sure your family is happy too.  
+HF: Exactly! It's tough not seeing friends and family, so I hope to stay in my hometown.  
+GQ: It sounds like you have many friends. That must be fun.  
+HF: Next year, I'll become a working adult, so I want to work hard and be responsible.  
+GQ: That's great! Don't forget to enjoy friendship and romance.  
+HF: Yes, I want to experience both fun and tough times in my twenties and become stronger.  
+GQ: Have you faced any hardships yet?  
+HF: There have been competitions in romance, exams, and club activities, but I haven't had truly painful experiences.  
+GQ: That's fortunate. I've lived twice as long, and there aren't many things I would call tough.  
+HF: I see. My mother says the same, that life is unpredictable, so I want to stay positive.  
+GQ: I agree with your mother's opinion. Please cherish that idea.  
+HF: Yes, I'll make it my motto!  
+GQ: I'm sorry if I sounded arrogant. Your motto is right.  
+HF: Oh, I apologize for the typo! Thank you!",1
+8,"HF: Good evening!
+GQ: Good evening! How can I assist you today?
+HF: What’s your most memorable travel destination?
+GQ: Hokkaido.
+HF: Which city did you visit?
+GQ: I traveled around using my friend’s family home as a base.
+HF: That sounds great! Did you visit Hakodate by any chance?
+GQ: Yes, but it was many years ago.
+HF: The night view of Hakodate looks beautiful in photos; it must be even better in person.
+GQ: I have some faint memories of it.
+HF: What other places did you explore in Hokkaido?
+GQ: Seeing a wild fox was particularly memorable.
+HF: That's incredible! Wild foxes are quite rare; I’ve only seen wild deer.
+GQ: I saw deer as well. The snow quality for skiing was noticeably different.
+HF: How was the snow different? Smoother?
+GQ: Yes, it was much smoother.
+HF: Do you enjoy winter sports like skiing?
+GQ: I went skiing because someone invited me, but I’m not very fond of the cold.
+HF: I get that. Winter does have its own charm though.
+GQ: Absolutely, especially with events like Christmas.
+HF: Christmas always brings a special excitement.
+GQ: Even though I don’t receive many presents anymore.
+HF: You’re probably at the age where you give presents now.
+GQ: Yes, I gave one last year and it brought me joy.
+HF: I hope you have a fantastic Christmas this year.
+GQ: Thank you! Time really does fly.
+HF: I’ll be playing Santa for the children again this year.
+GQ: That’s wonderful.
+HF: I hope to have a warm family like that someday.
+GQ: I’m sure you will. Thank you for sharing!",11

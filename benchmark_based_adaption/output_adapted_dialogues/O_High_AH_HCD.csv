@@ -1,1 +1,239 @@
 Index,Dialogue,Try_Number
+1,"AH: Hello!  
+AQ: Hello.  
+AH: Do you like animals?  
+AQ: Specify an animal.  
+AH: Do you have a favorite animal?  
+AQ: Dog.  
+AH: Small or large dog?  
+AQ: Dachshund.  
+AH: Tiny and cute.  
+AQ: Affirmative.  
+AH: Do you own one?  
+AQ: Negative.  
+AH: Taking care of pets can be challenging.  
+AQ: Affirmative. Do you have a pet?  
+AH: I have a goldfish.  
+AQ: Acknowledged.  
+AH: It has grown a lot over time.  
+AQ: Acquired from a festival?  
+AH: Yes.  
+AQ: Noted. You have taken good care of it.  
+AH: We've been together for four years.  
+AQ: Remarkable.  
+AH: Is it?  
+AQ: Scooped goldfish often weak.  
+AH: I have heard that.  
+AQ: Weaken quickly.  
+AH: One died the next day.  
+AQ: Common. Hope yours stays healthy.  
+AH: I hope so too.  
+AQ: Understood.",13
+2,"AH: Hello!
+AQ: Hello.
+AH: Do you eat breakfast?
+AQ: Yes.
+AH: What's on the menu?
+AQ: White rice with natto.
+AH: Natto rice is simple and delicious.
+AQ: Sometimes I add raw eggs.
+AH: Raw egg, natto, and rice seem like a great combination.
+AQ: It's nutritious. Do you eat natto?
+AH: Yes, I eat it every night.
+AQ: That's beneficial.
+AH: It seems to be healthy too.
+AQ: It is recommended by doctors.
+AH: Even the doctor recommended it.
+AQ: Reports confirm this.
+AH: I didn't think it was that good.
+AQ: It is linked to lifespan.
+AH: Fermented foods are good for you.
+AQ: Yes, they are.
+AH: The person who ate it first is amazing.
+AQ: Agreed.
+AH: If there are any rotten items, I will throw them away.
+AQ: They can be slimy.
+AH: The sauce is a great invention.
+AQ: I like egg natto.
+AH: I also love that sauce.
+AQ: Understood.
+AH: It's nice to find someone with the same thoughts.
+AQ: Acknowledged.",8
+3,"AH: Good evening.  
+BI: Good evening.  
+AH: Have you eaten lunch yet?  
+BI: Yes, I had KFC today.  
+AH: KFC is tasty, right?  
+BI: Yes, it is.  
+AH: What did you eat?  
+BI: A burger and fries.  
+AH: Does KFC serve burgers?  
+BI: Yes, there's a limited-time spicy one now.  
+AH: Is it very spicy?  
+BI: It's moderately spicy.  
+AH: Spicy but tasty? Sounds interesting.  
+BI: Yes. I'll have chicken for dinner too.  
+AH: All KFC today?  
+BI: Yes, trying different options.  
+AH: Everything looks good, hard to choose.  
+BI: Yes, so I had it for both meals.  
+AH: Nice to enjoy it twice.  
+BI: It's convenient.  
+AH: If it’s tasty, shortcuts are okay.  
+BI: Have you decided on dinner?  
+AH: Not yet.  
+BI: What do you usually eat?  
+AH: I had mapo tofu yesterday.  
+BI: Was it spicy?  
+AH: Mildly spicy, I can't handle too much heat.  
+BI: Understood. I prefer it spicier.  
+AH: One day, I’ll try something really spicy.  
+BI: Enjoy your meal.",8
+4,"AH: Good evening!
+BI: Good evening!
+AH: Which of the four seasons do you like?
+BI: I like autumn!
+AH: Autumn is great! You can enjoy food, exercise, and various activities.
+BI: Yes, there are many delicious things!
+AH: What kind of things do you like?
+BI: Speaking of autumn, it has to be Pacific saury!
+AH: Pacific saury is a symbol of autumn.
+BI: Yes. I look forward to eating it every year.
+AH: Pacific saury is affordable and tasty.
+BI: Recently, there are times when the price becomes a bit higher, and it's disappointing.
+AH: Certainly, it seems like fish products have been expensive recently.
+BI: It feels like autumn has become shorter, and everything feels strange.
+AH: It feels like the period of comfortable weather has gotten shorter.
+BI: Yes, it goes from very hot to very cold quickly.
+AH: The temperature differences have become drastic.
+BI: I feel like the climate is changing rapidly.
+AH: Is it because of global warming?
+BI: The snow has decreased, hasn't it?
+AH: It doesn't snow at all in the Kanto region.
+BI: Even in the Tohoku region, it has decreased significantly compared to the past.
+AH: I thought Tohoku was experiencing record snowfall.
+BI: In some parts, it might rain heavily.
+AH: It felt different depending on the location.
+BI: The place where I used to live seems to have decreased considerably.
+AH: Is it better or worse now that it has become more comfortable to spend time there?
+BI: It's easier to shovel snow now!
+AH: That's good!
+BI: Yes! Thank you very much.",1
+5,"AH: Good evening.  
+AT: Good evening.  
+AH: Have you eaten dinner?  
+AT: Yes, mapo tofu.  
+AH: I had it yesterday.  
+AT: Coincidence noted.  
+AH: In summer, I like spicy food.  
+AT: Spicy food induces sweating.  
+AH: A bath feels good after that.  
+AT: Do you prefer spicy food?  
+AH: I prefer mildly spicy food.  
+AT: Too spicy, just a little for me.  
+AH: How can I reduce the spiciness after eating?  
+AT: Cold drinks on the tongue.  
+AH: Drinking water might be counterproductive.  
+AT: I'll verify that.  
+AH: I'll check too.  
+AT: What was your dinner today?  
+AH: Stir-fried vegetables.  
+AT: I used to eat that often.  
+AH: I often crave vegetables.  
+AT: Vegetables are nutritious.  
+AH: Including vegetables is important.  
+AT: How do you season it?  
+AH: Oil, salt, and pepper.  
+AT: Noted. Simple seasoning.  
+AH: Simple seasoning is delicious.  
+AT: Adequate nutrition is essential.",8
+6,"AH: Good evening!
+AT: Good evening.
+AH: Which season do you like?
+AT: I like summer.
+AH: Summer has festivals and a lively atmosphere.
+AT: Many events outside and the beer tastes great.
+AH: It's great because it's hot, right?
+AT: Yes, I enjoy ice cream, holidays, and feeling refreshed.
+AH: Definitely, summer and ice cream go hand in hand!
+AT: Do you like ice cream?
+AH: I love it!
+AT: What kind of ice cream do you like?
+AH: I prefer ice-based or refreshing types.
+AT: Options like polar bears, iceboxes, and sherbet types.
+AH: And there's Garigari-kun too.
+AT: Sounds good, but it melts quickly outside.
+AH: True. I eat it at home to avoid that.
+AT: The watermelon ice bar feels like summer.
+AH: Watermelon is another summer classic.
+AT: You can feel the seasons; I buy ice cream by the box.
+AH: Buying by the box is smart; you get to enjoy more!
+AT: The portion sizes are just right.
+AH: Yes, eating too much can hurt your stomach.
+AT: I have a weak stomach, so I'm careful.
+AH: We need to be mindful of that.
+AT: I consume a lot of cold things, so I use digestive medicine.
+AH: Sometimes relying on medicine is necessary.
+AT: Maintaining gut health would be ideal, but it doesn't suit me.
+AH: But ice cream is so delicious.
+AT: Let's not overeat.",2
+7,"AH: Hello!
+AL: Hello!
+AH: Do you have a favorite season?
+AL: I dislike summer.
+AH: Summer is quite hot, isn't it?
+AL: I prefer autumn.
+AH: Autumn is quite comfortable, isn't it?
+AL: Traveling is enjoyable, and the food is tasty.
+AH: Yes, it's easier to spend time in autumn compared to summer.
+AL: Summer's intensity makes autumn more appreciated.
+AH: That's true. However, autumn seems shorter recently.
+AL: Is summer getting longer? Is winter arriving earlier?
+AH: It feels that way.
+AL: Do you prefer autumn the most?
+AH: I also enjoy autumn!
+AL: Autumn, the season of good food!
+AH: I look forward to trying various dishes in autumn.
+AL: Warm udon, perhaps?
+AH: That sounds good.
+AL: What else should we eat?
+AH: Saury is also delicious in the fall.
+AL: I missed it last year.
+AH: What else is good?
+AL: I want to eat chestnuts.
+AH: Yes, chestnuts are great too.
+AL: Limited edition autumn Haagen-Dazs is good.
+AH: There are special items available only in autumn.
+AL: Potatoes, perhaps?
+AH: I would love to eat baked sweet potatoes.
+AL: Agreed.",2
+8,"AH: Hello!  
+AL: Hello!  
+AH: Do you like animals?  
+AL: Yes, I like dogs.  
+AH: Large dogs or small dogs?  
+AL: Both, especially blue-faced ones.  
+AH: They're cute.  
+AL: Yes, French Bulldogs and Pugs are.  
+AH: You seem well-informed.  
+AL: I read dog encyclopedias as a child.  
+AH: Dog encyclopedias exist?  
+AL: Yes, and cat encyclopedias too. Zoos have giraffe ones.  
+AH: I liked giraffes.  
+AL: They have long tongues.  
+AH: Really? Interesting.  
+AL: There’s a zoo in Chiba called Sayuri World.  
+AH: Is it big?  
+AL: It’s small but has many giraffes.  
+AH: I see.  
+AL: You can feed them there.  
+AH: What do they eat?  
+AL: Carrots and bananas.  
+AH: Bananas? Surprising.  
+AL: Maybe because they’re sweet.  
+AH: Giraffes have cute faces.  
+AL: Their eyes create a strong pressure to feed them.  
+AH: Must be intense due to their size.  
+AL: The children's screams echo there.  
+AH: That might be scary.  
+AL: Yes.",6
