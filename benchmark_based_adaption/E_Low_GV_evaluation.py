@@ -118,7 +118,11 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
 
-        if score_list[0] >= 0.9674999999999999 and score_list[1] >= 0.7738333333333334 and score_list[2] >= 0.769:
+        # if score_list[0] >= 0.9674999999999999 and score_list[1] >= 0.7738333333333334 and score_list[2] >= 0.769:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return dialogue, try_number
+
+        if score_list[0] >= 1.0 and score_list[1] >= 0.8083952171003362 and score_list[2] >= 0.8108308669354513:
             print(f'evaluation end. The confidence scores are {score_list}')
             return dialogue, try_number
         else:
@@ -163,7 +167,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 8 <= i <= 10:
+            if 4 <= i <= 10:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -172,7 +176,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../test_interlocutor_dialogues/E_Low_GV_example_dialogues.csv'
 
-    output_csv_path = 'output_adapted_dialogues/E_Low_GV_HCD.csv'
+    output_csv_path = 'average_+1_std_aggregation_output_adapted_dialogues/E_Low_GV_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 
@@ -186,7 +190,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 6
+        index = 2
 
         for human_human_dialogue in human_human_dialogues:
 

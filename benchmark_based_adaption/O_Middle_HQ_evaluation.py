@@ -118,7 +118,13 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
 
-        if score_list[0] >= 0.9674999999999999 and score_list[1] >= 0.7738333333333334 and score_list[2] >= 0.769:
+        # average aggregation
+        # if score_list[0] >= 0.9674999999999999 and score_list[1] >= 0.7738333333333334 and score_list[2] >= 0.769:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return dialogue, try_number
+
+        # average +1 std aggregation
+        if score_list[0] >= 1.0 and score_list[1] >= 0.8083952171003362 and score_list[2] >= 0.8108308669354513:
             print(f'evaluation end. The confidence scores are {score_list}')
             return dialogue, try_number
         else:
@@ -172,7 +178,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../test_interlocutor_dialogues/O_Middle_HQ_example_dialogues.csv'
 
-    output_csv_path = 'output_adapted_dialogues/O_Middle_HQ_HCD.csv'
+    output_csv_path = 'average_+1_std_aggregation_output_adapted_dialogues/O_Middle_HQ_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 

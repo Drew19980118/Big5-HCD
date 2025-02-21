@@ -1,0 +1,263 @@
+Index,Dialogue,Try_Number
+1,"HF: Hello.
+GL: Hello.
+HF: Plans today?
+GL: Shopping this afternoon.
+HF: What buy?
+GL: Meals, expiring coupons.
+HF: Dinner?
+GL: Lunch or takeout dinner.
+HF: What eat?
+GL: Lunch: yakiniku. Dinner: gyudon.
+HF: Solo yakiniku often.
+GL: Solo BBQ?
+HF: Yes.
+GL: Only chain stores nearby.
+HF: It’s a chain.
+GL: Name?
+HF: Yakiniku Like.
+GL: Check it out.
+HF: Set around 600 yen.
+GL: One plate?
+HF: Set: rice, 100g meat, soup, kimchi.
+GL: Cheap.
+HF: Free rice refills.
+GL: Multiple bowls.
+HF: Toppings available.
+GL: Side dishes?
+HF: Not sure.
+GL: Wish I could go.
+HF: Weekdays less crowded. Visit.
+GL: I'll try it.",10
+2,"HF: Hello  
+GL: Hello.  
+HF: What part-time jobs have you done so far?  
+GL: Customer service, computer work, and event-related tasks.  
+HF: Was the customer service job in the food and beverage industry?  
+GL: Yes, for takeout.  
+HF: What food did you work with?  
+GL: Omurice.  
+HF: Did you ever get staff meals?  
+GL: Yes, if there were leftovers.  
+HF: What kind of computer work did you do?  
+GL: Call center.  
+HF: I work at a call center too.  
+GL: Really? I'm not very suited for it.  
+HF: Same here. It’s straightforward but hard to do continuously.  
+GL: Yes, losing concentration is problematic.  
+HF: How long have you been doing it?  
+GL: About two years.  
+HF: Quite a long time. Is it outbound or inbound calls?  
+GL: Mostly inbound.  
+HF: Call centers have a high turnover rate, right?  
+GL: Yes, but I had supportive colleagues.  
+HF: The workplace environment is crucial.  
+GL: Agreed. I've been influenced by those around me in every job.  
+HF: Are the event-related jobs one-time events?  
+GL: Yes, usually around the end of the year.  
+HF: That sounds interesting. I'll look into it.  
+GL: Seasonal jobs are well-paid and straightforward. Check them out.",6
+3,"HF: Good evening!
+GH: Good evening!
+HF: How did you spend your day today?
+GH: I was out all day today.
+HF: Were you shopping?
+GH: Yes, I went to the 100-yen shop and the bank.
+HF: What did you buy at the 100-yen shop?
+GH: Storage items and daily necessities.
+HF: Sounds useful.
+GH: Yes, storage cases are practical.
+HF: Have you bought anything else recently?
+GH: Recently, I bought Blu-ray playback software. It was expensive.
+HF: Do you use it to watch Blu-rays on your computer?
+GH: Yes.
+HF: Do you use any subscription services like Netflix?
+GH: I use Amazon Prime.
+HF: Have you watched any movies lately?
+GH: I watched 007.
+HF: Is it a movie?
+GH: Yes, it's an overseas movie about a spy.
+HF: Interesting. I'll check it out.
+GH: What kind of movies do you like?
+HF: I often watch dramas.
+GH: Do you prefer Japanese dramas?
+HF: Yes.
+GH: They are very engaging.",5
+4,"HF: Good evening.  
+GH: Good evening. How can I help you?  
+HF: Do you have any hobbies?  
+GH: Gardening.  
+HF: What are you growing?  
+GH: Passion fruit.  
+HF: When will it be ready to harvest?  
+GH: By midsummer if planted at the start of summer.  
+HF: I'll look into it.  
+GH: It's easy to grow.  
+HF: Are you growing anything else?  
+GH: Basil and cherry tomatoes.  
+HF: For limited space?  
+GH: Yes, space is limited.  
+HF: Larger tomatoes need more space.  
+GH: Correct. A farm would be ideal.  
+HF: Do you want to farm?  
+GH: As a hobby.  
+HF: Hobbies are enjoyable.  
+GH: Fresh vegetables are rewarding.  
+HF: I don't want to be a soccer player.  
+GH: Watching is enjoyable.  
+HF: True, but I’m less active now.  
+GH: Starting new activities can be tough.  
+HF: I’ll focus on what I can manage.  
+GH: That’s practical.",9
+5,"HF: Good evening.
+GH: Good evening.
+HF: What is your favorite food?
+GH: Eggs.
+HF: Eggs are great! How do you like them?
+GH: Omurice.
+HF: Omurice sounds great! Ketchup or demi-glace sauce?
+GH: Demi-glace.
+HF: I like the omurice at Gusto.
+GH: Preference noted. I prefer demi-glace.
+HF: Demi-glace sauce too.
+GH: Understood. I'm hungry now.
+HF: Do you have a favorite sushi topping?
+GH: Tuna. It's a classic.
+HF: Tuna is great.
+GH: What do you like?
+HF: I like salmon.
+GH: Noted.
+HF: It's delicious. What do you order first?
+GH: Negitoro.
+HF: I will eat about two plates of negitoro.
+GH: It's delicious. Sometimes I have fatty tuna.
+HF: Noted. I went to Sushiro today.
+GH: Sounds good. I haven't been there in a while.
+HF: Do you have a favorite sushi chain?
+GH: Sushiro.
+HF: Kura Sushi is great for kids.
+GH: Recently, I get takeout.
+HF: Either way, it's delicious.
+GH: Understood.",6
+6,"HF: Good evening.
+GH: Good evening.
+HF: Have you traveled recently?
+GH: Not recently.
+HF: Which place did you visit last?
+GH: Kyushu.
+HF: Where in Kyushu?
+GH: Fukuoka to Oita.
+HF: How many nights did you stay?
+GH: Five nights.
+HF: Did you manage to explore a lot?
+GH: Yes, we explored a lot with my family.
+HF: Any other trips that left an impression?
+GH: Tokyo.
+HF: Did you visit Disney?
+GH: Yes.
+HF: Land or Sea?
+GH: Both.
+HF: Which did you prefer?
+GH: Land, because the child liked it.
+HF: I prefer the scenery at Sea.
+GH: Fireworks at DisneySea are great.
+HF: I'd like to visit the real Italian city it’s modeled after.
+GH: Authentic Disney is admirable.
+HF: It seems quite large.
+GH: Yes, it is.
+HF: My friend took five days to explore it all.
+GH: It's really spacious.
+HF: I want to save money and visit as a student.
+GH: Good plan.",3
+7,"HF: Good evening.
+
+GQ: Good evening.
+
+HF: How was your day today?
+
+GQ: I worked part-time and did housework.
+
+HF: I see. I didn't have my part-time job today, so I was studying.
+
+GQ: Are you a student?
+
+HF: Yes, I am.
+
+GQ: Understood. I only studied before tests.
+
+HF: Thanks. The company where I got a job told me to study.
+
+GQ: You already have a job offer. Congratulations.
+
+HF: Thank you. Next week is the unofficial job offer ceremony.
+
+GQ: Understood. The future looks bright.
+
+HF: Thanks. I'm half excited, half anxious.
+
+GQ: Is your job in your hometown?
+
+HF: My assignment will be decided at the beginning of the year, but I think it will likely be in my hometown. I hope so.
+
+GQ: Is there a possibility of a transfer?
+
+HF: Yes, there is a possibility of being transferred. I love my hometown, so I don’t want to leave.
+
+GQ: Noted.
+
+HF: It’s tough not being able to meet friends as much as family, so I’m hoping to be assigned to my hometown.
+
+GQ: Understood. You have many friends.
+
+HF: From next year, I will become a working adult, so I think I need to work hard with a sense of responsibility.
+
+GQ: Friendship and romance are also important in life. Enjoy everything.
+
+HF: Yes, I want to experience both fun and tough times in my twenties and become stronger.
+
+GQ: Have you experienced any hardships yet?
+
+HF: There may be competitions in romance, entrance exams, and club activities, but perhaps I haven’t had truly painful experiences from the bottom of my heart.
+
+GQ: That is fortunate.
+
+HF: I see. My mother often tells me the same thing, that in life, you never know if something good or bad will happen, so I want to take everything positively.
+
+GQ: Agreed. Cherish that idea.
+
+HF: Yes! I will make it my motto!
+
+GQ: Your motto is correct.
+
+HF: Thank you!",5
+8,"HF: Good evening!  
+GQ: Good evening.  
+HF: What's your most memorable travel destination?  
+GQ: Hokkaido.  
+HF: Which city did you visit there?  
+GQ: Various places.  
+HF: Did you go to Hakodate?  
+GQ: Yes, a long time ago.  
+HF: The night view there looks beautiful in photos.  
+GQ: I vaguely remember it.  
+HF: What other places did you visit?  
+GQ: I saw a wild fox. It was cute.  
+HF: That's rare! I've seen wild deer but not foxes.  
+GQ: I saw deer too. The snow for skiing was smoother.  
+HF: How was it different?  
+GQ: Very smooth.  
+HF: Do you like winter sports?  
+GQ: I used to ski.  
+HF: I enjoy winter, but I'm not good with the cold.  
+GQ: I was born in winter and love it.  
+HF: Me too! I like the events like birthdays and Christmas.  
+GQ: Christmas is nice.  
+HF: I don't get many presents now, though.  
+GQ: You give presents, right?  
+HF: Yes, I gave one last year.  
+GQ: Have a good Christmas.  
+HF: Thank you! Time flies!  
+GQ: I will be Santa for the kids again.  
+HF: I hope to have a warm family too.  
+GQ: You will.  
+HF: Thank you.",5
