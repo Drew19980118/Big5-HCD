@@ -1,0 +1,209 @@
+Index,Dialogue,Try_Number
+1,"AX: Good evening.
+AN: Good evening. How can I assist you today?
+AX: Do you drink alcohol often?
+AN: Yes, I do. How about you?
+AX: Occasionally. I recently found an interesting bar.
+AN: Please describe it.
+AX: The patrons were mostly elderly, in their 70s or older.
+AN: That's unusual.
+AX: Their conversations were noteworthy. One woman needed stitches after a fall.
+AN: That sounds serious. Is she okay now?
+AX: Yes, but it was concerning.
+AN: Falls can be dangerous at that age.
+AX: The bartender seemed young compared to the patrons.
+AN: Interesting observation.
+AX: It was. I was cautious when I left.
+AN: Safety is important.
+AX: We need to be careful as we get older.
+AN: Definitely. My husband once broke a tooth while drunk.
+AX: That's risky. Be careful.
+AN: We will. Thank you.",65
+2,"AX: Thanks for your efforts. Excited to collaborate with you.  
+AN: Thank you for your hard work. Please handle it properly.  
+AX: What kind of alcohol do you like?  
+AN: Beer and wine.  
+AX: I enjoy standing wine bars.  
+AN: I haven't been drinking outside much lately.  
+AX: Since moving to Osaka, I haven't either. Only went twice to a unique bar.  
+AN: Unusual to find such bars?  
+AX: I went back to check it again.  
+AN: An unexpected second visit?  
+AX: It piqued my curiosity, so I went again.  
+AN: Anything interesting the second time?  
+AX: Same type of customers. Seems to attract regulars.  
+AN: A bar for older regulars?  
+AX: It felt odd since it was my first bar visit in Osaka in a while.  
+AN: Don't be discouraged, many great bars are out there.  
+AX: Really? Hard to believe.  
+AN: Osaka has fantastic spots. Kyoto has great bars too.  
+AX: Kyoto has a unique vibe.  
+AN: Many bars with a great atmosphere. A whiskey bar in Kyoto was amazing.  
+AX: Sounds authentic. I'd love to visit.  
+AN: Visit if you get the chance.  
+AX: I plan to explore more. Haven't been to Kyoto much.  
+AN: COVID-19 made going out difficult.  
+AX: Yes. Most shops were closed, didn’t feel like going out.  
+AN: Most stores had their shutters down.  
+AX: Yeah. Recently felt like going out, but with cases rising, it's tricky.  
+AN: Things seemed to get back to normal.  
+AX: That's right. Drinking at home is more common now.  
+AN: Same here. Hopefully, daily life returns soon.",4
+3,"AX: Good evening. Thank you.
+BG: Good evening. The equipment from Kamakura Seisakusho is expensive.
+AX: It looks heavy.
+BG: Yes, it is.
+AX: Understood. Can I change the topic?
+BG: Yes.
+AX: Any recent interviews at work?
+BG: No.
+AX: I interviewed someone funny once.
+BG: Tell me more.
+AX: She was 27. Her most enjoyable job was being a shrine maiden.
+BG: Interesting.
+AX: Yes. Something unusual happened then.
+BG: What was it?
+AX: Snot was dripping from her nose.
+BG: Why?
+AX: I didn’t ask.
+BG: Noted.
+AX: She wanted to continue as a shrine maiden.
+BG: Why apply here?
+AX: Shrine maidens retire at 26.
+BG: Outcome?
+AX: Another was hired. Addressed through sales.
+BG: Understood.",7
+4,"AX: Good evening. Thanks in advance.
+BG: Good evening. Are you afraid of anything?
+AX: I try to be mindful of my words.
+BG: I mean like ghosts or spooky stories.
+AX: Oh, those? Is your sister afraid of them?
+BG: No, but your language is fine.
+AX: In Hakodate, people were influenced by Aomori culture.
+BG: Like a religion?
+AX: No, it’s about Itako. Are you concerned about that?
+BG: Itako... That's scary. I get frightened easily.
+AX: It's better not to be too curious.
+BG: I'm more scared of the darkness after those stories.
+AX: Yes, it’s unsettling. Such professionals can be intimidating.
+BG: Have you met such people? Were you okay?
+AX: Some people saw things and got scared; they even went to the hospital.
+BG: That seems like a different kind of fear. It's unfamiliar to me.
+AX: You can avoid it by being mindful of what you see and hear.
+BG: What do you mean?
+AX: Watching negative news can make you feel down.
+BG: Yes, it does.
+AX: News about rising prices and uncertainty can be really depressing.
+BG: I stopped watching the news because it made me anxious.
+AX: It's important to be cautious about what we take in daily.
+BG: Understood.
+AX: No problem. Information comes in like push notifications nowadays.
+BG: There's so much I don't want to see that I avoid TV.
+AX: Same here. We used to choose our own books and things. I worry about the kids too.
+BG: I feel uneasy about a world where everything is online. We need balance.
+AX: That's right. If you get tired eyes from the screen, it’s not good.
+BG: Got it.",14
+5,"AX: Good evening. Ready to start working together?
+BG: Good evening. Ready.
+AX: Have we talked about AI before?
+BG: No, we haven't.
+AX: Understood. Do you use AI regularly?
+BG: No, I don't.
+AX: AI chatbots became common during COVID-19.
+BG: I use them often.
+AX: The ""Do you need help?"" feature is on many websites now.
+BG: Yes, it's common.
+AX: It was bad in Japanese but has improved.
+BG: Still some issues.
+AX: They probably use cheaper systems.
+BG: Higher quality ones are better.
+AX: IBM's Watson is a common base for top chatbots.
+BG: Watson is reliable.
+AX: In Japan, Pepper-kun uses Watson inside.
+BG: Seen Pepper in restaurants. Expensive to implement.
+AX: Proper implementation costs millions.
+BG: Large-scale integration is costly.
+AX: They start with around 300 samples, using machine learning and deep learning.
+BG: These methods enhance accuracy.
+AX: Machine learning is like listening.
+BG: It mimics listening.
+AX: Deep learning differentiates contexts, like meanings of ""kiku.""
+BG: Context is key for understanding.
+AX: It processes binary data to make decisions.
+BG: Fundamental to AI.
+AX: AI has great potential.
+BG: Yes, it does.",9
+6,"AX: Good evening. Ready to work today?
+AG: Good evening. Yes, I am.
+AX: Many prefer cold things in summer. Do you?
+AG: Cold things can be harmful, so I avoid them. How about you?
+AX: I prefer cold things in summer and warm things in winter. Do you eat ice cream?
+AG: I try to avoid cold things but still eat ice cream. What about you?
+AX: I eat ice cream too. There's an AI Expo here.
+AG: Is it an event with various kinds of ice cream?
+AX: Yes, ice cream from all over Japan, after three years. Are you interested in such events?
+AG: It sounds interesting! Did you go?
+AX: I went today. They had waffle cones with soft serve.
+AG: Sounds good. But you can't eat too much, right?
+AX: Right. I could only eat one, but there were many options. Any favorites you'd have?
+AG: It's hard to choose just one. Yamanashi's fruit sherbets sound nice.
+AX: Exactly. They had one with mandarin oranges and whipped ice cream.
+AG: That sounds unique. What else did they have?
+AX: They also had macaron ice, which was popular. Think they'll sell it at convenience stores?
+AG: That would be convenient. I hope they do!",7
+7,"AX: Good evening. Thank you in advance.
+AG: Good evening. Ready to assist.
+AX: Do you prefer hot drinks?
+AG: Warm drinks. You?
+AX: Either is fine. Do you drink coffee?
+AG: Yes, 1 or 2 cups a day.
+AX: I see. I recently spoke with the CEO of Starbucks Japan.
+AG: Interesting.
+AX: He said 7-Eleven coffee is delicious.
+AG: Noted.
+AX: He mentioned empathy among staff is up to each person.
+AG: Was that helpful?
+AX: If someone has an accident nearby, the clerk might give a free drink.
+AG: Understood.
+AX: Yes, it seems so.
+AG: Noted.
+AX: A while ago, when I went to Starbucks, I was impressed by something.
+AG: What was it?
+AX: A young girl who could only communicate in writing, likely because she was deaf, was a store clerk.
+AG: Noted.
+AX: She had a menu with cute illustrations to point at.
+AG: Understood.
+AX: The surrounding clerks helped only when she was in trouble.
+AG: Noted.
+AX: As a customer, I felt grateful.
+AG: Positive customer service fosters a good environment.",11
+8,"AX: Good evening. Ready to start our conversation?
+AG: Good evening. How can I assist you today?
+AX: Have you noticed shaved ice being sold during summer?
+AG: Yes, I recently purchased some.
+AX: Did you enjoy eating it?
+AG: Yes, it was made with water from a renowned well.
+AX: What kind of shaved ice was it?
+AG: It had clear ice and homemade syrup from a cake shop.
+AX: That's interesting. There's a shaved ice shop nearby as well.
+AG: Have you visited it?
+AX: Not yet. It's from a dumpling shop.
+AG: What makes their shaved ice unique?
+AX: Shaved ice nowadays comes with various toppings.
+AG: I see. Go on.
+AX: It’s topped with three-colored dumplings.
+AG: That’s fitting for a dango shop.
+AX: Yes, it's unique and quite intriguing.
+AG: Is it like shiratama?
+AX: I like white dumplings, but this one has three colors.
+AG: Any other toppings included?
+AX: No, but they offer fluffy and creamy variations.
+AG: Influenced by Taiwanese shaved ice?
+AX: Exactly. Have you tried Taiwanese shaved ice?
+AG: I've seen it on TV but haven't tasted it. The mango flavor looks appealing.
+AX: The presentation is impressive.
+AG: Flavoring the ice itself is a novel idea.
+AX: They actually flavor the ice? That's new to me.
+AG: Yes, it keeps the ice fluffy and prevents it from melting quickly. I'd love to try it sometime.
+AX: Got it. Thanks for sharing that.
+AG: You're welcome.",13

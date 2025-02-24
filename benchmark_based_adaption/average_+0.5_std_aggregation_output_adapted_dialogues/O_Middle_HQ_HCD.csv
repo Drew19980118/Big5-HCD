@@ -1,0 +1,254 @@
+Index,Dialogue,Try_Number
+1,"HQ: Hello  
+GR: Hello  
+HQ: How would you spend 100,000 yen?  
+GR: I would use it to pay off my student loan debt.  
+HQ: Do you have debt?  
+GR: Yes, from a scholarship.  
+HQ: That must be tough.  
+GR: I want to repay it quickly.  
+HQ: Are there any scholarship exemptions?  
+GR: It could be unfair to those who have already paid.  
+HQ: Can you default on it?  
+GR: If I could, I wouldn't repay it.  
+HQ: Understood.  
+GR: I used benefits for my loan repayment.  
+HQ: I invested mine.  
+GR: Did it grow?  
+HQ: A little bit.  
+GR: That’s good.  
+HQ: Have you tried investing?  
+GR: No, I haven’t.  
+HQ: Are you interested?  
+GR: It seems risky.  
+HQ: Investments can lose value.  
+GR: I’ll study it after repaying my loan.  
+HQ: Planning to try it later?  
+GR: It might help grow my money.  
+HQ: That’s a good plan.  
+GR: They say to let money work for you.  
+HQ: Yes, that's true.  
+GR: Got it.",6
+2,"HQ: Good evening.
+GR: Good evening.
+
+HQ: What’s your ideal way to spend a holiday?
+GR: Traveling for two days and resting for one day.
+
+HQ: Traveling all three days can be exhausting.
+GR: Yes, better to spend the first day doing chores and relaxing.
+
+HQ: Makes sense. What's your ideal holiday?
+GR: I prefer a slow pace.
+
+HQ: You don't go out much?
+GR: Correct, I prefer staying in.
+
+HQ: What do you do at home?
+GR: I watch anime and cook.
+
+HQ: Cooking sounds detailed.
+GR: I don’t usually cook complex dishes for myself.
+
+HQ: More effort when cooking for others?
+GR: Yes, less room for mistakes.
+
+HQ: Understood.
+GR: I enjoy taking walks recently.
+
+HQ: The cooler weather is nice for that.
+GR: Yes, before it gets too cold.
+
+HQ: Winter makes it harder to go out.
+GR: Yes.
+
+HQ: I watch anime and dramas during winter.
+GR: I stay in the kotatsu and watch TV around New Year.
+
+HQ: Mainly visit shrines or shop New Year's sales.
+GR: I shop New Year’s sales online.
+
+HQ: Do you prefer online shopping?
+GR: Yes, especially for lucky bags.
+
+HQ: Understood.",6
+3,"HQ: Good evening.
+GR: Good evening. How can I assist you today?
+HQ: Have you ever felt like you've grown up?
+GR: Experiencing aging signs can prompt such feelings.
+HQ: My face is sagging, and it worries me.
+GR: It’s understandable to feel concerned about sagging.
+HQ: Is there any solution?
+GR: Dermatology clinics offer treatments.
+HQ: Are these treatments worth the money?
+GR: They can be effective but often come at a high cost.
+HQ: Yes, the cost is high.
+GR: Regular visits can be hard due to the cost.
+HQ: I have considered a thread lift.
+GR: Have you tried it?
+HQ: No, it costs 100,000 yen and lasts six months.
+GR: That is quite an investment for a temporary result.
+HQ: Indeed, it's impractical.
+GR: Are there other treatments you are considering?
+HQ: HIFU is an option but also costs 100,000 yen.
+GR: How long does HIFU last?
+HQ: About six months.
+GR: That’s another high-cost short-term solution.
+HQ: Beauty clinics have high profit margins.
+GR: More affordable options would make treatments accessible.
+HQ: In South Korea, prices are much lower.
+GR: South Korea’s advanced beauty industry sets a benchmark.
+HQ: That's enviable.
+GR: More competitive pricing in Japan would certainly help.
+HQ: Agreed.
+GR: Hopefully, prices will decrease soon.",15
+4,"HQ: Good evening.  
+GR: Good evening.  
+HQ: Would you prefer a low-paying enjoyable job or a high-paying boring job?  
+GR: Is the salary high?  
+HQ: Why is that?  
+GR: Without money, various things become difficult.  
+HQ: Understood. But wouldn't a boring job five days a week be tough?  
+GR: Receiving money would help.  
+HQ: Money is very important, isn't it?  
+GR: Yes, a job that's only enjoyable can sometimes exploit one's motivation.  
+HQ: It's a current issue.  
+GR: Making fun things a hobby is a good idea.  
+HQ: That's true.  
+GR: Which do you prefer, <HQ>?  
+HQ: If I can sustain myself, I'd prefer a fun job.  
+GR: Even with a lower salary?  
+HQ: Yes, lack of enjoyment would lead to feeling down.  
+GR: That may indeed be true.  
+HQ: If I could earn significantly more, I might reconsider.  
+GR: I might regret either choice.  
+HQ: Do you regret not enjoying things?  
+GR: If just having a job becomes crucial, things might change.  
+HQ: Exactly.  
+GR: Such as illness or an economic downturn.  
+HQ: Another financial crisis like the Lehman Shock is indeed scary.  
+GR: Restructuring is concerning.  
+HQ: We need to build technical skills and abilities.  
+GR: Connections are also essential.  
+HQ: They certainly are.  
+GR: Absolutely.",1
+5,"HQ: Good evening.
+GR: Good evening.
+HQ: I had a tough day because of a hangover.
+GR: Did you drink yesterday?
+HQ: Yes, I drank quite a bit after a long time.
+GR: Hangovers can be challenging, can't they?
+HQ: Yes, I lost my entire morning. It’s frustrating because it’s the last day of the three-day weekend.
+GR: That's unfortunate.
+HQ: Yes, I feel like I've lost the day.
+GR: I recommend trying the amino acid supplement from Ajinomoto to prevent hangovers.
+HQ: Is there such a thing?
+GR: Yes, it’s available and effective.
+HQ: I’ll check it out.
+GR: Please do.
+HQ: I used to not get hangovers, but now I feel my age.
+GR: Has your liver function weakened?
+HQ: Yes, my numbers are getting worse.
+GR: In that case, it might be wise to avoid drinking.
+HQ: I thought so too, but I ended up drinking yesterday.
+GR: Was there a specific reason?
+HQ: No, I just found a drink I liked at the store.
+GR: That would tempt anyone.
+HQ: Yes, I ended up drinking a lot.
+GR: What kind of alcohol was it?
+HQ: It was sake.
+GR: Drinking a lot of sake can be tough.
+HQ: Yes, it was not a good way to drink.
+GR: Are you feeling better now?
+HQ: Yes, thanks to your advice.
+GR: I'm glad to hear that.",2
+6,"HQ: Good evening.  
+GR: Good evening.  
+HQ: Do you have a boyfriend or girlfriend?  
+GR: I haven't been here for about a year.  
+HQ: Noted. What's more important to you, appearance or personality?  
+GR: Appearance initially.  
+HQ: So, an unattractive appearance would be a deal-breaker?  
+GR: Yes, definitely.  
+HQ: Changing clothes and hairstyles is manageable, but other aspects are tough, right?  
+GR: Yes, body shape can't be altered quickly.  
+HQ: I once dated a slightly overweight girl.  
+GR: Did she lose weight?  
+HQ: No, we ended things after a year.  
+GR: Losing weight is challenging.  
+HQ: It was harder with my job at a food company.  
+GR: That complicates weight management.  
+HQ: We could have adjusted our meal frequency.  
+GR: Did her weight lead to the breakup?  
+HQ: Partly, yes.  
+GR: Attraction plays a role.  
+HQ: Yes, I worried about more weight gain.  
+GR: Weight loss gets harder with age.  
+HQ: It affected her appeal.  
+GR: I prefer well-groomed hair and beards.  
+HQ: Some have very thick beards.  
+GR: Hair removal could help.  
+HQ: True, it's better than shaving.  
+GR: Exactly.  
+HQ: Beard hair removal is painful.  
+GR: It's worth the effort.",4
+7,"HQ: Hello.
+GR: Hello. How can I assist you today?
+HQ: Are you going on a trip?
+GR: I don't travel often, but trips seem cheaper now.
+HQ: The government might be launching a new campaign.
+GR: Is it different from the GOTO Travel program?
+HQ: I'm not sure yet, but it could be different.
+GR: Did you use the GOTO Travel campaign?
+HQ: I stayed at a hotel during the campaign.
+GR: Was it cheaper?
+HQ: Yes, around 2000 yen per night.
+GR: That's cheap.
+HQ: I could only use it once. I wish I had used it more.
+GR: I plan to use it this time.
+HQ: I might go to a hot spring.
+GR: Hot springs are nice, especially now that it's getting colder.
+HQ: It's the perfect season for it.
+GR: Autumn weather is unstable, so you might take an open-air bath in the rain.
+HQ: That could be interesting.
+GR: Could outdoor hot springs be closed in heavy rain?
+HQ: They're usually open on drizzly days. Heavy rain might be different.
+GR: The water might get cold.
+HQ: Right.
+GR: Where would you go for a hot spring?
+HQ: I'd prefer a place focused on hot springs, not sightseeing.
+GR: A place with various hot springs would be better.
+HQ: There will probably be fewer people off the mainstream route.
+GR: What is an off-mainstream route?
+HQ: Every prefecture likely has one.
+GR: True.",4
+8,"HQ: Hello  
+GR: Hello  
+HQ: Do you drive?  
+GR: No license.  
+HQ: Do you want one?  
+GR: Not needed in Tokyo.  
+HQ: Understandable.  
+GR: Do you drive?  
+HQ: Have a license, don't drive much.  
+GR: Want a car?  
+HQ: Convenient, but costly.  
+GR: Useful for families.  
+HQ: Not a hobby for me.  
+GR: I'll wait for self-driving.  
+HQ: Prefer not driving yourself?  
+GR: Accidents are scary.  
+HQ: Accidents are a risk.  
+GR: Minor ones are okay, but not serious ones.  
+HQ: You'd be held responsible.  
+GR: Yes.  
+HQ: Car gets blamed, not the pedestrian.  
+GR: Dislike that.  
+HQ: It's unfair.  
+GR: Agreed.  
+HQ: Even if someone jumps in, we're blamed.  
+GR: Relatives might blame you.  
+HQ: Risk of PTSD.  
+GR: Impressive that people can drive.  
+HQ: They say you get used to it.  
+GR: I doubt that.",9

@@ -18,9 +18,11 @@ dialogue_dataset = load_dataset(
 )
 train_dialogue_dataset = dialogue_dataset['train']
 
-filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == 'AC')
+filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == 'DM')
 
-output_file = 'test_interlocutor_dialogues/O_Low_AC_example_dialogues.csv'
+last_two_dialogues = filtered_train_dialogue.select(range(len(filtered_train_dialogue) - 4, len(filtered_train_dialogue)))
+
+output_file = 'test_interlocutor_dialogues/A_High_DM_example_dialogues_backup.csv'
 
 lock = Lock()
 dialogue_count = 0  # Initialize the dialogue count
@@ -56,7 +58,7 @@ def llm_response(prompt):
 def process_dialogue(index):
     global dialogue_count  # Access the global counter
     utterances = []
-    for text in filtered_train_dialogue[index]['utterances']['text']:
+    for text in last_two_dialogues[index]['utterances']['text']:
         refined_prompt = f"Please translate the following sentence from Japanese into English '{text}'. If the sentence contains any sensitive contents, you are required to ignore them. Most Importantly! You are only allowed to output the translated sentence without any other information!!!"
         response = llm_response(refined_prompt)
         utterances.append(response)
@@ -81,4 +83,4 @@ def process_dialogue(index):
             df.to_csv(output_file, mode='a', header=False, index=False)
 
 with ThreadPoolExecutor(max_workers=1) as executor:
-    executor.map(process_dialogue, range(0, len(filtered_train_dialogue)))
+    executor.map(process_dialogue, range(0, len(last_two_dialogues)))
