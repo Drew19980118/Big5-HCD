@@ -1,0 +1,237 @@
+Index,Dialogue,Try_Number
+1,"BJ: Hello!
+BS: Hello!
+BJ: I'm looking for something new to try on days off. Any suggestions?
+BS: Recently, I've been visiting the library.
+BJ: Library! That sounds interesting.
+BS: There's a large library nearby.
+BJ: Do you enjoy reading?
+BS: Yes, I prefer paper books over digital ones.
+BJ: I haven't read a book in a while. Is there a library or bookstore near you?
+BS: Is there a library or bookstore near you?
+BJ: Neither of them are at the nearest station. What kinds of books do you read?
+BS: Lately, I've been reading practical books and self-help genres.
+BJ: I haven't read properly in years. Any book recommendations?
+BS: ""Tsumamimeshi"" helped me find cooking less of a hassle.
+BJ: I've never heard of ""Tsumamimeshi.""
+BS: It's by culinary researcher Ryuji. Do you know him?
+BJ: Yes, I watch his recipe videos often.
+BS: The book is by him. The recipes are quick and interesting.
+BJ: The one who cooks while getting drunk, right?
+BS: Yes, he drinks on YouTube but is more serious on TV.
+BJ: He's published a book. Sounds useful.
+BS: Yes, the recipes are quick and helpful for dinner.
+BJ: Is that book available in the library?
+BS: Yes, and there are many recipe books there too.
+BJ: It seems like a big place. I should visit the library again.
+BS: Yes, the library is a good idea. They also have magazines.
+BJ: It's free, right? A movie version of the library would be great too.
+BS: The library I go to also allows you to watch DVDs.
+BJ: I'll visit next time. Thanks for the suggestion.
+BS: Enjoy your visit.",4
+2,"BJ: Hello!
+BQ: Hello. How can I help you today?
+BJ: What do you do on your days off?
+BQ: I typically assist with entertainment suggestions.
+BJ: Do you recommend content from services like Netflix?
+BQ: Yes. U-NEXT has been popular recently.
+BJ: I am also subscribed to U-NEXT. Do you like movies?
+BQ: I can recommend popular movies.
+BJ: Have you watched anything on subscription services recently?
+BQ: ""20th Century Boys"" is a common choice.
+BJ: Oh, the live-action one?
+BQ: Yes, with Kenji.
+BJ: I saw it when it was first released. Was it interesting?
+BQ: Many viewers enjoyed it in theaters.
+BJ: It's nostalgic. Do users prefer Japanese movies over Western ones?
+BQ: Japanese movies are watched more often.
+BJ: U-NEXT is good for that. It has many Japanese movies.
+BQ: Yes, U-NEXT offers a large selection of Japanese films.
+BJ: It will be cheaper if you share with friends.
+BQ: Sharing with up to four people can reduce the cost.
+BJ: I think up to four people can share. The fee can be divided.
+BQ: That is cost-effective. U-NEXT also has magazines.
+BJ: Yes, including manga, though points are needed for them.
+BQ: Understood. Do you subscribe to other services?
+BJ: I have Netflix and Amazon.
+BQ: Many users also subscribe to those. Disney Plus is popular too.
+BJ: Disney Plus has interesting content lately.
+BQ: The short film of Baymax is well-received.
+BJ: Is there such a thing? I'd like to see it.
+BQ: I recommend it.",3
+3,"BJ: Hello!
+BQ: Hello.
+BJ: What is your favorite food?
+BQ: I like tonkatsu.
+BJ: Oh, I enjoy that too.
+BQ: Do you prefer fillet or loin?
+BJ: Is it the fin? What about you?
+BQ: I like roast.
+BJ: The loin is good and affordable, right?
+BQ: It feels substantial and like a good deal.
+BJ: What do you like to put on it?
+BQ: Sauce.
+BJ: That sounds great. A classic choice.
+BQ: What will you put on?
+BJ: I usually go with sauce, but lately, I've been enjoying it with salt too.
+BQ: Salt works well too. I like grilled meat with salt.
+BJ: I hadn't thought of that. Interesting.
+BQ: I usually eat yakiniku with sauce, but salt works well too.
+BJ: I've always had it with sauce.
+BQ: What do you order first at a yakiniku restaurant?
+BJ: Tongue.
+BQ: Me too. It's popular.
+BJ: I can't eat as many ribs as I used to.
+BQ: I understand. The fat can be heavy. I order chicken more often.
+BJ: That's true. Chicken is good. Also, organ meats.
+BQ: I haven't tried hormone dishes yet. Are they tasty?
+BJ: I like them, but it depends on the person.
+BQ: There are various types of hormones. Which do you like?
+BJ: Hearts and liver.
+BQ: Classic choices. I'm getting hungry now.",2
+4,"BJ: Good evening!
+BQ: Good evening.
+BJ: Did you have dinner?
+BQ: I had sushi from the supermarket.
+BJ: Sounds good.
+BQ: It was delicious. What did you eat?
+BJ: A Chinese rice bowl.
+BQ: Instant or from a restaurant?
+BJ: Instant. It wasn't tasty.
+BQ: That's unfortunate. Quail eggs on top are nice.
+BJ: I like quail eggs too. There were a few small ones.
+BQ: Convenience foods have variety.
+BJ: Yes, and quality has improved. Convenience stores are impressive.
+BQ: Their product development is advanced.
+BJ: Do you eat convenience store food often?
+BQ: Yes, on days off.
+BJ: It's tasty. I prefer Seven-Eleven.
+BQ: I also like Seven-Eleven. False bottoms in packaging are annoying.
+BJ: True, and prices have increased, haven't they?
+BQ: Yes, and sometimes the quantity decreases, but the price stays the same.
+BJ: Exactly. A fried chicken stick costs 180 yen now.
+BQ: That’s surprising. Was it cheaper before?
+BJ: Yes, about 100 yen when I was a student.
+BQ: Coffee prices have increased too, haven't they?
+BJ: Really? I didn't know.
+BQ: Yes, by about 10 yen. Convenience stores are expensive.
+BJ: Even so, people buy it.
+BQ: As long as it's affordable, it’s fine, but price increases are concerning.
+BJ: These price hikes are frustrating.
+BQ: That's true. Price reduction is unlikely soon.",3
+5,"BJ: Good evening!  
+BQ: Good evening.  
+BJ: What is the thing you want the most right now?  
+BQ: I'm undecided. Should it be a car?  
+BJ: Nice choice! Is there a specific type you want?  
+BQ: I'd like to ride in a sedan someday.  
+BJ: Having a car can be quite convenient.  
+BQ: Affirmative. Is there a car you would like to drive?  
+BJ: I would like to ride a Beetle Cabriolet someday.  
+BQ: The Beetle Cabriolet is a convertible.  
+BJ: It looks nice. I'd like to try riding it.  
+BQ: Understood. The appearance is appealing.  
+BJ: Yes, I don't understand things like fuel efficiency yet.  
+BQ: Modern cars generally have good fuel economy.  
+BJ: I see, it would be nice to ride it someday!  
+BQ: Affirmative. I'll make it my goal.  
+BJ: Sounds good.  
+BQ: What do you want the most?  
+BJ: Hmm, it's probably money.  
+BQ: Money is a versatile resource.  
+BJ: Actually, I'm thinking about getting married.  
+BQ: Understood. You'll need many things, correct?  
+BJ: Correct. It is difficult without money.  
+BQ: Are you referring to wedding expenses?  
+BJ: Yes, and living costs for two people.  
+BQ: Housing is a complex issue.  
+BJ: Indeed. Married people are amazing.  
+BQ: Affirmative. Married people are impressive.  
+BJ: You will meet a wonderful partner.  
+BQ: Understood. I hope you remain happy.",4
+6,"BJ: Hello!
+AU: Hello!
+BJ: What were you doing this morning?
+AU: Dropping off my daughter at cram school. You?
+BJ: Watched a movie.
+AU: Which movie?
+BJ: ""Forrest Gump"".
+AU: Famous movie, right?
+BJ: Yes. Watching classic movies lately.
+AU: Good idea with more time at home.
+BJ: I love movies. Do you watch them?
+AU: Watched a Netflix show about stigmatized properties.
+BJ: Horror? Was it scary?
+AU: Yes, true stories are scarier.
+BJ: I watched ""Juso"" on Netflix recently.
+AU: Haven't seen it. Was it interesting?
+BJ: Scariest I've seen. Not for children.
+AU: Too intense for kids?
+BJ: Is your child okay with scary movies?
+AU: No, they cling to me and say they're scared.
+BJ: Hard for little ones to watch.
+AU: I still like horror movies. Any other recommendations?
+BJ: ""Orphan"". Not horror, but scary.
+AU: Psychological fear?
+BJ: Very intriguing. Watched it three times.
+AU: Sounds interesting!
+BJ: Highly recommend it. Thanks for chatting!
+AU: Thank you! I'll watch it.",4
+7,"BJ: Hello!  
+AU: Hello!  
+BJ: Do you have anyone you respect?  
+AU: No. Do you?  
+BJ: Ichiro.  
+AU: Do you like baseball?  
+BJ: Did you play baseball in elementary school?  
+AU: I'm not good at sports and don't understand baseball. Do you watch games?  
+BJ: I watch broadcasts sometimes.  
+AU: My father watched baseball a lot, so I couldn't watch my shows.  
+BJ: That happens. Do you like TV?  
+AU: I prefer videos.  
+BJ: Like YouTube?  
+AU: Netflix and YouTube. My kids watch a lot during summer vacation.  
+BJ: Once you start, it's hard to stop, right?  
+AU: Yes, especially with series. Do you watch TV dramas?  
+BJ: I watch dramas on Netflix.  
+AU: I enjoy American TV shows. Any recommendations?  
+BJ: Do you know ""Fuller House""?  
+AU: I've heard the name. What's it about?  
+BJ: It's a modern version of ""Full House,"" a home comedy.  
+AU: I liked ""Full House"" as a kid.  
+BJ: The modern version must be interesting.  
+AU: It is. The children have grown up. It's nostalgic.  
+BJ: I'm watching a Korean drama now.  
+AU: People say Korean dramas are addictive. Any recommendations?  
+BJ: ""Lawyer Woo Young-woo"" is great!  
+AU: Is it a series? I'll check it out.",3
+8,"BJ: Hello!
+BL: Hello. How can I assist you today?
+BJ: Are there any areas where you struggle?
+BL: Are you referring to food?
+BJ: I'm talking about anything in general.
+BL: In that case, would it be something like a cockroach?
+BJ: I can't deal with insects. Because of that, I avoid eating shrimp.
+BL: Understood.
+BJ: It's quite unpleasant.
+BL: Cockroaches have been around for a long time, so it's a common issue.
+BJ: By the way, are there any foods you don't like?
+BL: I don't prefer raisins.
+BJ: Is it because of the appearance or the taste?
+BL: It's the texture.
+BJ: Many people feel the same way, right?
+BL: Many people around me can eat them without issues.
+BJ: Really? My younger sister hates raisins and used to pick them out of raisin bread, which would get her in trouble.
+BL: That bread can be difficult for those who dislike raisins.
+BJ: Oh, I haven't tried raisin butter much. How about rum raisin ice cream?
+BL: I wouldn't choose that either.
+BJ: I can easily live without eating raisins.
+BL: It seems beneficial that there aren't many opportunities to eat them.
+BJ: Many people understand. I find it hard to explain why I dislike shrimp since most people enjoy it.
+BL: There are individuals who dislike shrimp for various reasons.
+BJ: Really? What kind of reasons?
+BL: Some say they don't like the taste.
+BJ: That's unusual. I enjoy the taste.
+BL: Preferences vary among people.
+BJ: Yes, the human sense of taste is fascinating.
+BL: Indeed, the wonders of taste are intriguing.",2

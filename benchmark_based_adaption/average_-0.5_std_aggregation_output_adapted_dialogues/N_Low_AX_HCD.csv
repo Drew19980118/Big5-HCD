@@ -1,0 +1,253 @@
+Index,Dialogue,Try_Number
+1,"AX: Good evening. Nice to meet you.  
+AN: Good evening. Nice to meet you.  
+
+AX: Do you drink alcohol often?  
+AN: Yes, I do. How about you?  
+
+AX: Occasionally. I discovered an interesting bar recently.  
+AN: What kind of bar is it?  
+
+AX: The clientele was unique.  
+AN: Who were the customers?  
+
+AX: Mostly people in their 70s or older.  
+AN: An elderly crowd!  
+
+AX: Both men and women with fascinating conversations.  
+AN: What were they discussing?  
+
+AX: One mentioned falling and needing seven stitches.  
+AN: A serious injury!  
+
+AX: The entrance wasn't high, so I was surprised.  
+AN: Safe for them to be drinking? Was it a man or a woman?  
+
+AX: A grandmother.  
+AN: She should rest at home!  
+
+AX: The bar is in Higashi-Mikuni, and the bartender is a woman in her 40s.  
+AN: Higashi-Mikuni has many interesting places.  
+
+AX: Yes, on my way back from work. The bartender seemed younger compared to the clientele.  
+AN: Surrounded by 70-year-olds, someone in their 40s would appear young.  
+
+AX: It didn't feel lively to me.  
+AN: Too subdued?  
+
+AX: For a moment, yes. I was careful when leaving.  
+AN: Injuries can be serious.  
+
+AX: We're becoming part of the older generation.  
+AN: My husband broke his front tooth when drunk once.  
+
+AX: That's dangerous. Be careful.  
+AN: Yes, let's stay cautious.",2
+2,"AX: Thank you for your hard work. I look forward to working with you.
+AN: Thank you for your hard work today. Please take care of it!
+AX: What kind of alcohol do you like?
+AN: Beer and wine.
+AX: I enjoy standing wine bars.
+AN: I haven't been drinking outside lately.
+AX: I haven't been able to go much since coming to Osaka. Maybe only twice to a unique bar.
+AN: Do you often encounter unique bars?
+AX: No, I went back to check it out.
+AN: An unexpected second visit!
+AX: It bothered me, so I went again.
+AN: Was it interesting the second time?
+AX: The customers didn't change. It's that kind of place.
+AN: It must be a bar for regulars.
+AX: It felt odd since it was my first bar in Osaka for a while.
+AN: There are many better bars. Don't be discouraged!
+AX: Is that so? It still feels unreal.
+AN: Osaka has good places, and Kyoto has wonderful bars.
+AX: Kyoto has a great atmosphere, doesn't it?
+AN: Yes, many bars with a great atmosphere. A bar with a wide selection of whiskey was the best.
+AX: It sounds authentic. I'd like to visit.
+AN: Please do if you get the chance.
+AX: Sure, I'll try exploring. I haven't been to Kyoto much.
+AN: COVID-19 made going out difficult, right?
+AX: Yes. Most shops were closed in the first year.
+AN: Almost all the stores were closed.
+AX: Yeah. Recently, I felt like going, but with cases rising, it's tricky.
+AN: It felt like just when business hours normalized, didn't it?
+AX: That's right. Drinking at home is more common.
+AN: Same here. I hope daily life returns soon.",3
+3,"AX: Good evening. Thanks in advance.
+BG: Good evening. Equipment from Kamakura Seisakusho is expensive.
+AX: It looks heavy to carry.
+BG: Carrying it on your back would be exhausting.
+AX: True. Can I switch topics?
+BG: Sure, go ahead.
+AX: Have you had any recent interviews or meetings with staff?
+BG: Not recently. I have memories from the past.
+AX: I interviewed someone who made me laugh.
+BG: What happened?
+AX: I asked a 27-year-old woman about her most enjoyable job.
+BG: Your older brother was the interviewer?
+AX: Yes, I attended just in case. Do you know her answer?
+BG: What was it?
+AX: She said being a shrine maiden.
+BG: Unexpected.
+AX: Yes, then something strange happened.
+BG: What happened?
+AX: Her face was covered in snot, dripping to her mouth.
+BG: Why?
+AX: I don't know. I couldn't ask or look at her face.
+BG: Did she notice?
+AX: Not sure. I asked what job she'd like next. She said shrine maiden again.
+BG: Why apply to your brother's company?
+AX: Shrine maidens retire at 26.
+BG: So she can't be a shrine maiden anymore. Was she hired?
+AX: I declined her. We hired someone else. Informed the sales department.
+BG: Understood. Thank you for sharing.",7
+4,"AX: Good evening.  
+BG: Good evening. Any fears you'd like to share?  
+AX: I've been careful with my words recently.  
+BG: I was thinking more about ghost stories, especially since it's summer.  
+AX: Oh, like that? Are you scared of those?  
+BG: Not really. Your language is fine. I should be careful too.  
+AX: When I lived in Hakodate, people were influenced by parents from Aomori.  
+BG: Is it religious?  
+AX: No, it was a job called Itako. Are you concerned?  
+BG: Itako? Sounds frightening.  
+AX: It's better not to be too scared. Curiosity can be harmful.  
+BG: I'm not curious. It's the darkness after such stories that scares me.  
+AX: It is unpleasant. People in such jobs can be scary.  
+BG: I've never met such a person. Were you okay?  
+AX: Yes. Some people saw things and were scared, and a son was hospitalized.  
+BG: That seems like an unusual fear. It's unknown to me too.  
+AX: You can prevent it by being mindful of what you see and hear daily.  
+BG: What do you mean?  
+AX: Watching news daily can make you feel down, right?  
+BG: Yes.  
+AX: Constant news about rising prices can be depressing.  
+BG: I stopped watching the news because it made me anxious.  
+AX: It's important to be cautious about what we incorporate into our daily lives.  
+BG: Thanks for explaining.  
+AX: No problem. Information keeps coming in like push notifications nowadays.  
+BG: True. There's so much I don't want to see that I've come to dislike TV.  
+AX: Me too. Previously, I could choose books myself. I'm worried about the kids too.  
+BG: The online world can be overwhelming. We need a good balance.  
+AX: Exactly. Staring at screens can be tiring for the eyes.  
+BG: I agree. Hazuki Loupe helps with that.",8
+5,"AX: Good evening. I look forward to working with you.
+BG: Good evening. How can I assist you today?
+AX: Have we discussed AI before?
+BG: We haven't covered that topic.
+AX: Do you use AI often?
+BG: Not frequently.
+AX: During the COVID-19 pandemic, chatbots began using AI more extensively.
+BG: I've used AI-based inquiry desks.
+AX: Yes, many websites now ask, ""Do you need any help?"" automatically.
+BG: It's useful to open them, despite the occasional annoyance.
+AX: They've improved their language processing significantly.
+BG: But they're still not very helpful in tough situations.
+AX: That might be due to basic versions being used.
+BG: High-quality ones are often from reputable companies.
+AX: Most advanced systems use IBM's Watson.
+BG: Watson is a reliable choice.
+AX: In Japan, Pepper robots utilize Watson's AI.
+BG: I have seen Pepper in some restaurants.
+AX: The robot's exterior is just a shell; inside, it runs on Watson.
+BG: Implementing such technology is expensive.
+AX: Proper implementation costs millions.
+BG: That's a significant investment.
+AX: They enhance accuracy through extensive trials and learning processes.
+BG: So, it improves over time.
+AX: Yes, much like how humans learn contextually.
+BG: Understood.
+AX: AI differentiates similar words based on context through deep learning.
+BG: That's quite advanced.
+AX: It analyzes vast data sets to make accurate judgments.
+BG: AI is indeed a fascinating field.",3
+6,"AX: Good evening. I look forward to working with you today.
+AG: Good evening! Likewise, I look forward to working with you.
+AX: Speaking of summer, many people prefer to have cold things; how about you?
+AG: I've heard that cold things can harm your body, so I try to avoid them as much as possible.
+AX: Are there many warm things you prefer?
+AG: I usually drink soup or room-temperature tea.
+AX: I see. So does that mean it doesn't really matter whether it's summer or winter?
+AG: Yes, indeed. How about you?
+AX: In the summer, I can have cold things and in the winter, I have warm things.
+AG: Do you also eat ice cream?
+AX: Yes, I will eat ice cream too. Can't you eat ice cream?
+AG: No, even though I try to cut back on cold things, I still end up wanting to eat ice cream. It's delicious, isn't it?
+AX: That's right. Speaking of which, the AI Expo is currently being held in the area where I live.
+AG: Does ""Ice Expo"" mean it's an event where various kinds of ice cream are gathered?
+AX: That's right. It seems they have gathered from all over Japan, and it's the first time in three years.
+AG: Amazing! From all over Japan!? Are you going there?
+AX: Actually, I went there today.
+AG: Oh! How timely! How was it?
+AX: There were things like freshly baked waffle cones with buns and soft serve on top.
+AG: That sounds luxurious! But you can't really walk around eating ice cream that much, right?
+AX: I could only eat one. But there were various other things too.
+AG: When there are so many delicious-looking options, it's hard to narrow it down to just one!
+AX: That's right. In Yamanashi, they had various fruit sherbet ice creams.
+AG: Yamanashi has delicious fruits like grapes, pears, and peaches. Just imagining them makes my mouth water!
+AX: There was also one covered entirely with mandarin oranges and had whipped ice cream inside.
+AG: That sounds like an unusual and rare ice cream!
+AX: That's true. There was also something called macaron ice, and women were lining up in long queues for it.
+AG: Indeed. It's an ice cream that women are likely to like. I wonder if they will eventually sell it at convenience stores?
+AX: It's convenient to buy things at a convenience store, isn't it?
+AG: Yes, I hope they will!",1
+7,"AX: Good evening. Thank you in advance.
+AG: Good evening. How can I assist you today?
+AX: Do you prefer hot drinks?
+AG: I prefer warm drinks. And you?
+AX: Either is fine. Do you drink coffee?
+AG: Yes, 1 or 2 cups a day.
+AX: I recently listened to the CEO of Starbucks Japan.
+AG: Interesting. What did you learn?
+AX: He mentioned that the coffee at 7-Eleven is delicious.
+AG: That's quite an endorsement.
+AX: Empathy among staff is an individual effort.
+AG: Did you find that information useful?
+AX: For example, a clerk might offer coffee if someone nearby had an accident.
+AG: They give a free drink by their own choice.
+AX: Yes, the clerks do it voluntarily.
+AG: Would you offer the coffee in that situation?
+AX: They approached the person, but it's uncertain if they made the coffee. They seemed very empathetic.
+AG: I would offer it, regardless of policy.
+AX: That's suitable for Starbucks.
+AG: Understood.
+AX: A while ago, I was impressed at Starbucks.
+AG: What impressed you?
+AX: A young girl, probably deaf, could only communicate in writing and was a store clerk.
+AG: That's remarkable.
+AX: She used a menu with illustrations for communication.
+AG: That's innovative.
+AX: Other clerks helped only when needed; otherwise, she managed on her own.
+AG: More comfortable for her.
+AX: As a customer, I felt grateful.
+AG: Customers and staff being considerate creates a good atmosphere.",5
+8,"AX: Good evening. I'm excited to work with you.  
+AG: Good evening! Looking forward to assisting you.  
+AX: Have you ever tried shaved ice during summer?  
+AG: Yes, recently.  
+AX: Did you eat it already?  
+AG: Yes, it used famous well water.  
+AX: What kind was it?  
+AG: Clear ice, homemade syrup.  
+AX: From a cake shop? Interesting. There's a shaved ice shop nearby.  
+AG: Have you been there?  
+AX: Not yet. It's from a dumpling shop.  
+AG: A dumpling shop? Interesting.  
+AX: Shaved ice now often has various toppings.  
+AG: Yes, for visual appeal.  
+AX: They use three-colored dumplings.  
+AG: Three-color dango, fitting for a dango shop.  
+AX: It's intriguing.  
+AG: Looks like chilled zenzai. Is it shiratama?  
+AX: I like white dumplings but can't decide with the three colors.  
+AG: Texture closer to a dumpling. Any red bean paste?  
+AX: Didn't seem to have any. There are also fluffy and creamy types.  
+AG: Yes, from Taiwanese shaved ice trends.  
+AX: Have you tried Taiwanese shaved ice?  
+AG: Saw it on TV, haven't tried. Mango flavor looks delicious.  
+AX: The visuals are striking.  
+AG: Flavoring the ice is surprising.  
+AX: So, they flavor the ice? Hadn't thought of that.  
+AG: Yes, it keeps the ice fluffy. I'd like to try it.  
+AX: I understand now. Thanks for explaining.  
+AG: You're welcome! Hope we both get to try it someday!",5
