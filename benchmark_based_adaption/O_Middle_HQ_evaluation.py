@@ -134,7 +134,12 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
         #     return dialogue, try_number
 
         # average -0.5 std aggregation
-        if score_list[0] >= 0.9345295045316486 and score_list[1] >= 0.756552391449832 and score_list[2] >= 0.7480845665322744:
+        # if score_list[0] >= 0.9345295045316486 and score_list[1] >= 0.756552391449832 and score_list[2] >= 0.7480845665322744:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return dialogue, try_number
+
+        # average -1 std aggregation
+        if score_list[0] >= 0.9015590090632974 and score_list[1] >= 0.7392714495663306 and score_list[2] >= 0.7271691330645487:
             print(f'evaluation end. The confidence scores are {score_list}')
             return dialogue, try_number
         else:
@@ -179,7 +184,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 9 <= i <= 10:
+            if 3 <= i <= 10:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -188,7 +193,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../test_interlocutor_dialogues/O_Middle_HQ_example_dialogues.csv'
 
-    output_csv_path = 'average_-0.5_std_aggregation_output_adapted_dialogues/O_Middle_HQ_HCD.csv'
+    output_csv_path = 'average_-1_std_aggregation_output_adapted_dialogues/O_Middle_HQ_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 
@@ -202,7 +207,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 7
+        index = 1
 
         for human_human_dialogue in human_human_dialogues:
 

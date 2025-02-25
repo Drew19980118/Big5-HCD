@@ -130,7 +130,11 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
         #     print(f'evaluation end. The confidence scores are {score_list}')
         #     return dialogue, try_number
 
-        if score_list[0] >= 0.9345295045316486 and score_list[1] >= 0.756552391449832 and score_list[2] >= 0.7480845665322744:
+        # if score_list[0] >= 0.9345295045316486 and score_list[1] >= 0.756552391449832 and score_list[2] >= 0.7480845665322744:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return dialogue, try_number
+
+        if score_list[0] >= 0.9015590090632974 and score_list[1] >= 0.7392714495663306 and score_list[2] >= 0.7271691330645487:
             print(f'evaluation end. The confidence scores are {score_list}')
             return dialogue, try_number
         else:
@@ -184,7 +188,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../test_interlocutor_dialogues/C_High_GS_example_dialogues.csv'
 
-    output_csv_path = 'average_-0.5_std_aggregation_output_adapted_dialogues/C_High_GS_HCD.csv'
+    output_csv_path = 'average_-1_std_aggregation_output_adapted_dialogues/C_High_GS_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 

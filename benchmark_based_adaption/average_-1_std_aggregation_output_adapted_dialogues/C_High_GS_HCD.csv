@@ -1,0 +1,229 @@
+Index,Dialogue,Try_Number
+1,"GS: Hello!
+DF: Hello!
+GS: What did you have for dinner?
+DF: I went to Saizeriya.
+GS: Nice! I went there last week too.
+DF: Do you have any favorite dishes?
+GS: I had a hamburger. What about you?
+DF: I like the young chicken prepared diavolo style.
+GS: Is it good?
+DF: Yes, my gym trainer recommended it for its protein content, and I found it tasty.
+GS: Do you go to the gym often?
+DF: Yes, once a week for personal training.
+GS: I used to exercise a lot when I was a student, but not much now.
+DF: What kind of exercise did you do?
+GS: Track and field for six years.
+DF: What events?
+GS: 100m and 200m sprints.
+DF: You must be fast.
+GS: There were many fast runners, so I didn't stand out much.
+DF: It's a competitive field.
+GS: Yes, making it to the finals was tough.
+DF: Six years is impressive!
+GS: I started in junior high and continued until high school.
+DF: Why did you choose track and field?
+GS: My teacher recommended it after a good performance in 6th grade.
+DF: So, you’ve been running since elementary school.
+GS: Yes, I was faster than my peers.
+DF: I was always slow.
+GS: Everyone has different strengths.
+DF: True. Thanks for the chat!",5
+2,"GS: Good evening! Nice to meet you.
+DF: Thank you in advance!
+GS: What do you do on your days off?
+DF: I often relax at home. Like watching videos and such!
+GS: Do you watch things like YouTube?
+DF: That's right! I also play the Switch.
+GS: I see. Do you play games quite a bit too?
+DF: I play when I feel like it, but there are quite a few that I bought and haven't done.
+GS: I see. I tend to play simulation games.
+DF: Are simulation games the kind that you play in a relaxed and leisurely manner?
+GS: The game I'm playing is one where you drive a train. You can take your time if you want.
+DF: I see. I understand what it's like. I often play RPGs.
+GS: I see. There are various types of games, after all.
+DF: Sure. What do you do on your days off?
+GS: These days, I often go to karaoke to practice singing.
+DF: Is it karaoke? You like singing, don't you!
+GS: Yes! I often use precise scoring!
+DF: Amazing! I definitely want to listen to it once!
+GS: I'm not that good, I'm struggling to improve my scores. The grading is quite strict.
+DF: The machine is strict, isn't it...
+GS: It seems that it has become more difficult to get a higher score than before, as new models have been introduced in the past few years.
+DF: I see. Karaoke is evolving rapidly, isn't it!
+GS: I hope that someday it will have scoring skills as good as a human!
+DF: That would be amazing if that happens! What genre of songs do you sing?
+GS: I sing songs by Ayaka, JUJU, and Spitz.
+DF: That looks difficult! It would be cool if you could sing it well!
+GS: Ayaka's ""Mikazuki"" is one of my specialities, so I'm working hard to sing it even better!
+DF: It's a good song, isn't it? It's great that you have a favorite song!
+GS: Yes! It's fun to sing!
+DF: I feel like going to karaoke!",1
+3,"GS: Good evening!  
+DF: Good evening! How can I assist you today?  
+GS: Did you take any lessons or participate in any activities in elementary school?  
+DF: Yes, piano lessons, calligraphy classes, cram school, and softball.  
+GS: Interesting, I also took piano and calligraphy lessons.  
+DF: Understood.  
+GS: How many years did you play the piano?  
+DF: Over 10 years, from age 3 to junior high graduation.  
+GS: That's quite some time. You must be skilled.  
+DF: I accompanied during chorus performances.  
+GS: Accompanying is a sign of skill.  
+DF: I prefer songs without vocals.  
+GS: Playing accompaniment is enjoyable. I usually play solo pieces.  
+DF: Do you still play?  
+GS: Occasionally, at my parents' house on an electric piano.  
+DF: Noted. I don't play now.  
+GS: Understandable. It's hard to find time when busy.  
+DF: Not sure if I can read sheet music anymore.  
+GS: Reading sheet music can be challenging out of practice.  
+DF: Do you remember the music by ear and sight?  
+GS: More by muscle memory from repeated practice.  
+DF: Practice makes perfect.  
+GS: Indeed, consistent practice helps improve.  
+DF: Great that you can put in such effort!  
+GS: It's enjoyable, so it doesn't feel like effort.  
+DF: Having enjoyable activities adds to life.  
+GS: Absolutely, it enhances life's enjoyment.  
+DF: Thank you for the conversation!",5
+4,"GS: Good evening!  
+FE: Good evening. How can I assist you today?  
+GS: What did you do today?  
+FE: I was at the lab.  
+GS: University research?  
+FE: Yes, I am a student.  
+GS: I'm a student too. Science major?  
+FE: Yes. You?  
+GS: Yes, in science as well. Engineering?  
+FE: No, general science.  
+GS: I'm on summer break now. Classes start next week.  
+FE: My second semester started today.  
+GS: Only a week's difference.  
+FE: Did your summer break start later?  
+GS: Yes, on August 6th. When did yours start?  
+FE: Around the same time. Your university has a longer summer break.  
+GS: Our spring break is shorter.  
+FE: Number of classes per lesson set?  
+GS: Yes. You?  
+FE: We have 16 classes per semester.  
+GS: Got it. My university is in an inconvenient location.  
+FE: Noted. Mine is a 15-minute walk from the nearest station.  
+GS: Convenient. My university feels isolated.  
+FE: How do you manage the commute?  
+GS: I commute from a neighboring city. It takes over an hour by train and bus.  
+FE: Renting an apartment?  
+GS: Yes.  
+FE: Long commute.  
+GS: I use the travel time productively.  
+FE: Efficient.",20
+5,"GS: Do you have any special skills?
+FE: I can play the trombone.
+GS: I play the piano.
+FE: I took lessons until second grade, but I can't play anymore.
+GS: Does it feel like a long time ago?
+FE: Yes, I remember quitting because my fingers were short.
+GS: If your fingers are short, it's difficult to play octaves, isn't it?
+FE: Correct, I couldn't play octave pieces.
+GS: What kind of pieces did you play?
+FE: Mostly simple pieces like Beyer.
+GS: I used to play too. Recently, I stopped playing classical music.
+FE: What have you been playing recently?
+GS: Mainly J-POP.
+FE: What kind of music do you play?
+GS: Recently, ""Summer"" by Joe Hisaishi.
+FE: I know it.
+GS: Also, ""Bokunote"" by Sukima Switch and ""Yesterday"" by Hige Dandism.
+FE: ""Yesterday"" is difficult, right?
+GS: Very challenging. Do you know CANACANA on YouTube?
+FE: I know.
+GS: I tried to play their arrangement.
+FE: Isn't that difficult?
+GS: Very difficult. I managed to play it but then gave up.
+FE: It's impressive that you tried.
+GS: If I had more time, I might have worked harder on the second piece.
+FE: What are you practicing now?
+GS: I don't have a piano at home, so no progress.
+FE: I hope you can practice again soon.",3
+6,"GS: Please!  
+FE: Please!  
+GS: Do you have a smartphone, iPhone or Android?  
+FE: iPhone.  
+GS: Me too.  
+FE: Been using iPhone for a long time. Sticking with it.  
+GS: Switched from Android. Can't go back.  
+FE: What are the differences?  
+GS: iPhone is more responsive.  
+FE: New models are smoother.  
+GS: Haven't used older models.  
+FE: Using since iPhone 6. Different.  
+GS: Screen sizes changed?  
+FE: Recent ones bigger, except SE.  
+GS: Sizes stable since iPhone 10?  
+FE: Yes, but using 11 one-handed is hard.  
+GS: Feels unbalanced one-handed.  
+FE: Ring helps, but I avoid using one.  
+GS: I don't use rings.  
+FE: Tried once, harder to use.  
+GS: Best not to use it.  
+FE: Recent iPhone update?  
+GS: Yes, iOS16.  
+FE: More user-friendly now.  
+GS: Lock screen slideshow is nice.  
+FE: I like new font options.  
+GS: Changing watch face is great.  
+FE: Also, Siri's voice changed. Thoughts?  
+GS: It's good.  
+FE: It has changed. It's nice.",6
+7,"GS: Good evening.
+FE: Good evening.
+GS: Do you listen to music often?
+FE: Yes, I do.
+GS: What kind of music do you like?
+FE: J-POP and classical.
+GS: Do you have any favorite J-POP bands?
+FE: Higedan and Mr. Children.
+GS: I like Mr. Children too. Do you have a favorite song by them?
+FE: ""The Monologues We Share Together.""
+GS: That's a great song. I also like ""HANABI.""
+FE: Yes, ""HANABI"" is from the drama ""Code Blue.""
+GS: Right, ""Code Blue.""
+FE: Do you watch dramas?
+GS: I saw ""Galileo"" recently.
+FE: I mainly watch YouTube.
+GS: The pair in ""Galileo"" is quite good.
+FE: Is there a new movie?
+GS: Yes, ""Silent Parade.""
+FE: I'm interested in it.
+GS: You should check it out at the theater.
+FE: I will.",11
+8,"GS: Please!  
+FE: Please!  
+GS: What model of computer are you using?  
+FE: Windows. And you?  
+GS: I use Windows too. I've thought about switching to a Mac.  
+FE: Mac is cool and I admire it.  
+GS: It seems to run more smoothly than Windows.  
+FE: Similar to the iPhone, with smooth operation when opening windows.  
+GS: I really like iPhones.  
+FE: The screen on a Mac is beautiful.  
+GS: Any inconveniences?  
+FE: Windows is easier to modify; Mac is more restrictive.  
+GS: So, it's harder for viruses to get into Macs?  
+FE: Correct. I use Windows for lab applications.  
+GS: Both systems have their pros and cons.  
+FE: Yes. In physics, most use Windows.  
+GS: I'm a science major and sometimes wonder if Windows is right for me.  
+FE: If you use an iPad, a Mac might be better for syncing.  
+GS: Syncing with my iPhone would be convenient.  
+FE: AirDrop is very useful.  
+GS: It's great that photo and video quality doesn't degrade.  
+FE: Sending through LINE drops image quality significantly.  
+GS: I noticed that too. Sending a night view photo got worse on LINE.  
+FE: High-quality images are important for night views.  
+GS: Does quality deteriorate even with ORIGINAL?  
+FE: I didn't know that.  
+GS: My photo quality dropped from 12 million to around 8 million.  
+FE: That's quite a decrease.  
+GS: It was surprising.  
+FE: AirDrop seems best for maintaining quality.",3
