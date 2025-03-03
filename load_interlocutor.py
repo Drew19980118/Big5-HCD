@@ -129,7 +129,7 @@ def write_results(sampled_info, thresholds, total, output_path="Big5_HCD_statist
 # --------------------- 主程序执行 ---------------------
 if __name__ == "__main__":
     # 配置参数
-    CSV_PATH = "interlocutor_personality_traits.csv"  # 根据实际路径修改
+    CSV_PATH = "interlocutor_personality_traits_scores.csv"  # 根据实际路径修改
 
     # 第一步：处理性格数据
     thresholds, classification = process_personality_data(CSV_PATH)
