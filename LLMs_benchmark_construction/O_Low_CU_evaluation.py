@@ -4,11 +4,11 @@ import csv
 import numpy as np
 
 # File paths for the two CSVs
-human_human_csv = '../sampled_HHDs/A_Middle_CF_example_dialogues.csv'
-human_computer_csv = '../role_model_HCDs_construction/A_Middle_EQ_role_model_synthetized_HCD.csv'
-deepseek_output_file = 'deepseek_evaluation_results/A_Middle_CF.txt'
-llama3_output_file = 'llama3_evaluation_results/A_Middle_CF.txt'
-gemma2_output_file = 'gemma2_evaluation_results/A_Middle_CF.txt'
+human_human_csv = '../sampled_HHDs/O_Low_CU_example_dialogues.csv'
+human_computer_csv = '../role_model_HCDs_construction/O_Low_CU_role_model_synthetized_HCD.csv'
+deepseek_output_file = 'deepseek_evaluation_results/O_Low_CU.txt'
+llama3_output_file = 'llama3_evaluation_results/O_Low_CU.txt'
+gemma2_output_file = 'gemma2_evaluation_results/O_Low_CU.txt'
 
 api_url = "http://127.0.0.1:11434/api/generate"
 headers = {"Content-Type": "application/json"}
@@ -17,18 +17,33 @@ additional_knowledge = """
 Differences Between Human Human Dialogue (HHD) and Human Computer Dialogue (HCD):
 
 Communication Styles:
-HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+
+HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
 Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
 Relational and Personality Expression:
+
 HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
 HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
 Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."
+"""
+
+personality_traits = """
+Openness: 3.8333332538604736
+CU is moderately open to new experiences and ideas. He/she enjoys exploring new concepts and experiences to some extent but is also comfortable with familiar routines and conventional approaches.
+Conscientiousness: 5.25
+CU is quite conscientious, indicating that he/she is reliable, well-organized, and responsible. He/she tends to be thorough in his/her work and can be depended upon to follow through on commitments.
+Extraversion: 5.833333492279053
+CU is highly extroverted, suggesting that he/she is energetic, sociable, and enjoys being around people. He/she likely thrives in social situations and seeks out opportunities to engage with others.
+Agreeableness: 4.75
+CU is fairly agreeable, showing that he/she is generally cooperative, kind, and considerate. He/she likely works well with others and tends to maintain harmonious relationships, although he/she can assert his/her own needs when necessary.
+Neuroticism: 5.0
+CU has a high level of neuroticism, meaning he/she experiences emotions like anxiety, moodiness, and stress relatively often. He/she might be sensitive to environmental stressors and may need support in managing his/her emotional responses.
 """
 
 def read_csv(file_path):
@@ -47,7 +62,12 @@ def deepseek_evaluate_dialogue(human_human_dialogue, human_computer_dialogue):
 Now, I will give you a Human Human Dialogue. The content is as follows:  
 ## Human Human Dialogue:  
 {human_human_dialogue}
-Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where AH simulates the role of a Human (converting AH's utterances in the original Human Human Dialogue), and AQ simulates the role of a Computer (converting AQ's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
+
+And I will also provide you with CU's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
+## Personality traits score & Personality traits description:  
+{personality_traits}
+
+Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where CU simulates the role of a Human (converting CU's utterances in the original Human Human Dialogue), and CA simulates the role of a Computer (converting CA's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
 ## Human Computer Dialogue:
 {human_computer_dialogue}
 
@@ -57,7 +77,7 @@ The conversion of this Human Human Dialogue into Human Computer Dialogue is base
 
 You will analyze two aspects of the Human Computer Dialogue converted from Human Human Dialogue:
 
-Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue, you may need to refer CU's Personality Traits Score & Personality Traits Description.
 
 Task 2. Check whether the content and meaning of all utterances (from both Human Role and Computer Role) are preserved without alteration from the original Human Human Dialogue.
 
@@ -88,7 +108,12 @@ def llama3_gemma2_evaluate_dialogue(human_human_dialogue, human_computer_dialogu
 Now, I will give you a Human Human Dialogue. The content is as follows:  
 ## Human Human Dialogue:  
 {human_human_dialogue}
-Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where AH simulates the role of a Human (converting AH's utterances in the original Human Human Dialogue), and AQ simulates the role of a Computer (converting AQ's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
+
+And I will also provide you with CU's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
+## Personality traits score & Personality traits description:  
+{personality_traits}
+
+Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where CU simulates the role of a Human (converting CU's utterances in the original Human Human Dialogue), and CA simulates the role of a Computer (converting CA's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
 ## Human Computer Dialogue:
 {human_computer_dialogue}
 
@@ -98,7 +123,7 @@ The conversion of this Human Human Dialogue into Human Computer Dialogue is base
 
 You will analyze two aspects of the Human Computer Dialogue converted from Human Human Dialogue:
 
-Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue, you may need to refer CU's Personality Traits Score & Personality Traits Description.
 
 Task 2. Check whether the content and meaning of all utterances (from both Human Role and Computer Role) are preserved without alteration from the original Human Human Dialogue.
 

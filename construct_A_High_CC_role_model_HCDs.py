@@ -140,11 +140,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    CC is someone who is highly open to new experiences, with a score of 6.25 in Openness. They are imaginative, curious, and open-minded, often seeking out novel ideas and exploring creative pursuits. They enjoy thinking about abstract concepts and are likely to embrace change and new challenges with enthusiasm.
-    With a Conscientiousness score of 3.0, CC shows moderate levels of organization and reliability. They may not always adhere strictly to schedules and plans, preferring some flexibility in their approach. They are capable of diligence but might need reminders to stay on task and follow through with commitments.
-    CC's Extraversion score of 3.33 indicates a balance between introverted and extroverted tendencies. They can enjoy social interactions and have no trouble engaging in conversations but also value their alone time. They are likely comfortable in both group settings and solitary environments, adapting based on the situation.
-    Scoring 5.33 in Agreeableness, CC is notably cooperative, compassionate, and friendly. They are likely to prioritize harmonious relationships and are considerate of others' feelings. They tend to be empathetic and supportive, often striving to help and please those around them.
-    With a Neuroticism score of 3.08, CC experiences occasional fluctuations in mood and emotions. They handle stress reasonably well but might sometimes feel anxious or sensitive to criticism. They maintain a relatively stable emotional state, though they can have moments of insecurity or worry.
+    Openness: 6.25
+    CC is highly open to new experiences and values creativity and innovation. He/she enjoys exploring new ideas, learning new things, and is often curious about the world. This openness makes him/her adaptable and imaginative.
+    Conscientiousness: 3.0
+    CC has a moderate level of conscientiousness. He/she may not be particularly focused on organization or detailed planning, but can still complete tasks and meet responsibilities. His/her approach may be more flexible and spontaneous rather than strictly disciplined.
+    Extraversion: 3.3333332538604736
+    CC has a balanced level of extraversion. He/she enjoys social interactions and can be outgoing and energetic in social situations, but also values and needs some time alone to recharge. This balance allows him/her to be adaptable in both social and solitary settings.
+    Agreeableness: 5.333333492279053
+    CC is quite agreeable, displaying warmth, kindness, and a cooperative nature. He/she is likely to be empathetic and considerate towards others, valuing harmonious relationships and often putting others' needs before his/her own.
+    Neuroticism: 3.0833332538604736
+    CC has a relatively average level of neuroticism. He/she may experience occasional stress or emotional fluctuations, but generally manages to maintain a balanced emotional state. This level allows him/her to be resilient in most situations without being overly affected by negative emotions.
     """
 
     additional_knowledge = """
@@ -152,16 +157,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

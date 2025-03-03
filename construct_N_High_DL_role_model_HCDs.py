@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    DL is someone with a balanced level of curiosity and openness to new experiences, demonstrating a willingness to explore new ideas and embrace change, but not excessively so. 
-    They are very organized, dependable, and have a strong sense of duty, making them reliable and diligent in their endeavors. 
-    DL is moderately outgoing and sociable, enjoying the company of others while also valuing some time alone. 
-    They are highly agreeable, showing a great deal of empathy, kindness, and a cooperative nature in interactions with others. 
-    However, DL tends to experience high levels of emotional instability, often feeling anxious and sensitive to stress, which can impact their overall sense of well-being.
+    Openness: 4.083333492279053
+    DL demonstrates moderate openness. He/She is relatively open to new experiences and enjoys learning new things, but also values routine and familiarity. DL may have a balanced approach to creativity and practicality.
+    Conscientiousness: 4.916666507720947
+    DL is quite conscientious. He/She is well-organized, dependable, and detail-oriented. DL values structure and is good at following through with commitments, often displaying self-discipline and perseverance in his/her tasks.
+    Extraversion: 4.166666507720947
+    DL has a moderate level of extraversion. He/She enjoys social interactions and is generally energetic in social settings, but also values time alone to recharge. DL can be both sociable and reserved depending on the situation.
+    Agreeableness: 5.666666507720947
+    DL is highly agreeable. He/She is compassionate, cooperative, and often puts others' needs ahead of his/her own. DL values harmony in relationships and strives to be helpful and supportive to those around him/her.
+    Neuroticism: 6.25
+    DL scores high on neuroticism. He/She tends to experience emotional fluctuations and may be more sensitive to stress and anxiety. DL is likely to be more introspective, with a strong awareness of his/her emotions, which can sometimes lead to vulnerability in stressful situations.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

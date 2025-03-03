@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    CO is a person who exhibits a moderate level of creativity and willingness to explore new ideas and experiences, as suggested by their Openness score of 4.83. 
-    They are fairly organized, responsible, and reliable, given their Conscientiousness score of 4.25, which indicates a tendency to be diligent and self-disciplined. 
-    CO is sociable and enjoys engaging with others, as shown by their Extraversion score of 3.92, but they also value their alone time and may not be excessively outgoing. 
-    With an Agreeableness score of 4.5, CO is generally kind-hearted, cooperative, and considerate towards others, often seeking to maintain harmony in their relationships. 
-    Lastly, their Neuroticism score of 3.17 suggests that they experience a moderate amount of emotional fluctuations, with occasional feelings of stress or anxiety, but are typically able to manage their emotions relatively well.
+    Openness: 4.83
+    CO has a relatively high level of openness, suggesting a curious and imaginative individual who is open to new experiences and enjoys exploring novel ideas. His/her interests are likely diverse, and he/she appreciates creativity and unconventional thinking.
+    Conscientiousness: 4.25
+    With a score indicating a good level of conscientiousness, CO is likely disciplined, reliable, and well-organized. He/she tends to plan ahead, set goals, and work diligently to achieve them, showing a strong sense of responsibility and dependability.
+    Extraversion: 3.92
+    CO's moderate level of extraversion suggests a balanced social life. He/she enjoys social interactions and can be outgoing and energetic in the right situations but also values some quiet, solitary time. His/her social activities are likely enjoyable but not overwhelmingly necessary for well-being.
+    Agreeableness: 4.5
+    CO demonstrates a high level of agreeableness, indicating a compassionate, cooperative, and friendly nature. He/she is likely to be considerate, altruistic, and eager to maintain harmonious relationships, often putting others’ needs and feelings first.
+    Neuroticism: 3.17
+    With a moderate score on neuroticism, CO experiences some degree of emotional variability but generally maintains a balance. He/she might occasionally feel anxious or moody but usually can manage stress and maintain a positive outlook. This balance helps in coping with life's challenges without being overly affected.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

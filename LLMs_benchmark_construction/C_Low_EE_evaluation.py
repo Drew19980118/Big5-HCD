@@ -4,11 +4,11 @@ import csv
 import numpy as np
 
 # File paths for the two CSVs
-human_human_csv = '../sampled_HHDs/N_Middle_HF_example_dialogues.csv'
-human_computer_csv = '../role_model_HCDs_construction/N_Middle_DE_role_model_synthetized_HCD.csv'
-deepseek_output_file = 'deepseek_evaluation_results/N_Middle_HF.txt'
-llama3_output_file = 'llama3_evaluation_results/N_Middle_HF.txt'
-gemma2_output_file = 'gemma2_evaluation_results/N_Middle_HF.txt'
+human_human_csv = '../sampled_HHDs/C_Low_EE_example_dialogues.csv'
+human_computer_csv = '../role_model_HCDs_construction/C_Low_EE_role_model_synthetized_HCD.csv'
+deepseek_output_file = 'deepseek_evaluation_results/C_Low_EE.txt'
+llama3_output_file = 'llama3_evaluation_results/C_Low_EE.txt'
+gemma2_output_file = 'gemma2_evaluation_results/C_Low_EE.txt'
 
 api_url = "http://127.0.0.1:11434/api/generate"
 headers = {"Content-Type": "application/json"}
@@ -17,18 +17,33 @@ additional_knowledge = """
 Differences Between Human Human Dialogue (HHD) and Human Computer Dialogue (HCD):
 
 Communication Styles:
-HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+
+HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
 Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
 Relational and Personality Expression:
+
 HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
 HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
 Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."
+"""
+
+personality_traits = """
+Openness: 4.25
+EE shows a moderate level of openness. This suggests that he/she enjoys exploring new ideas and experiences, but also values stability and routine. He/she is imaginative and open to trying new things, while still being practical and grounded.
+Conscientiousness: 2.1666667461395264
+EE tends to be less focused on organization and detail. He/she may be more spontaneous and flexible, often preferring to go with the flow rather than sticking to a strict plan or schedule. This can make him/her adaptable, though it might also result in occasional lapses in discipline or reliability.
+Extraversion: 3.8333332538604736
+EE is moderately extraverted, enjoying social interactions and being around others, but also appreciating some alone time. He/she is sociable and energetic in social settings, though he/she does not require constant social stimulation to feel content.
+Agreeableness: 3.9166667461395264
+EE has a balanced approach to agreeableness. He/she is generally kind and cooperative, willing to help others and show empathy, yet also capable of standing up for himself/herself when necessary. This balance helps EE navigate social situations effectively.
+Neuroticism: 5.25
+EE experiences higher levels of emotional sensitivity and may often feel anxious or stressed. He/she is more likely to react strongly to stressors and may struggle with emotional stability at times. However, this trait also suggests that he/she is highly empathetic and deeply affected by emotional experiences.
 """
 
 def read_csv(file_path):
@@ -47,7 +62,12 @@ def deepseek_evaluate_dialogue(human_human_dialogue, human_computer_dialogue):
 Now, I will give you a Human Human Dialogue. The content is as follows:  
 ## Human Human Dialogue:  
 {human_human_dialogue}
-Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where AH simulates the role of a Human (converting AH's utterances in the original Human Human Dialogue), and AQ simulates the role of a Computer (converting AQ's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
+
+And I will also provide you with EE's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
+## Personality traits score & Personality traits description:  
+{personality_traits}
+
+Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where EE simulates the role of a Human (converting EE's utterances in the original Human Human Dialogue), and BL simulates the role of a Computer (converting BL's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
 ## Human Computer Dialogue:
 {human_computer_dialogue}
 
@@ -57,7 +77,7 @@ The conversion of this Human Human Dialogue into Human Computer Dialogue is base
 
 You will analyze two aspects of the Human Computer Dialogue converted from Human Human Dialogue:
 
-Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue, you may need to refer EE's Personality Traits Score & Personality Traits Description.
 
 Task 2. Check whether the content and meaning of all utterances (from both Human Role and Computer Role) are preserved without alteration from the original Human Human Dialogue.
 
@@ -88,7 +108,12 @@ def llama3_gemma2_evaluate_dialogue(human_human_dialogue, human_computer_dialogu
 Now, I will give you a Human Human Dialogue. The content is as follows:  
 ## Human Human Dialogue:  
 {human_human_dialogue}
-Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where AH simulates the role of a Human (converting AH's utterances in the original Human Human Dialogue), and AQ simulates the role of a Computer (converting AQ's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
+
+And I will also provide you with EE's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
+## Personality traits score & Personality traits description:  
+{personality_traits}
+
+Then, I will give you a Human Computer Dialogue based on this Human Human Dialogue, where EE simulates the role of a Human (converting EE's utterances in the original Human Human Dialogue), and BL simulates the role of a Computer (converting BL's utterances in the original Human Human Dialogue). In this simulation, only the style of each utterance will be changed without altering its content and meaning.  
 ## Human Computer Dialogue:
 {human_computer_dialogue}
 
@@ -98,7 +123,7 @@ The conversion of this Human Human Dialogue into Human Computer Dialogue is base
 
 You will analyze two aspects of the Human Computer Dialogue converted from Human Human Dialogue:
 
-Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue.
+Task 1. Analyze whether this Human Computer Dialogue strictly follows the Additional Knowledge to transform the original Human Human Dialogue, you may need to refer EE's Personality Traits Score & Personality Traits Description.
 
 Task 2. Check whether the content and meaning of all utterances (from both Human Role and Computer Role) are preserved without alteration from the original Human Human Dialogue.
 

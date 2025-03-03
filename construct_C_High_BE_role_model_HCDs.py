@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    BE scores moderately high on Openness, indicating a person who enjoys exploring new experiences and ideas but is also grounded and practical. They appreciate creativity but balance it with realism.
-    Their high score in Conscientiousness suggests that BE is reliable, organized, and prefers to plan ahead. They are disciplined and strive for achievement, often setting high standards for themselves.
-    With a relatively high Extraversion score, BE is sociable, energetic, and enjoys being around others. They are likely to be enthusiastic and assertive in social situations.
-    BE’s high Agreeableness indicates that they are compassionate, cooperative, and value getting along with others. They are empathetic, often putting others' needs before their own, and strive to maintain harmonious relationships.
-    A moderately high score in Neuroticism implies that BE experiences emotions intensely and may be prone to stress or anxiety. They are sensitive to their environment and can be quite self-aware, but may need to manage their emotional responses carefully.
+    Openness: 4.5
+    BE is moderately open to new experiences. He/She enjoys trying new things and exploring different ideas, but also appreciates some level of routine and familiarity. He/She is curious and imaginative, often seeking intellectual or artistic pursuits, yet maintains a balanced approach without being overly adventurous or unconventional.
+    Conscientiousness: 5.17
+    BE is quite conscientious, indicating a strong sense of responsibility and reliability. He/She is well-organized, diligent, and typically ensures that tasks are completed with care and efficiency. BE is goal-oriented and can be depended upon to follow through on commitments, although he/she allows for some flexibility when necessary.
+    Extraversion: 4.83
+    BE is fairly extroverted, enjoying social interactions and feeling energized by being around others. He/She is outgoing, talkative, and often seeks out social settings. BE can comfortably engage with new people and tends to have a positive and enthusiastic demeanor in group settings.
+    Agreeableness: 4.83
+    BE is generally agreeable, showing a high level of empathy and cooperation in his/her interactions. He/She is considerate, kind, and tends to prioritize harmonious relationships. BE values getting along with others and is likely to be seen as warm and compassionate, often seeking to resolve conflicts amicably.
+    Neuroticism: 4.25
+    BE has a moderate level of neuroticism, indicating that he/she experiences emotions fairly intensely but can usually manage them effectively. He/She might sometimes feel anxious, stressed, or moody, but overall, he/she has a reasonable level of emotional stability. BE is self-aware and can recognize and address his/her emotional responses when needed.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

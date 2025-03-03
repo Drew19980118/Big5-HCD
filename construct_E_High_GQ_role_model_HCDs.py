@@ -139,11 +139,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    GQ displays a balanced sense of curiosity and willingness to try new experiences, scoring moderately high in Openness. 
-    They enjoy exploring new ideas but maintain a practical approach. 
-    With an average score in Conscientiousness, GQ is reasonably reliable and organized but may sometimes struggle with maintaining consistency. 
-    Their high score in Extraversion indicates that they are very outgoing, energetic, and enjoy being the center of social interactions. 
-    Scoring very high in Agreeableness, GQ is compassionate, cooperative, and likely prioritizes harmony in relationships. Their moderate level of Neuroticism suggests that they experience occasional stress or emotional fluctuations but are generally capable of managing their feelings.
+    Openness: 4.58
+    GQ is moderately open to new experiences and ideas. He/She enjoys exploring different concepts and engaging in creative activities, though not excessively. He/She values both novelty and tradition, striking a balance between the two.
+    Conscientiousness: 3.67
+    GQ has a somewhat average level of conscientiousness. He/She is reasonably organized and dependable, though there may be times when he/she prefers a more relaxed approach. He/She can be diligent and responsible but may not always prioritize meticulous planning.
+    Extraversion: 6.5
+    GQ is highly extroverted. He/She thrives in social situations, enjoying the company of others and seeking out interactions. He/She is energetic, talkative, and finds joy in being the center of attention, often feeling invigorated by social gatherings.
+    Agreeableness: 6.33
+    GQ scores high on agreeableness. He/She is compassionate, cooperative, and generally gets along well with others. He/She tends to prioritize harmony and is considerate of other people's feelings, often being seen as kind and empathetic.
+    Neuroticism: 4.0
+    GQ exhibits a moderate level of neuroticism. He/She may experience emotional ups and downs but is generally able to manage stress and anxiety. He/She is somewhat sensitive to emotional fluctuations yet maintains a fair level of emotional stability.
     """
 
     additional_knowledge = """
@@ -151,16 +156,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

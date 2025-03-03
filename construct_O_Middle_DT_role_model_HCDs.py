@@ -69,6 +69,9 @@ def evaluate_dialogue(human_human_dialogue, human_computer_dialogue, personality
 
         return llm_response(regenerate_prompt)
 
+def count_ct_occurrences(dialogue):
+    return dialogue.count("DT:")
+
 # Example usage
 if __name__ == "__main__":
     sample_1_human_human_dialogue = """
@@ -138,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    DT exhibits a moderate level of openness, indicating a balanced preference for novelty and routine. They are likely curious and open to new experiences but can also appreciate familiarity and tradition.
-    With a conscientiousness score of 3.5, DT is reasonably organized and responsible, yet not overly meticulous. They are likely dependable but may occasionally struggle with maintaining strict schedules or attention to detail.
-    DT's extraversion score suggests a person who enjoys social interactions and is generally outgoing but also values some alone time. They are likely sociable and energetic in groups but appreciate quieter moments as well.
-    Scoring 4.3 on agreeableness, DT is typically warm, cooperative, and considerate. They are likely empathetic and often place a high value on maintaining harmonious relationships with others.
-    A high neuroticism score indicates that DT tends to experience emotional fluctuations and may be more prone to anxiety or moodiness. They are likely sensitive to stress and may often worry, requiring strategies to manage emotional well-being.
+    Openness: 4.833333492279053
+    DT is quite imaginative and open to new experiences. His/her curiosity about the world and new ideas drives him/her to seek out novel and unconventional perspectives. He/she is likely to appreciate art, creativity, and a wide range of cultural experiences.
+    Conscientiousness: 3.5
+    DT is moderately conscientious. He/she is capable of being organized and responsible, but may sometimes struggle with consistency in these areas. He/she can be dependable but might occasionally prioritize flexibility or spontaneity over rigid structure.
+    Extraversion: 3.5833332538604736
+    DT is somewhat outgoing and enjoys social interactions, but he/she also values alone time. He/she can be sociable and energetic in the right settings, but he/she does not always seek out social engagements and might sometimes prefer quieter activities.
+    Agreeableness: 4.333333492279053
+    DT tends to be friendly, compassionate, and cooperative. He/she is generally considerate of others' feelings and strives to maintain harmonious relationships. He/she values kindness and is likely to be trusting and supportive of those around him/her.
+    Neuroticism: 4.583333492279053
+    DT experiences a higher than average level of emotional sensitivity and may be prone to feeling anxious or stressed. He/she may often worry and could be more susceptible to experiencing mood swings. His/her emotional responses might be intense, but this can also make him/her more empathetic towards others' emotional states.    
     """
 
     additional_knowledge = """
@@ -200,6 +208,9 @@ if __name__ == "__main__":
     sample_1_dialogue_transformation_human_feedback = """
     """
 
+    sample_1_human_human_ct_count = count_ct_occurrences(sample_1_human_human_dialogue)
+    sample_1_human_computer_ct_count = count_ct_occurrences(sample_1_human_computer_dialogue)
+
     sample_1_regenerated_human_computer_dialogue = evaluate_dialogue(sample_1_human_human_dialogue, sample_1_human_computer_dialogue, personality_traits, additional_knowledge, sample_1_dialogue_transformation_human_feedback)
 
     print('Final sample 1 HCD: ', sample_1_regenerated_human_computer_dialogue)
@@ -208,6 +219,9 @@ if __name__ == "__main__":
 
     sample_2_dialogue_transformation_human_feedback = """
     """
+
+    sample_2_human_human_ct_count = count_ct_occurrences(sample_2_human_human_dialogue)
+    sample_2_human_computer_ct_count = count_ct_occurrences(sample_2_human_computer_dialogue)
 
     sample_2_regenerated_human_computer_dialogue = evaluate_dialogue(sample_2_human_human_dialogue, sample_2_human_computer_dialogue, personality_traits, additional_knowledge, sample_2_dialogue_transformation_human_feedback)
 

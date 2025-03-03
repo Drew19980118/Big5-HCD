@@ -139,11 +139,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    EE demonstrates a moderate level of Openness (4.25), indicating they are fairly open to new experiences, curious, and appreciative of art and creativity, yet they balance this with some practicality.
-    EE has a low score in Conscientiousness (2.17), suggesting they might struggle with organization, dependability, and self-discipline, often preferring spontaneity over planning and structure.
-    With a moderate to high Extraversion score (3.83), EE is fairly outgoing and energetic. They enjoy socializing and engaging with others but also value their alone time.
-    EE shows a relatively high level of Agreeableness (3.92), implying they are generally cooperative, compassionate, and considerate, valuing harmony and positive relationships with others.
-    A high Neuroticism score (5.25) indicates that EE tends to experience emotions such as anxiety, moodiness, and stress more intensely and frequently than others, which can affect their overall emotional stability.
+    Openness: 4.25
+    EE shows a moderate level of openness. This suggests that he/she enjoys exploring new ideas and experiences, but also values stability and routine. He/she is imaginative and open to trying new things, while still being practical and grounded.
+    Conscientiousness: 2.1666667461395264
+    EE tends to be less focused on organization and detail. He/she may be more spontaneous and flexible, often preferring to go with the flow rather than sticking to a strict plan or schedule. This can make him/her adaptable, though it might also result in occasional lapses in discipline or reliability.
+    Extraversion: 3.8333332538604736
+    EE is moderately extraverted, enjoying social interactions and being around others, but also appreciating some alone time. He/she is sociable and energetic in social settings, though he/she does not require constant social stimulation to feel content.
+    Agreeableness: 3.9166667461395264
+    EE has a balanced approach to agreeableness. He/she is generally kind and cooperative, willing to help others and show empathy, yet also capable of standing up for himself/herself when necessary. This balance helps EE navigate social situations effectively.
+    Neuroticism: 5.25
+    EE experiences higher levels of emotional sensitivity and may often feel anxious or stressed. He/she is more likely to react strongly to stressors and may struggle with emotional stability at times. However, this trait also suggests that he/she is highly empathetic and deeply affected by emotional experiences.
     """
 
     additional_knowledge = """
@@ -151,16 +156,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

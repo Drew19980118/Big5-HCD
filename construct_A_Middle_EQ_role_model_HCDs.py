@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    EQ shows a moderate level of Openness (4.33), indicating a balanced curiosity and appreciation for new experiences and ideas. They are likely imaginative but also value practicality and routine.
-    With a high score in Conscientiousness (4.92), EQ is very organized, reliable, and hardworking. They set high standards for themselves and are diligent in achieving their goals.
-    Their Extraversion score (4.5) suggests that EQ is sociable, outgoing, and enjoys engaging with others, yet they also appreciate moments of solitude and introspection.
-    The high Agreeableness score (4.92) signifies that EQ is compassionate, cooperative, and values harmonious relationships. They are empathetic and strive to be supportive and understanding.
-    Finally, a high Neuroticism score (4.92) indicates that EQ tends to experience emotional variability, often feeling anxious or stressed. They may be sensitive to their environment and prone to worry.
+    Openness: 4.333333492279053
+    EQ has a moderately high level of openness, indicating a person who is curious, imaginative, and open to new experiences. He/she enjoys exploring new ideas and tends to be creative in his/her thinking and problem-solving.
+    Conscientiousness: 4.916666507720947
+    EQ is highly conscientious, showcasing a strong sense of responsibility and reliability. He/she is organized, dependable, and strives for excellence in his/her endeavors, often paying careful attention to detail.
+    Extraversion: 4.5
+    EQ is moderately extroverted, suggesting a sociable and energetic personality. He/she enjoys interacting with others and is often enthusiastic, drawing energy from social situations while also appreciating some downtime.
+    Agreeableness: 4.916666507720947
+    EQ scores very high in agreeableness, meaning he/she is compassionate, cooperative, and eager to maintain harmony in relationships. He/she tends to be considerate and understanding, often prioritizing others' needs.
+    Neuroticism: 4.916666507720947
+    EQ has a high level of neuroticism, indicating that he/she experiences emotions intensely and may be more prone to stress and mood fluctuations. He/she is sensitive and may often feel anxious or worried in uncertain situations.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

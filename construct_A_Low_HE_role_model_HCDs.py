@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    HE has a low score of 1.083 on Openness, indicating they are practical, prefer routine, and might not be very interested in abstract or imaginative activities. They like familiar things and are comfortable sticking with the status quo rather than exploring new ideas or experiences.
-    With a high score of 5.5 on Conscientiousness, HE is highly organized, reliable, and disciplined. They set clear goals, plan methodically, and follow through with their commitments. They value order and are likely very detail-oriented and dependable.
-    Scoring 4.5 on Extraversion, HE is outgoing and energetic. They enjoy social interactions, feel comfortable in group settings, and are likely to seek out social activities. HE has a positive outlook and draws energy from being around others, although they also appreciate some alone time.
-    An Agreeableness score of 3.667 suggests HE is generally cooperative and gets along well with others, though they are capable of standing their ground when needed. They are considerate and friendly but can balance their own needs with those of others effectively.
-    With a Neuroticism score of 2.583, HE is relatively stable and composed. They handle stress well and maintain an even-tempered disposition. While they may experience negative emotions occasionally, they are generally resilient and not easily overwhelmed by life's challenges.
+    Openness: 1.0833333730697632
+    HE is likely to be very practical and traditional, preferring familiar routines over novelty and abstract ideas. He may not be inclined towards artistic or intellectual pursuits and can be seen as down-to-earth and grounded.
+    Conscientiousness: 5.5
+    HE is highly organized and reliable, often paying attention to details and showing strong self-discipline. He is goal-oriented and likely takes his responsibilities seriously, striving for high achievement in his endeavors.
+    Extraversion: 4.5
+    HE tends to be fairly outgoing and sociable, enjoying interactions with others and often seeking out social activities. He can be energetic and enthusiastic but may also appreciate some quiet time to recharge.
+    Agreeableness: 3.6666667461395264
+    HE is generally considerate and cooperative, with a balanced approach to social harmony and self-assertion. He values getting along with others and is capable of both empathy and maintaining his own perspective.
+    Neuroticism: 2.5833332538604736
+    HE is relatively stable and calm, not overly prone to stress or negative emotions. He likely maintains a balanced approach to life's challenges and is resilient when dealing with difficult situations.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

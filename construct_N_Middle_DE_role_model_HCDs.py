@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    DE is quite open to new experiences and ideas, demonstrating creativity, curiosity, and a willingness to explore novel concepts. 
-    Their conscientiousness score suggests they may be somewhat spontaneous and flexible, possibly struggling with organization and long-term planning. 
-    DE is fairly extraverted, enjoying social interactions and feeling energized by spending time with others. 
-    They are also highly agreeable, showing a great deal of empathy, cooperation, and concern for others' well-being. 
-    However, their neuroticism score indicates they may frequently experience emotions like anxiety, moodiness, and stress, although not to an extreme level.
+    Openness: 5.166666507720947
+    DE is quite open to new experiences, showing a keen interest in exploring novel ideas and embracing creativity. He/she likely enjoys diverse artistic and intellectual pursuits and is open-minded towards different perspectives and unconventional approaches.
+    Conscientiousness: 2.5
+    DE exhibits moderate levels of conscientiousness, suggesting a somewhat laid-back approach towards organization and planning. He/she may struggle with self-discipline and consistency but can be flexible and spontaneous when needed.
+    Extraversion: 4.75
+    DE is moderately extraverted, enjoying social interactions and feeling energized by spending time with others. He/she is generally outgoing and assertive, often seeking out social engagement while also appreciating some moments of solitude.
+    Agreeableness: 5.166666507720947
+    DE scores high on agreeableness, indicating a compassionate and cooperative nature. He/she is likely considerate, empathetic, and enjoys helping others, striving to maintain harmony in interpersonal relationships.
+    Neuroticism: 4.083333492279053
+    DE has a moderate level of neuroticism, experiencing occasional emotional fluctuations and moments of stress or anxiety. He/she may be sensitive to criticism and can sometimes struggle with self-confidence but generally manages to cope with challenges over time.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

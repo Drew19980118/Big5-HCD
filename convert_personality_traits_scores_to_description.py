@@ -63,8 +63,8 @@ def generate_personality_description(row):
 
         For each trait:
         Explain what the score represents in terms of the interlocutor's behavior, tendencies, and characteristics.
-        Use clear, concise, and empathetic language to paint a vivid picture of the person from a third-person perspective.
-        Only provide the answer. Do not include any other information or introductory text in your response."""
+        Use clear, concise, and empathetic language to paint a vivid picture of the person from a third-person perspective. When referring to {interlocutor_id}, use ‘his/her’ as the pronoun.
+        Your response should include the score and description. Do not include any other information or introductory text in your response."""
 
         return llm_response(prompt)
     except Exception as e:

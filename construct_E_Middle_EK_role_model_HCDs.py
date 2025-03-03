@@ -140,11 +140,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    EK demonstrates a moderate level of openness, suggesting a balanced approach to new experiences and creativity. They appreciate new ideas and art but also value tradition and familiarity.
-    With a high score in conscientiousness, EK is highly responsible, organized, and dependable. They likely excel at planning, goal-setting, and completing tasks with efficiency and reliability.
-    A moderate score in extraversion indicates EK enjoys social interactions and has an energetic personality, but also values alone time for introspection and recharging.
-    EK's high agreeableness score reflects a compassionate, cooperative, and empathetic nature. They are likely to be considerate, good-natured, and eager to help others, fostering harmonious relationships.
-    Scoring moderately high in neuroticism, EK may experience some emotional sensitivity and occasional stress or anxiety, but they likely possess a good degree of resilience and emotional stability in handling life's challenges.
+    Openness: 4.416666507720947
+    EK has a moderate level of openness, suggesting that he/she enjoys exploring new ideas and experiences but also values routine and familiarity. He/She is likely curious and open-minded, but may sometimes prefer tried-and-true methods over uncharted territory.
+    Conscientiousness: 5.333333492279053
+    EK scores high in conscientiousness, indicating that he/she is reliable, organized, and disciplined. He/She takes responsibilities seriously and often plans ahead, striving for excellence in his/her endeavors. This trait makes him/her a dependable person who others can count on.
+    Extraversion: 4.416666507720947
+    EK has a balanced level of extraversion, meaning he/she enjoys social interactions and can be outgoing but also values alone time. He/She is comfortable in social settings and can engage with others energetically, but doesn’t always seek the spotlight.
+    Agreeableness: 5.583333492279053
+    EK scores high on agreeableness, which signifies that he/she is compassionate, cooperative, and good-natured. He/She tends to be empathetic towards others and prefers harmonious relationships. This makes him/her a kind and supportive friend or colleague.
+    Neuroticism: 4.25
+    EK has a moderately high level of neuroticism, suggesting that he/she experiences emotions intensely and may be more prone to stress or anxiety. However, this also means that he/she is in touch with his/her feelings and can be sensitive to the emotional climate around him/her.
     """
 
     additional_knowledge = """
@@ -152,16 +157,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

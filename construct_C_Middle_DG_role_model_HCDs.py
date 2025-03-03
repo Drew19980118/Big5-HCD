@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    DG is someone who demonstrates a moderate level of openness, suggesting they enjoy exploring new ideas and experiences while maintaining some level of practicality and tradition. 
-    They exhibit a fairly high degree of conscientiousness, indicating they are organized, responsible, and diligent in their tasks, though they can occasionally be flexible. 
-    DG is quite extraverted, showing they are sociable, energetic, and enjoy engaging with others, often seeking out stimulating environments. 
-    With a moderate score in agreeableness, DG is generally cooperative and friendly but can assert their own needs and opinions when necessary. 
-    Lastly, DG has a high level of neuroticism, meaning they experience a higher degree of emotional sensitivity and may often feel anxious, stressed, or vulnerable to mood swings.
+    Openness: 4.833333492279053
+    DG is relatively open to new experiences and ideas. He/she enjoys exploring creative and intellectual pursuits but may have a balanced approach, not being overly avant-garde or rigid in his/her thinking.
+    Conscientiousness: 4.25
+    DG is quite dependable and organized, often completing tasks with a sense of responsibility. He/she values structure but might not be overly meticulous, allowing for some flexibility.
+    Extraversion: 4.416666507720947
+    DG is sociable and enjoys being around others. He/she tends to be outgoing and energetic, thriving in social settings but also values moments of solitude to recharge.
+    Agreeableness: 3.75
+    DG is somewhat cooperative and empathetic but also balances his/her own needs with those of others. He/she may be seen as fair and considerate without being overly accommodating.
+    Neuroticism: 6.083333492279053
+    DG experiences a higher level of emotional sensitivity and may be prone to stress and anxiety. He/she might frequently worry and react strongly to various situations, indicating a need for reassurance and stability.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    BJ is a curious and imaginative individual who enjoys exploring new ideas and experiences (Openness: 5.5). 
-    They can sometimes be spontaneous and may struggle with sticking to routines or long-term plans (Conscientiousness: 3.0). 
-    BJ is sociable and enjoys being around others, often feeling energized in social settings (Extraversion: 5.083). 
-    They are generally kind-hearted and cooperative, valuing harmony in their interactions but are not afraid to stand their ground when necessary (Agreeableness: 4.333). 
-    BJ tends to experience a range of emotions intensely and may frequently feel anxious or stressed, indicating a higher level of emotional sensitivity (Neuroticism: 5.167).
+    Openness: 5.5
+    BJ is a creative and curious individual who enjoys exploring new ideas and experiences. His high level of openness indicates a strong appreciation for art, imagination, and variety in his life.
+    Conscientiousness: 3.0
+    BJ exhibits moderate conscientiousness, meaning he is fairly reliable and responsible but may not always be meticulous or organized. He can balance spontaneity with planning but might struggle with maintaining consistency in some areas.
+    Extraversion: 5.083333492279053
+    BJ is sociable and energetic, enjoying being around others and engaging in lively conversations. His high extraversion suggests he is outgoing, assertive, and often seeks out social interactions and excitement.
+    Agreeableness: 4.333333492279053
+    BJ tends to be cooperative and friendly, showing empathy and consideration towards others. While he is generally kind-hearted and compassionate, he may also assert his own needs and opinions when necessary.
+    Neuroticism: 5.166666507720947
+    BJ experiences emotions intensely and may have a tendency towards anxiety and mood fluctuations. His high level of neuroticism indicates he might often feel stressed or worried, but this also means he is likely to be very in tune with his own feelings and emotions.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."
@@ -175,7 +180,7 @@ if __name__ == "__main__":
     Here, BJ and AN are their respective designations. Now I will provide you with BJ's Big Five Personality Traits scores (7-point scale) and corresponding personality traits descriptions as follows:  
     ## Personality traits score & Personality traits description:  
     {personality_traits}
-    Additionally, I will now provide you with Additional Knowledge (regarding differences between Human-Human Dialogue and Human Computer Dialogue) as follows:  
+    Additionally, I will now provide you with Additional Knowledge (regarding differences between Human Human Dialogue and Human Computer Dialogue) as follows:  
     ## Additional Knowledge:  
     {additional_knowledge}
     Now, I need you to perform a Task where you transform this Human Human Dialogue into a Human Computer Dialogue, with BJ playing the role of the Human and AN playing the role of the Computer. Specifically, you need to transform BJ's utterances based on BJ's Personality Traits & Personality Traits Description and Additional Knowledge, changing only the style while preserving the content and meaning. Likewise, you need to transform AN's utterances into a Computer style, also without altering the content and meaning.  

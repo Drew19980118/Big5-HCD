@@ -140,11 +140,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    EA demonstrates a good balance of curiosity and willingness to explore new ideas and experiences, indicative of an open-minded and imaginative individual. 
-    With a moderately high level of conscientiousness, EA tends to be reliable and organized but allows for some flexibility in their approach. 
-    They exhibit a moderate level of extraversion, enjoying social interactions and being energized by them, while also appreciating some alone time. 
-    EA scores high in agreeableness, making them compassionate, cooperative, and inclined to maintain harmonious relationships. 
-    A moderate score in neuroticism suggests that EA experiences occasional stress and emotional fluctuations but generally maintains a stable emotional outlook.
+    Openness: 4.833333492279053
+    EA is quite open to new experiences and ideas. His/her imagination and curiosity drive him/her to explore new concepts and embrace unconventional perspectives. This score indicates a balanced appreciation for both novel and traditional elements, suggesting EA is adaptable and willing to consider different viewpoints.
+    Conscientiousness: 3.8333332538604736
+    EA has a moderate level of conscientiousness, reflecting a tendency to be responsible and organized, but also allowing for some flexibility and spontaneity. He/she likely plans ahead and strives for efficiency in his/her endeavors, but isn’t overly rigid in his/her approach.
+    Extraversion: 3.8333332538604736
+    EA enjoys social interactions and draws energy from engaging with others, but is also comfortable spending time alone. He/she has a balanced approach to socializing, enjoying the company of friends and family without needing constant interaction to feel fulfilled.
+    Agreeableness: 4.166666507720947
+    EA tends to be cooperative, compassionate, and friendly. He/she is likely to be considerate of others' feelings and strives to maintain harmony in his/her relationships. This score indicates a strong preference for positive social interactions and a willingness to put others' needs alongside or occasionally ahead of his/her own.
+    Neuroticism: 3.3333332538604736
+    EA experiences a moderate level of emotional reactivity. He/she may sometimes feel anxious or stressed, but generally manages to cope well with life's challenges. This score suggests that while EA might occasionally experience emotional ups and downs, he/she has a fairly stable and resilient disposition.
     """
 
     additional_knowledge = """
@@ -152,16 +157,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."

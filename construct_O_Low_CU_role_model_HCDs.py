@@ -141,11 +141,16 @@ if __name__ == "__main__":
     """
 
     personality_traits = """
-    CU is someone who enjoys some degree of novelty and creativity, though they balance this with a preference for routine and familiarity. 
-    They are generally conscientious and reliable, often organized and mindful of details in their tasks and responsibilities. 
-    CU is sociable and outgoing, finding energy and enjoyment in social interactions and activities. 
-    They exhibit a good level of agreeableness, being cooperative and considerate in their interactions with others, though they still maintain their own perspective. 
-    Finally, CU experiences a fair amount of emotional variability, often feeling anxious or stressed, but they manage to maintain overall functionality despite these fluctuations.
+    Openness: 3.8333332538604736
+    CU is moderately open to new experiences and ideas. He/she enjoys exploring new concepts and experiences to some extent but is also comfortable with familiar routines and conventional approaches.
+    Conscientiousness: 5.25
+    CU is quite conscientious, indicating that he/she is reliable, well-organized, and responsible. He/she tends to be thorough in his/her work and can be depended upon to follow through on commitments.
+    Extraversion: 5.833333492279053
+    CU is highly extroverted, suggesting that he/she is energetic, sociable, and enjoys being around people. He/she likely thrives in social situations and seeks out opportunities to engage with others.
+    Agreeableness: 4.75
+    CU is fairly agreeable, showing that he/she is generally cooperative, kind, and considerate. He/she likely works well with others and tends to maintain harmonious relationships, although he/she can assert his/her own needs when necessary.
+    Neuroticism: 5.0
+    CU has a high level of neuroticism, meaning he/she experiences emotions like anxiety, moodiness, and stress relatively often. He/she might be sensitive to environmental stressors and may need support in managing his/her emotional responses.
     """
 
     additional_knowledge = """
@@ -153,16 +158,16 @@ if __name__ == "__main__":
 
     Communication Styles:
 
-    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Users expect clear, straightforward responses without unnecessary elaboration.
-    Example: User: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
+    HCD: Interactions between humans and machines are characterized by brief, frequent exchanges that prioritize efficiency. Humans expect clear, straightforward responses without unnecessary elaboration.
+    Example: Human: "What time is my next meeting?" System: "Your meeting starts at 2:00 PM in Conference Room B."
 
-    HHD: Conversations between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
+    HHD: Interactions between humans are more nuanced and context-rich, often incorporating additional details, shared thoughts, or collaborative reasoning.
     Example: Person A: "The weather app says it’ll stay clear, but the sky looks a bit hazy. Do you think we should leave earlier for the hike?" Person B: "Good point—maybe we can avoid the afternoon crowd too. Let’s aim for 8 AM instead!"
 
     Relational and Personality Expression:
 
     HCD: Interactions between humans and machines are transactional and lack emotional depth or personal connection, as machines are incapable of genuine empathy or emotional understanding.
-    Example: User: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
+    Example: Human: "I’m overwhelmed with work deadlines." System: "Would you like me to schedule a reminder for your tasks?"
 
     HHD: Human interactions are infused with emotional expression, humor, and openness, fostering trust and mutual understanding. These exchanges often include empathy, support, and shared problem-solving.
     Example: Person A: "I’ve been swamped with deadlines all week—it’s exhausting." Person B: "That sounds rough. Want to grab coffee later? We can brainstorm ways to tackle it together."
@@ -200,11 +205,11 @@ if __name__ == "__main__":
 
     sample_1_human_computer_dialogue = llm_response(sample_1_dialogue_transformation_prompt)
 
-    sample_1_human_human_ct_count = count_ct_occurrences(sample_1_human_human_dialogue)
-    sample_1_human_computer_ct_count = count_ct_occurrences(sample_1_human_computer_dialogue)
-
     sample_1_dialogue_transformation_human_feedback = """
     """
+
+    sample_1_human_human_ct_count = count_ct_occurrences(sample_1_human_human_dialogue)
+    sample_1_human_computer_ct_count = count_ct_occurrences(sample_1_human_computer_dialogue)
 
     sample_1_regenerated_human_computer_dialogue = evaluate_dialogue(sample_1_human_human_dialogue, sample_1_human_computer_dialogue, personality_traits, additional_knowledge, sample_1_dialogue_transformation_human_feedback)
 
@@ -212,11 +217,11 @@ if __name__ == "__main__":
 
     sample_2_human_computer_dialogue = llm_response(sample_2_dialogue_transformation_prompt)
 
-    sample_2_human_human_ct_count = count_ct_occurrences(sample_2_human_human_dialogue)
-    sample_2_human_computer_ct_count = count_ct_occurrences(sample_2_human_computer_dialogue)
-
     sample_2_dialogue_transformation_human_feedback = """
     """
+
+    sample_2_human_human_ct_count = count_ct_occurrences(sample_2_human_human_dialogue)
+    sample_2_human_computer_ct_count = count_ct_occurrences(sample_2_human_computer_dialogue)
 
     sample_2_regenerated_human_computer_dialogue = evaluate_dialogue(sample_2_human_human_dialogue, sample_2_human_computer_dialogue, personality_traits, additional_knowledge, sample_2_dialogue_transformation_human_feedback)
 
