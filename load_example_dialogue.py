@@ -1,31 +1,17 @@
-import os
 import pandas as pd
-import requests
+import json
 from datasets import load_dataset
+import requests
 from concurrent.futures import ThreadPoolExecutor
 from threading import Lock
+import os
 
 API_KEY = '50a857aec1164241a3411b5e38e99982'
+
 headers = {
     "Content-Type": "application/json",
     "api-key": API_KEY,
 }
-
-dialogue_dataset = load_dataset(
-    "nu-dialogue/real-persona-chat",
-    name="dialogue",
-    trust_remote_code=True
-)
-train_dialogue_dataset = dialogue_dataset['train']
-
-filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == 'DM')
-
-last_two_dialogues = filtered_train_dialogue.select(range(len(filtered_train_dialogue) - 4, len(filtered_train_dialogue)))
-
-output_file = 'test_interlocutor_dialogues/A_High_DM_example_dialogues_backup.csv'
-
-lock = Lock()
-dialogue_count = 0  # Initialize the dialogue count
 
 def llm_response(prompt):
     payload = {
@@ -58,7 +44,7 @@ def llm_response(prompt):
 def process_dialogue(index):
     global dialogue_count  # Access the global counter
     utterances = []
-    for text in last_two_dialogues[index]['utterances']['text']:
+    for text in selected_dialogues[index]['utterances']['text']:
         refined_prompt = f"Please translate the following sentence from Japanese into English '{text}'. If the sentence contains any sensitive contents, you are required to ignore them. Most Importantly! You are only allowed to output the translated sentence without any other information!!!"
         response = llm_response(refined_prompt)
         utterances.append(response)
@@ -82,5 +68,51 @@ def process_dialogue(index):
         else:
             df.to_csv(output_file, mode='a', header=False, index=False)
 
-with ThreadPoolExecutor(max_workers=1) as executor:
-    executor.map(process_dialogue, range(0, len(last_two_dialogues)))
+# 读取 CSV 文件
+interlocutors_df = pd.read_csv('sampled_interlocutors.csv', header=None)
+
+# 替换单引号为双引号并解析 JSON 字符串
+interlocutors_df[1] = interlocutors_df[1].apply(lambda x: json.loads(x.replace("'", '"')))
+
+# 加载对话数据集
+dialogue_dataset = load_dataset(
+    "nu-dialogue/real-persona-chat",
+    name="dialogue",
+    trust_remote_code=True
+)
+train_dialogue_dataset = dialogue_dataset['train']
+
+# 从第三个数据开始遍历
+for i, row in enumerate(interlocutors_df.iloc[14:].iterrows()):
+    _, row_data = row  # iterrows() 返回 (index, row)
+    interlocutor_data = row_data[1]  # 提取 JSON 数据
+
+    # 检查 'Interlocutor.id' 是否存在
+    interlocutor_id = interlocutor_data.get('interlocutor_id', None)
+
+    # 检查 'Category' 是否存在（假设这是另一个字段）
+    category = interlocutor_data.get('Category', None)
+
+    # 过滤对话数据集以获取当前 interlocutor 的对话
+    filtered_train_dialogue = train_dialogue_dataset.filter(lambda x: x['interlocutors'][0] == interlocutor_id)
+
+    # 获取前两个对话
+    # first_twelve_dialogues = filtered_train_dialogue.select(range(min(14, len(filtered_train_dialogue))))
+
+    # # 获取前两个对话
+    # first_twelve_dialogues = filtered_train_dialogue.select(range(min(14, len(filtered_train_dialogue))))
+
+    # 获取第 20 个到第 25 个对话（索引 19 到 24）
+    start_index = 30
+    end_index = 40
+    selected_dialogues = filtered_train_dialogue.select(
+        range(start_index, min(end_index, len(filtered_train_dialogue))))
+
+    # 保存到 CSV 文件
+    output_file = f'test_interlocutor_dialogues/{category}_{interlocutor_id}_example_dialogues.csv'
+
+    lock = Lock()
+    dialogue_count = 0  # Initialize the dialogue count
+
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        executor.map(process_dialogue, range(0, len(selected_dialogues)))

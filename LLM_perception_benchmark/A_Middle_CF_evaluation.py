@@ -5,7 +5,7 @@ import numpy as np
 
 # File paths for the two CSVs
 human_human_csv = '../test_interlocutor_dialogues/A_Middle_CF_example_dialogues.csv'
-human_computer_csv = '../role_model_synthetized_HCD/A_Middle_CF_role_model_synthetized_HCD.csv'
+human_computer_csv = '../role_model_synthetized_HCD/A_Middle_EQ_role_model_synthetized_HCD.csv'
 deepseek_output_file = 'deepseek_evaluation_results/A_Middle_CF.txt'
 llama3_output_file = 'llama3_evaluation_results/A_Middle_CF.txt'
 gemma2_output_file = 'gemma2_evaluation_results/A_Middle_CF.txt'
