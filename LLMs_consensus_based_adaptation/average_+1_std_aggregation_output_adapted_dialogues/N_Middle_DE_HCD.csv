@@ -1,0 +1,330 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"DE: Hello. Nice to meet you.
+CR: Hello. How can I assist you today?
+DE: What are your hobbies?
+CR: I enjoy being active, though I don't have specific hobbies.
+DE: Is it some kind of sport? Or is it training or something?
+CR: Yes, I engage in training at the gym.
+DE: That's cool. I also went to the gym, but I couldn't continue.
+CR: It's challenging to maintain without a clear goal.
+DE: I understand. I usually just walk my dog.
+CR: Walking the dog seems fun. I wish I could experience it.
+DE: The summer heat was intense, making me hesitate to go for walks, but it is enjoyable to walk together.
+CR: Indeed, weather conditions can vary, impacting outdoor activities.
+DE: Yes, the gym isn't affected by the weather, right?
+CR: Correct, the environment is consistent all year round.
+DE: Do you also use things like running machines?
+CR: Yes, I run on the machine for 30 minutes.
+DE: That's healthy. I used a machine with an adjustable incline at the gym I used to go to.
+CR: Inclines add difficulty quickly.
+DE: With an incline, it feels quite strenuous, almost like mountain climbing.
+CR: Even walking at an incline can be challenging.
+DE: How many hours a day do you train?
+CR: I train twice a week for about 2 hours each session.
+DE: That's a good, manageable routine. Continuity is key. That's wonderful.
+CR: If it's too burdensome, it's easy to quit.
+DE: I see. I ended up stopping. Hahaha.
+CR: Sometimes continuity happens by chance.
+DE: During the pandemic, I did Zumba indoors often.
+CR: Did you follow YouTube videos?
+DE: Yes. The music helps me keep going.
+CR: That sounds enjoyable.",1,15,15,15,15
+2,"DE: Hello.
+CR: Hello. How can I assist you today?
+DE: Are you planning anything for the fall?
+CR: I want to go on a trip, but...
+DE: That sounds exciting. I'm curious about the COVID-19 situation.
+CR: Yes. I hope the situation improves.
+DE: Agreed. Do you have any ideas for your destination?
+CR: I'm considering Noto.
+DE: Was it Noto or Toyama?
+CR: Yes. Because I have never been there.
+DE: I remember the fish being delicious there, like sweet shrimp and yellowtail. Would you enjoy that?
+CR: I see. I would definitely like to eat fish.
+DE: Fish from the Sea of Japan are very tasty, aren't they?
+CR: Correct. There are many varieties.
+DE: What do you think about taking the Hokuriku Shinkansen?
+CR: Deciding between the plane and the Shinkansen is tricky.
+DE: I understand. I've never taken the Hokuriku Shinkansen; I'd like to try it. Airplanes are quick. What do you think?
+CR: I haven't tried it either. Is it not very fast?
+DE: It depends on the location of the airport. What are your thoughts?
+CR: It's subtle. Really.
+DE: If you're considering driving, would renting a car be an option for you?
+CR: Renting a car from the airport is convenient, isn't it?
+DE: Yes, it allows you to visit various places.
+CR: Even small places have interesting spots I want to visit.
+DE: That's true. A trip to Hokuriku sounds lovely. Are you planning to visit Kanazawa as well?
+CR: If staying for two nights, I would like to include Kanazawa.
+DE: It has charming places in the castle town, like Kenrokuen. Do you think that's appealing?
+CR: Right. But I've already been to Kanazawa, so what should I do?
+DE: I see. Planning the itinerary is part of the fun, isn't it? Let me know if you have any other ideas.
+CR: Also, let's hope for a better situation with COVID-19.",4,15,15,15,15
+3,"DE: Hello. Please.
+CR: Hello.
+DE: Do you listen to music?
+CR: I just listen to the songs playing on FM.
+DE: I see. The radio station J-WAVE is playing here too.
+CR: I listen to it on Radiko on my smartphone during my commute.
+DE: Yes, Radiko is convenient because you can listen later if you miss it.
+CR: It has clearer sound quality than traditional radio waves.
+DE: In the past, it used to be noisy. Indeed.
+CR: Recently, I was watching TikTok and discovered that EDM is quite interesting.
+DE: What is EDM? I'm not familiar with it.
+CR: It stands for electronic dance music.
+DE: Is it music you dance to in videos?
+CR: It's typically for clubs and live shows.
+DE: I see. So, you enjoy clubs and live performances via videos?
+CR: People go to clubs and dance to this music.
+DE: COVID-19 has made it difficult to go to clubs and live events, hasn't it? But some people still go.
+CR: Yes, indeed. I'd like to experience it someday.
+DE: Before COVID, I went often. It's really fun to dance to the music.
+CR: I’ve only been once, and it was not very exciting.
+DE: What kind of music genres do you like?
+CR: Definitely not enka, haha. The last concert I attended was Lady Gaga's.
+DE: Oh, Lady Gaga reminds me of Top Gun. Have you seen it?
+CR: I watched it!
+DE: I watched it twice!
+CR: Twice!! I cried at the end.
+DE: From the first intro, I got goosebumps and teared up.
+CR: It was a truly impactful scene.
+DE: It was an incredibly entertaining movie.
+CR: Absolutely!",2,15,15,15,15
+4,"DE: Hello  
+CR: Hello.  
+DE: Do you enjoy coffee?  
+CR: Yes, with sugar and milk.  
+DE: I see. I prefer black coffee.  
+CR: What kind of black coffee do you prefer?  
+DE: Strong and fruity, like Ethiopian.  
+CR: Understood. I don't enjoy black coffee.  
+DE: I began liking it after I started working. Sweet things aren't my preference.  
+CR: Noted. I've never liked black coffee.  
+DE: I enjoy coffee but prefer small amounts or decaf due to caffeine sensitivity.  
+CR: Does coffee help you stay awake?  
+DE: Yes, I drink it to stay alert at work.  
+CR: I drink coffee at work too, but it only affects my mood.  
+DE: Perhaps caffeine works differently for different people.  
+CR: Could be individual differences.  
+DE: Yes, that might be it. Thick matcha in tea ceremony was intense for me.  
+CR: I'm considering learning the tea ceremony.  
+DE: That's wonderful! The tea ceremony is profound.  
+CR: Is a one-day trial course an option?  
+DE: Yes, it's a good idea to check the classroom atmosphere first.  
+CR: What kind of atmosphere would you recommend?  
+DE: A place to enjoy wabi-sabi without unrelated topics like illness.  
+CR: Do unrelated topics come up often?  
+DE: My previous classroom focused solely on tea ceremony, but the one in Tokyo was different.  
+CR: Is that why you quit?  
+DE: Yes, it was too different. I didn’t want to quit, but...  
+CR: I hope you find another good place.  
+DE: I hope you find a good classroom too.  
+CR: A classroom with delicious snacks would be nice.",8,15,15,15,15
+5,"DE: Good evening!  
+BG: Good evening. Please state your hobbies.  
+DE: Recently, I've been into DIY projects.  
+BG: Noted. DIY offers various parts to choose from.  
+DE: Yes, planning the projects is enjoyable. Any hobbies of yours?  
+BG: Writing, walking, photography, piano, Fujii Kaze.  
+DE: Can you elaborate on essay writing?  
+BG: It’s an extension of diary writing, focusing on thoughts.  
+DE: That sounds effective for organizing thoughts.  
+BG: Writing occasionally can be easier to manage.  
+DE: Writing occasionally seems more achievable.  
+BG: Reviewing later can provide insights.  
+DE: I find reading old blog posts rewarding.  
+BG: Blogging is similar. I now prefer handwriting.  
+DE: Do you have specific stationery preferences?  
+BG: Various instruments, particularly ballpoint pens.  
+DE: I once bought a fountain pen that I rarely use.  
+BG: Fountain pens have a distinct feel. I now use ballpoint pens.  
+DE: Do you use thin or thick pens?  
+BG: 0.5 is ideal. The Uni Jetstream is excellent.  
+DE: I'll check it out. Are thin pens useful?  
+BG: Yes, for writing thank-you letters.  
+DE: Your writing must be clear.  
+BG: It’s ordinary. I also doodle with colored brush pens.  
+DE: Doing it for work must mean you're skilled.  
+BG: Practice often requires more time.  
+DE: I practice common characters but struggle with others.  
+BG: Consistent practice can be challenging.  
+DE: Writing should be enjoyable.  
+BG: Understood.",9,15,15,15,15
+6,"DE: Hello. Please!
+
+BF: Yes, thank you. How can I assist you today?
+
+DE: Did you have a summer vacation?
+
+BF: I do not take breaks. How about you?
+
+DE: I couldn't go home for the summer because I had to work without any vacation. How did you spend your summer?
+
+BF: That must have been tough. I went on a trip with my family during Obon.
+
+DE: That sounds nice. Where did you go?
+
+BF: Nagano Prefecture.
+
+DE: Is it in the mountains?
+
+BF: Yes, near Yatsugatake. It was cool and comfortable.
+
+DE: I see. Are you familiar with Nagano?
+
+BF: Yes. Have you been to Nagano?
+
+DE: I've been to Kiyosato and climbed Mount Yatsugatake.
+
+BF: Do you enjoy mountain climbing?
+
+DE: Yes, but I haven't climbed in years. I used to climb with family and friends.
+
+BF: I haven't hiked since elementary school.
+
+DE: I felt the same, but my family influenced me to climb.
+
+BF: Family influence is significant. Any memorable mountains?
+
+DE: Yatsugatake was the harshest—cold and windy.
+
+BF: Did you climb it in winter?
+
+DE: It was a winter mountain but during spring or autumn.
+
+BF: Physical strength is necessary for climbing. Any advice?
+
+DE: Staying fit is important. Now, I also enjoy relaxing at the foot of the mountain.
+
+BF: Taking it easy and enjoying food is the best.
+
+DE: Did you have any tasty food in Kiyosato?
+
+BF: Yes, a lot.
+
+DE: What was the best?
+
+BF: The corn. I tried various kinds.
+
+DE: That sounds delicious.
+
+BF: It was. Shall we continue this later?",12,15,15,15,15
+7,"DE: Hello!
+BF: Hello, how can I assist you today?
+DE: Have you decided what to have for dinner tonight?
+BF: I haven't decided yet. Have you?
+DE: I haven't decided either. I'm wondering what's in the refrigerator right now.
+BF: It can be challenging to plan meals every day, right?
+DE: Absolutely! Do you go shopping every day?
+BF: No, I do bulk shopping on weekends.
+DE: Me too. When the refrigerator is almost empty, I end up making more stir-fries.
+BF: Yes, especially on Fridays when supplies run low.
+DE: Exactly. When I search for a recipe with a specific ingredient online, it often ends up being a stir-fry.
+BF: That's a common outcome. Sometimes buying ready-made food can be easier.
+DE: How far is the local supermarket from your house?
+BF: There are 4-5 stores within a 10-minute walk, so I have many options.
+DE: That's really convenient. You can choose whatever you want.
+BF: Yes, it's quite handy. Also, there's a good yakitori restaurant nearby.
+DE: That sounds amazing! I'm definitely envious!
+BF: I'm planning to get yakitori for dinner today.
+DE: Is it takeout? It's great that such options are more available now.
+BF: Yes, it's very convenient and a nice change.
+DE: It's enjoyable to get the taste without having to dine in.
+BF: It can sometimes be more comfortable than eating inside.
+DE: Exactly! It's more convenient for lunch too.
+BF: Indeed. I'm starting to feel hungry.
+DE: Same here. I'm really into the takoyaki from the local supermarket.
+BF: That sounds delicious! I might have to try it sometime.
+DE: It has a rich broth and a chewy texture that's amazing.
+BF: My stomach just growled! Haha.
+DE: Haha, I hope you have a delicious dinner!
+BF: Yes! Let's talk again!",3,15,15,15,15
+8,"DE: Hello!
+BF: Hi! How can I assist you today?
+DE: Do you often go out?
+BF: Not much lately. Are you thinking about a trip?
+DE: With the coronavirus, it's tough to relax.
+BF: I understand. Any countries you're interested in visiting?
+DE: Europe sounds nice. Maybe Italy, Germany, or Spain.
+BF: Great choices. Have you visited Germany before?
+DE: Yes, but only briefly. I'd love to see Italy or Spain next.
+BF: Any other European countries you've visited?
+DE: France was also very nice.
+BF: Which part of France did you visit?
+DE: Mostly Paris and some old castles.
+BF: Do you often travel abroad?
+DE: Yes, especially when my sister was in the Czech Republic.
+BF: That's lucky. I wish I had those opportunities.
+DE: The food in Spain and Italy looks delicious, right?
+BF: Yes, and I enjoy soccer, so I'd love to watch a match there.
+DE: Spain is famous for soccer. Even non-fans can enjoy it.
+BF: Germany’s beer also sounds tempting.
+DE: And the sausages are great. They pair well with the beer.
+BF: Sounds good! I want to travel now.
+DE: From November, towns hold Christmas markets. They're interesting.
+BF: Hopefully, we can travel freely soon.
+DE: True. Tokyo has German events like Oktoberfest. They capture the atmosphere.
+BF: Yes, attending those events can be enjoyable.
+DE: I really want to travel. Paris is on my list again.
+BF: I want to visit Europe soon and watch soccer matches.
+DE: Let's chat about our travel plans again soon!
+BF: Sure, looking forward to it.",8,15,15,15,15
+9,"DE: Hello!  
+BM: Hello! How can I assist you today?  
+DE: Do you have anything you want to do once the COVID-19 situation settles down?  
+BM: I want to go on an overseas trip.  
+DE: Sounds good. Do you have any ideas about where you'd like to go?  
+BM: I haven't been to many places, so anywhere is fine. Taiwan would be a safe choice.  
+DE: The food looks delicious, doesn't it?  
+BM: Yes. There's also a place that served as a model for Spirited Away.  
+DE: It's the place where Chihiro's parents are eating a lot, right? What was that place called again?  
+BM: I don't remember the name. Would you like more information?  
+DE: Certainly. A friend who went there said it was good.  
+BM: Would you like details from that person?  
+DE: Sure. Taiwan seems easy to visit.  
+BM: There are many kind people, and it seems easy to move around.  
+DE: The risk level seems to be low. Do you like traveling?  
+BM: I like traveling. How about you?  
+DE: I also like it. I liked Europe.  
+BM: Have you been to many places overseas?  
+DE: My first overseas trip was to Guam on a company trip. After that, I traveled to various places.  
+BM: Was the best one Europe?  
+DE: I see. Canada was also good.  
+BM: What kind of places did you visit?  
+DE: Since the main goal was to see the aurora, I went to a place called Yellowknife.  
+BM: I've heard of the name. It seems like a very beautiful place.  
+DE: Yes, there were cabins for Japanese tours, so I could go with peace of mind.  
+BM: It’s reassuring to have guidance in Japanese.  
+DE: Yes, yes. We ate deer stew while waiting for the aurora.  
+BM: How was the deer meat?  
+DE: The smell didn't bother me much. Food is one of the pleasures of travel.  
+BM: Understood. Food is important when traveling.",2,15,15,15,15
+10,"DE: Hello!
+DD: Hello!
+DE: What are your goals in the near future?
+DD: I aim to get into graduate school.
+DE: What are you studying?
+DD: Mechanical Systems Engineering.
+DE: What jobs can you pursue with that degree?
+DD: Automotive, robotics, and energy sectors.
+DE: I took a PCR test today, and a robot conducted it.
+DD: Automation is advantageous.
+DE: What areas do you think will be automated next?
+DD: Caregiving might be automated soon, but full car automation is distant.
+DE: Automating caregiving tasks could be beneficial. Some people enjoy driving.
+DD: True, and infrastructure complexity plays a role.
+DE: Are you aware of Toyota's automated city project?
+DD: Yes. Where is it located?
+DE: In Susono City, near Mt. Fuji.
+DD: Will buses and trucks also be automated?
+DE: Yes.
+DD: I'd consider living there.
+DE: You can find more details on Toyota Times.
+DD: I have another goal.
+DE: What is it?
+DD: I want to lose weight.
+DE: Are you concerned about your weight?
+DD: Yes, I notice many attractive people.
+DE: Many have an appealing physique.
+DD: That's why I want to lose weight.
+DE: It's important to prioritize your health.
+DD: I will.",14,15,15,15,15

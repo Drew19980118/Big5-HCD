@@ -189,7 +189,6 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
 
             while True:
                 if dialogue is None:
-                    print('Need to regenerate dialogue!')
                     dialogue = llm_response(regenerate_prompt)
                     continue
 
@@ -208,7 +207,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 3 <= i <= 12:
+            if 5 <= i <= 12:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -234,7 +233,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 1
+        index = 3
 
         for human_human_dialogue in human_human_dialogues:
 
@@ -308,7 +307,6 @@ if __name__ == "__main__":
 
             while True:
                 if human_computer_dialogue is None:
-                    print('Need to regenerate dialogue!')
                     human_computer_dialogue = llm_response(dialogue_transformation_prompt)
                     continue
 
@@ -318,9 +316,6 @@ if __name__ == "__main__":
                 hcd_secondary_speaker_count = count_speaker_occurrences(human_computer_dialogue, secondary_speaker)
 
                 if hcd_first_speaker_count != hhd_first_speaker_count or hcd_secondary_speaker_count != hhd_secondary_speaker_count:
-                    print(
-                        f"Speaker count mismatch: first_speaker (HHD: {hhd_first_speaker_count}, HCD: {hcd_first_speaker_count}), "
-                        f"secondary_speaker (HHD: {hhd_secondary_speaker_count}, HCD: {hcd_secondary_speaker_count})")
                     human_computer_dialogue = None
                     continue
 
