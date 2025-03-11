@@ -99,7 +99,7 @@ for i, row in enumerate(interlocutors_df.iloc[5:].iterrows()):
     #获取前十二个对话
     # first_twelve_dialogues = filtered_train_dialogue.select(range(min(12, len(filtered_train_dialogue))))
 
-    first_twelve_dialogues = filtered_train_dialogue.select(range(28, 32))
+    first_twelve_dialogues = filtered_train_dialogue.select(range(33, 36))
 
     # 保存到 CSV 文件
     output_file = f'sampled_HHDs/{category}_{interlocutor_id}_example_dialogues.csv'

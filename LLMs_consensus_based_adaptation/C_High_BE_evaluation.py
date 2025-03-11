@@ -238,7 +238,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 10
+        index = 13
 
         for human_human_dialogue in human_human_dialogues:
 
