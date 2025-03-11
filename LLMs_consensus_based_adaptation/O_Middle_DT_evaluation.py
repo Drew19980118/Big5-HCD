@@ -207,7 +207,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 6 <= i <= 12:
+            if 12 <= i <= 12:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -233,7 +233,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 4
+        index = 10
 
         for human_human_dialogue in human_human_dialogues:
 

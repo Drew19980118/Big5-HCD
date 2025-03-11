@@ -29,6 +29,36 @@ EE: Even if I can’t cook, I want to make an effort to eat properly.
 EV: Yes, it’s important to eat something to stay healthy.
 EE: By the way, what did you have for dinner today?
 EV: I had mapo eggplant. Would you like a recipe for it?",15,15,15,15,15
+2,"EE: Good evening.
+EV: Good evening. How can I assist you tonight?
+EE: Autumn is ideal for sports. Have you been playing any recently?
+EV: Yes, I've been playing badminton.
+EE: I was in the badminton club during school. Those were great times.
+EV: Acknowledged. I played during high school too.
+EE: Badminton is enjoyable, right?
+EV: Yes, it's convenient since it can be played indoors regardless of the weather.
+EE: True, but playing outdoors can be tricky because of the wind.
+EV: Yes, playing with the doors closed avoids that issue.
+EE: It can get extremely hot inside during summer. Staying hydrated is essential.
+EV: Yes, it can become quite humid.
+EE: I remember getting heatstroke once while playing. Hopefully, that doesn't happen again.
+EV: Noted. Staying hydrated and taking breaks is crucial to prevent such issues.
+EE: Yes, I agree. It's essential to take breaks and stay hydrated.
+EV: Correct. It's important not to overdo it.
+EE: Did you mostly play doubles?
+EV: Yes, I played a lot of doubles.
+EE: Did you play singles often?
+EV: I joined in-house singles matches, but tournaments were mostly doubles.
+EE: I had the same experience.
+EV: In doubles, the defensive range is easier to handle.
+EE: But you need to think about partner rotations.
+EV: Coordination does take practice at first.
+EE: It can be hard to find a consistent partner.
+EV: True, playing with different pairs was challenging.
+EE: Did you prefer doubles over singles?
+EV: Yes, I enjoyed the teamwork aspect.
+EE: It's satisfying when you coordinate well with your partner.
+EV: Agreed.",9,15,15,15,15
 3,"EE: Hello.
 BR: Hello. How can I assist you today?
 EE: Anything made you happy recently?
@@ -119,3 +149,153 @@ EE: It's hard to eat them often.
 BR: Consider planting them yourself.
 EE: Should I buy seeds and try planting?
 BR: Yes, home gardening can be rewarding.",29,15,15,15,15
+6,"EE: Hello, nice to meet you.  
+FO: Hi there.  
+EE: Do you have a favorite food?  
+FO: Can't really think right now, I'm so full.  
+EE: What did you have for lunch?  
+FO: Udon from Marugame Seimen.  
+EE: Meat udon is one of my favorites.  
+FO: What's in it?  
+EE: It's topped with sweet and savory beef.  
+FO: Sounds tasty.  
+EE: It's simple but makes me happy when I eat it.  
+FO: I had kamaage udon today.  
+EE: Great choice! Kamatama udon is also delicious.  
+FO: I ordered the large portion.  
+EE: Was it Tokumori size?  
+FO: Yes, it cost 530 yen.  
+EE: Seems like a fair price for the quantity.  
+FO: I don't usually keep track of udon prices.  
+EE: Did you add any tempura?  
+FO: No, it's a bit too expensive.  
+EE: You're mindful of cost. What else do you like?  
+FO: McDonald's.  
+EE: Have you tried the Tsukimi Burger this year?  
+FO: It's a yearly tradition for me.  
+EE: I always look forward to it.  
+FO: Lately, I just get fries and salad.  
+EE: I rarely get salad, but it’s good when I do.  
+FO: It is, though a bit pricey.  
+EE: Yes, and then I want fries too.  
+FO: Makes sense.",32,15,15,15,15
+7,"EE: Hello, nice to meet you.  
+FO: Hello.  
+EE: Do you like sports?  
+FO: No.  
+EE: I see. What do you do on your days off?  
+FO: Relax.  
+EE: Sounds good. Do you play games?  
+FO: Yes, fun.  
+EE: They are, aren't they? What kind?  
+FO: Mostly smartphone games, they change often.  
+EE: I see, I hardly play smartphone games. Recommendations?  
+FO: Games rated 4+ stars.  
+EE: I haven't checked ratings much.  
+FO: Many people rely on them.  
+EE: I want to play Tsum Tsum again.  
+FO: Famous puzzle game?  
+EE: Yes, connect and eliminate pieces. I played it in middle school.  
+FO: It's been around long.  
+EE: It has history. Do you have a Switch?  
+FO: No.  
+EE: I see. Watch YouTube on your phone?  
+FO: Yes.  
+EE: What kind of videos?  
+FO: Anime and background music.  
+EE: You're an anime fan? I watch on Amazon Prime.  
+FO: Occasionally. Currently, Overlord.  
+EE: What's Overlord?  
+FO: Dark fantasy based on a novel, like SAO.  
+EE: I loved SAO, I'll check it out!  
+FO: I'm playing the SAO game now.",3,15,15,15,15
+8,"EE: Hello, nice to meet you.
+FO: Hello.
+EE: Do you like animals?
+FO: I am an ordinary individual.
+EE: Are you a dog person or a cat person?
+FO: I have never had one, but is it a cat?
+EE: We’re friends, huh? I really love cats. I want to have one someday.
+FO: Are you currently living in an apartment?
+EE: The apartment doesn't allow pets.
+FO: Understood.
+EE: Is it the same for your house?
+FO: That might be the case for us too.
+EE: Are you living with your parents?
+FO: Yes, there are frequent moves, so I don’t know the contract details.
+EE: I understand. I also moved a lot. Regarding pets, I knew about it because it was also my parents’ wish.
+FO: I see.
+EE: Do you have any plans to live alone?
+FO: No, it’s like communal living.
+EE: Is it a share house?
+FO: Similar.
+EE: I see, and the rent will also be cheaper.
+FO: Living alone is scary.
+EE: I understand. If I end up staying somewhere alone, I will sleep with the light on.
+FO: Do you understand?
+EE: It becomes scary when there are unseen places because it feels like something might be lurking there.
+FO: Showers are scary.
+EE: When you close your eyes, you can’t grasp the situation around you.
+FO: So you end up showing your back.
+EE: Let’s open our eyes after splashing water on our backs.
+FO: I am not that skillful.",2,15,15,15,15
+9,"EE: Hello, nice to meet you.
+FO: Hello.
+EE: What's your favorite season?
+FO: Summer.
+EE: Really? Isn't the heat uncomfortable?
+FO: I can handle it.
+EE: Many people prefer cold weather so they can layer clothes.
+FO: It's hard to stay warm after a bath.
+EE: Agreed, and getting out of bed in winter is tough.
+FO: Yes, winter is harsh.
+EE: So, what do you like about summer?
+FO: The warmth and the feeling of youth.
+EE: Like running towards the sunset?
+FO: Even if you can't reach it, yes.
+EE: That's common in youth dramas.
+FO: I don't watch dramas.
+EE: When it comes to summer and youth, many think of Koshien.
+FO: How popular is Koshien?
+EE: Many follow the results even if they don't watch live.
+FO: It seems popular.
+EE: Yes, people often talk about it.
+FO: There are many baseball fans.
+EE: Yes, and pro baseball fans also follow Koshien.
+FO: Does Koshien affect the draft?
+EE: Yes, players who perform well are picked by top teams.
+FO: Interesting.
+EE: I'm not an expert, but that's what I've heard.
+FO: How popular are e-sports?
+EE: They've become very popular recently, especially games like APEX.
+FO: It's exciting when you know the games.",13,15,15,15,15
+10,"EE: Hello, nice to meet you.  
+FO: Greetings.  
+EE: Do you have any hobbies?  
+FO: Yes, I have several hobbies.  
+EE: What are some of them?  
+FO: I enjoy gaming, reading, and watching news updates.  
+EE: What types of books do you usually read?  
+FO: Have you heard of light novels?  
+EE: I typically watch the anime adaptations.  
+FO: That’s an alternative way to enjoy them.  
+EE: Are there any advantages to reading the books?  
+FO: Yes, books often contain more detailed stories and come out before the anime.  
+EE: So, books include more details than the anime?  
+FO: Correct. For example, Re:Zero books have many short stories not seen in the anime.  
+EE: I’ve been watching the anime. Now I’m interested in the books.  
+FO: The original work is quite detailed, with the Empire arc ongoing.  
+EE: I need to catch up. I’ll try to do that this weekend.  
+FO: Are you up to date with the second season of the anime?  
+EE: The episode with the rabbit was memorable for me.  
+FO: Do you remember the name of the rabbit?  
+EE: It’s a large rabbit with red eyes.  
+FO: In the original, Echidna discusses it more.  
+EE: Comparing the two versions could be interesting.  
+FO: Yes, and there are many mysterious characters in the anime.  
+EE: Which character do you find most mysterious?  
+FO: Al will be seriously involved soon.  
+EE: Al, or Aldebaran? I’ll review to refresh my memory.  
+FO: Subaru was attacked with a wooden sword, but the Sword Saint’s intervention was omitted in the anime.  
+EE: So that scene is in the book?  
+FO: Yes, as I recall.",6,15,15,15,15
