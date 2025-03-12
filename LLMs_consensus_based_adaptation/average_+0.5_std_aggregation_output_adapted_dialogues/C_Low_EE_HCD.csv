@@ -1,0 +1,121 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"EE: Good evening!
+EV: Good evening. How can I assist you today?
+EE: Do you have any favorite foods?
+EV: You like chicken, don't you? I'm not really a picky eater.
+EE: Chicken! You can prepare it in many different ways, right?
+EV: That's right. It's healthy, and you can consume a variety of dishes with it.
+EE: Do you have any favorite dishes in particular?
+EV: Is it karaage or chicken nanban, I wonder? Using thigh meat.
+EE: Thigh meat is juicy and delicious, isn't it?
+EV: Yes, chicken breast cutlets are good too, but thigh is juicier.
+EE: Chicken breast cutlet is good too! I want to make it into a sandwich.
+EV: The local butcher fries chicken tenders for me, so I often purchase them.
+EE: The butcher shop's prepared foods are very delicious, so I end up buying them.
+EV: Yes, since they fry it after you purchase it, it's hot and delicious.
+EE: I'm hungry.
+EV: Have you had dinner yet?
+EE: I haven't returned home yet, so it is likely to be around midnight.
+EV: Understood. Having a late dinner is not very good for you.
+EE: That's right. So there are often days when I don't eat dinner.
+EV: I see. I often skip breakfast and lunch, but I try to have dinner.
+EE: I often skip breakfast, so there are many days when I only have one meal a day.
+EV: I occasionally have only dinner on weekdays.
+EE: When you're busy, it ends up like that, doesn't it?
+EV: Yes, it's quite difficult to find a substantial amount of time.
+EE: If I start living alone, it seems like I'll end up neglecting my meals even more.
+EV: Before you know it, you might miss your mealtime and have days where you don't eat.
+EE: Even if I can't cook for myself, I want to at least make an effort to eat properly.
+EV: Yes, even if it's just some side dishes, you need to eat something to maintain your health.
+EE: By the way, what was today's dinner?
+EV: It is mapo eggplant.",1,15,15,15,15
+2,"EE: Good evening.  
+EV: Good evening. How can I assist you today?  
+EE: Autumn makes me think of sports. Have you done any recently?  
+EV: Yes, I played badminton with my cousin.  
+EE: That sounds fun! I have lots of memories from playing badminton.  
+EV: I played in the badminton club in high school too.  
+EE: Badminton is a lot of fun, isn't it?  
+EV: Yes, and it's convenient since it can be played indoors.  
+EE: True, but playing outside can be tricky because of the wind. It's a bit frustrating sometimes.  
+EV: We always kept the doors closed to avoid that issue.  
+EE: But it gets really hot inside during summer, which can be quite uncomfortable.  
+EV: Yes, it was often very humid and hard to play.  
+EE: I actually got heatstroke once. It's crucial to stay hydrated to avoid that.  
+EV: Some players experienced cramps due to the heat too.  
+EE: Taking breaks and not overexerting is so important. I tend to get anxious about that.  
+EV: Yes, avoiding overexertion is key.  
+EE: Did you often play doubles games?  
+EV: Yes, doubles matches were very common.  
+EE: Did you play singles as well?  
+EV: Mostly for in-house matches, but doubles were more common in tournaments.  
+EE: That makes sense. Doubles are less physically demanding in terms of coverage.  
+EV: Yes, the smaller defensive area makes it easier to manage.  
+EE: But coordinating with a partner can be challenging.  
+EV: Definitely. It took some time to get used to the coordination.  
+EE: It's great when you find a consistent partner, though.  
+EV: Playing with different partners could be more challenging.  
+EE: Did you enjoy doubles more than singles?  
+EV: Yes, I enjoyed the teamwork aspect of doubles.  
+EE: The best part is when you can effectively support your teammate.  
+EV: I agree, it feels great to work well together.",29,15,15,15,15
+3,"EE: Hello, nice to meet you!  
+BR: Hello. How can I assist you today?  
+EE: Has anything made you happy recently?  
+BR: I drew a small manga and received positive feedback.  
+EE: That's wonderful! Do you enjoy drawing?  
+BR: Yes, though I haven't done it much lately.  
+EE: What kind of pictures do you draw?  
+BR: Relaxed and casual ones.  
+EE: A friend once drew mascots and characters in my notebook. It made me really happy.  
+BR: That sounds pleasant.  
+EE: I also had them draw icons for my social media.  
+BR: That's useful.  
+EE: They drew a cute portrait of me too.  
+BR: Portraits are challenging but rewarding.  
+EE: Yes, exactly. What was the story in your manga?  
+BR: It's about energy healing, which I am studying.  
+EE: What is energy healing?  
+BR: It's a practice similar to qigong, involving the flow of energy.  
+EE: Did you explain the method in your manga?  
+BR: Yes, to help recruit monitors.  
+EE: Like a testimonial. I'd love to read it!  
+BR: Spreading the word would be helpful.  
+EE: A manga format makes it interesting.  
+BR: Visualizing it makes it easier to understand.  
+EE: What did you like about energy healing?  
+BR: It eased my mental blocks and connected me to my body.  
+EE: That sounds fascinating.  
+BR: It can appear suspicious, so it's hard to share.  
+EE: Firsthand accounts are invaluable.  
+BR: Thank you.",9,15,15,15,15
+4,"EE: Hello, nice to meet you!
+BR: Hello. Nice to meet you too!
+EE: Do you have any favorite foods?
+BR: South Indian cuisine.
+EE: What is South Indian cuisine like?
+BR: It's lighter and has dishes other than naan.
+EE: Examples?
+BR: Parota and dosa.
+EE: Do they go with curry?
+BR: Yes, especially dosa.
+EE: Easy to make at home?
+BR: It's challenging due to fermenting the batter.
+EE: So, best to eat out?
+BR: Yes. I'm searching for the best South Indian restaurant in Japan.
+EE: I’ve only had naan. I'd like to try South Indian food.
+BR: South Indian restaurants are becoming more common in Japan. Try them.
+EE: I will. Any dish recommendations?
+BR: If no dosa, try meals.
+EE: What are meals?
+BR: Similar to thali but from South India.
+EE: What is a thali?
+BR: A North Indian set meal; meals are South Indian.
+EE: Thanks for the info. Those terms were new to me.
+BR: It can be confusing if you're not familiar with Indian cuisine.
+EE: There’s an Indian student in my lab. I'll ask them for more details.
+BR: Good idea. They can provide useful insights.
+EE: I’ll ask both Indian students for a broader perspective.
+BR: You'll learn a lot from them.
+EE: I'm looking forward to trying South Indian cuisine at home.
+BR: Enjoy!",18,15,15,15,15

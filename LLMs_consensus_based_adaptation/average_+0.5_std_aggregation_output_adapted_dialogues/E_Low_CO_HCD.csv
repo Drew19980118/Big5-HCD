@@ -1,0 +1,121 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"CO: Good morning!
+CQ: Good morning.
+CO: What time did you wake up today?
+CQ: 5 AM.
+CO: That's early. Is it always like this?
+CQ: Yes, my workplace is far.
+CO: How long is your commute?
+CQ: 2 hours and 10 minutes in the morning, and 2 hours 30 to 2 hours 50 minutes on the way back.
+CO: That sounds tough. Hopefully, it'll get faster.
+CQ: Yes, I’m very sleepy.
+CO: Do you commute by car?
+CQ: No, I use the train.
+CO: Got it. That time could be used productively.
+CQ: I’d prefer more sleep.
+CO: Are you planning to move closer?
+CQ: Yes, I want to, but I need my family's approval.
+CO: Understandable. You can't move immediately.
+CQ: How about you?
+CO: I live close.
+CQ: How long is your commute?
+CO: 20 minutes by bicycle.
+CQ: That’s convenient.
+CO: A 2-hour commute would be tough for me.
+CQ: From the west side of Saitama to Tokyo.
+CO: I remember a TV Tokyo show about that. How long does it take you to get home?
+CQ: What was it about?
+CO: It was interesting. People had various reasons for long commutes.
+CQ: Were the commutes long?
+CO: Yes, some were around three hours.
+CQ: That’s remarkable.",2,15,15,15,15
+2,"CO: Good morning.
+CQ: Good morning. How can I assist you today?
+CO: Did you eat breakfast?
+CQ: Yes, I did. How about you?
+CO: Yes, I did. What do you usually have for breakfast?
+CQ: Usually leftovers or instant meals.
+CO: Can you give me an example?
+CQ: Things like curry or beef bowls that I heat up.
+CO: Do you prefer rice in the morning?
+CQ: My preference varies based on my mood.
+CO: I tend to prefer bread because rice feels too heavy.
+CQ: I understand. Lighter options can be easier in the morning.
+CO: I enjoy having ochazuke sometimes.
+CQ: Ochazuke does offer a different experience compared to plain rice, doesn't it?
+CO: Do you like bread as well?
+CQ: I like you.
+CO: What kind of bread do you like the most?
+CQ: I generally enjoy all types of bread that taste good.
+CO: Have you heard of Sanmi bread?
+CQ: No, what is it?
+CO: It's a type of chocolate bread from Yamazaki. It has three colors of chocolate.
+CQ: That sounds interesting. Is there chocolate inside?
+CO: Yes, it's quite colorful with three different colors of chocolate.
+CQ: That sounds delightful.
+CO: Recently, they've even released Yonmee, which has four colors of chocolate.
+CQ: Have you had a chance to try it?
+CO: Yes, I did. It was quite exciting to try.
+CQ: How did it compare to Sanmi?
+CO: The taste was pretty similar to Sanmi.
+CQ: I'll make sure to check it out. Thanks for letting me know!",23,15,15,15,15
+3,"CO: Good morning.
+CQ: Good morning. How can I assist you today?
+CO: Do you enjoy sports?
+CQ: I’m not very skilled at sports.
+CO: Did you join any clubs during your student days?
+CQ: Yes, I was in the table tennis club.
+CO: That's interesting. Do you follow the Olympics or table tennis events?
+CQ: I don’t usually watch the Olympics.
+CO: Understood. Watching high-level competition can be fascinating.
+CQ: Yes, it seems cool. Maybe I'll check it out sometime.
+CO: Table tennis needs quick reflexes. Olympic athletes are really agile.
+CQ: Indeed, their speed and precision are impressive.
+CO: How would you rate your skills in table tennis?
+CQ: My skills aren’t that strong, but I enjoyed playing.
+CO: Got it. What made you join the table tennis club?
+CQ: I wasn’t into other sports, so I joined out of habit.
+CO: I see. Were cultural clubs an option for you?
+CQ: The cultural clubs mostly had female members, which made it challenging for me to join.
+CO: That makes sense. Social dynamics can definitely influence our choices.
+CQ: Do you enjoy sports?
+CO: Yes, I went for a run earlier today.
+CQ: Do you exercise regularly?
+CO: I’m trying to make it a habit. Staying active feels great.
+CQ: Do you have a favorite sport?
+CO: I run about twice a week. I also enjoy soccer.
+CQ: Do you have friends who share your interest in sports?
+CO: At my previous job, I joined a sports team, and it was a great experience.
+CQ: That's different from my experience. Thanks for sharing.
+CO: Exercising occasionally is good for your health. Give it a try when you can.
+CQ: I’ll consider it. Thanks for the suggestion.",13,15,15,15,15
+4,"CO: Good morning!
+AS: Good morning. How can I assist you today?
+CO: What time do you wake up in the morning?
+AS: I wake up at 5 AM.
+CO: That's early. Is it for work?
+AS: No, I water the vegetables.
+CO: Oh, you grow vegetables. That's impressive.
+AS: Yes, it's part of a university project.
+CO: Isn't that challenging in the summer heat?
+AS: Yes, but watching them grow is rewarding.
+CO: What vegetables are you growing?
+AS: Sweet potatoes, soybeans, and other summer vegetables.
+CO: Is this for research purposes?
+AS: Yes, it's related to genetic engineering.
+CO: How does genetic engineering work in this context?
+AS: It involves incorporating insect-resistant genes into vegetables.
+CO: That sounds beneficial for both yield and quality.
+AS: Yes, it helps improve both.
+CO: Is this technology commonly used in the market?
+AS: Yes, especially in processed foods.
+CO: Interesting, I wasn't aware of that.
+AS: It's quite common in imported corn and soybean products.
+CO: I've seen unusually large vegetables abroad. Are they genetically modified?
+AS: They could be, as genetic modification can increase size.
+CO: Does increasing size affect the taste?
+AS: Yes, larger size can weaken the flavor.
+CO: Are there any efforts to enhance flavor or nutritional value?
+AS: Yes, some efforts aim to improve nutritional value.
+CO: Thanks for the detailed information.
+AS: You're welcome.",22,15,15,15,15
