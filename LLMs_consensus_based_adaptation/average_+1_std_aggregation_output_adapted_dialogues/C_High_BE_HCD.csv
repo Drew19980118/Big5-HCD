@@ -89,37 +89,7 @@ BE: Since the coffee is ground from beans, it has a nice aroma.
 AQ: Yeah, I might like the scent.
 BE: See you next time!
 AQ: Goodbye.",1,15,15,15,15
-4,"BE: Hello  
-AQ: Hello.  
-BE: Do you often eat sweets?  
-AQ: Yes, quite often.  
-BE: What kind do you prefer?  
-AQ: I just had a chocolate-covered snack. I enjoy most sweets.  
-BE: Do you like potato chips as well?  
-AQ: Absolutely, they're great.  
-BE: I don't eat them much.  
-AQ: Really? That's unexpected.  
-BE: Just my preference.  
-AQ: I understand. Everyone has different tastes.  
-BE: Thanks for understanding.  
-AQ: No problem.  
-BE: I have 10 boxes of almond chocolates lying around.  
-AQ: Will you be eating them?  
-BE: It's tough to start.  
-AQ: Maybe sharing them would help.  
-BE: Sometimes, I opt for cookies instead.  
-AQ: Cookies are a good choice.  
-BE: Did that surprise you?  
-AQ: A little. We seem to have different tastes.  
-BE: Can't always meet expectations.  
-AQ: That's okay. Everyone's different.  
-BE: Seeing almond chocolate makes me indecisive.  
-AQ: That makes sense.  
-BE: Should we include humor in our conversation?  
-AQ: If it fits, yes.  
-BE: I'll try to include it when appropriate.  
-AQ: Got it. Goodbye.",33,15,15,15,15
-5,"BE: Hello.
+4,"BE: Hello.
 AQ: Hello.
 BE: Do you drink alcohol?
 AQ: Do you consume alcohol?
@@ -150,36 +120,6 @@ AQ: We spend on snacks and dining out instead.
 BE: I see, so there are other costs.
 AQ: Exactly. Let's talk again soon.",12,15,15,15,15
 6,"BE: Hello.
-AQ: Hello.
-BE: Do you have time off during Obon?
-AQ: Yes, I do.
-BE: Are you going somewhere?
-AQ: I'm thinking of maybe going to the pool.
-BE: That sounds enjoyable! Perfect summer activity.
-AQ: Are you going anywhere?
-BE: Staying home since my husband is working.
-AQ: Makes sense. Plan something for later.
-BE: I love staying home, so I don't mind.
-AQ: Do you visit Komeda Coffee with friends?
-BE: Not much recently.
-AQ: Do you have male friends?
-BE: Yes, I do.
-AQ: Still in contact with them?
-BE: Yes, we stay in touch.
-AQ: How does your husband feel about it?
-BE: I keep it secret to avoid issues.
-AQ: Got it. I have more free time now.
-BE: That must be an adjustment.
-AQ: I have a male friend who is a business owner. We have long conversations.
-BE: As long as it’s just talking, it should be fine.
-AQ: That’s good to hear. We're just friends.
-BE: Friends who you get along with are precious.
-AQ: They are. We often have deep discussions.
-BE: Is your husband into deep conversations?
-AQ: No, he's quite the opposite.
-BE: I see. Everyone is different.
-AQ: Goodbye!",6,15,15,15,15
-7,"BE: Hello.  
 AF: Hello.  
 BE: Do you have any pets?  
 AF: Yes, I keep fish and insects.  
@@ -210,36 +150,6 @@ AF: Sad when they suddenly die.
 BE: I can imagine.  
 AF: Now I keep only small ones. Goodbye.",6,15,15,15,15
 8,"BE: Hello!
-AQ: Hello! How can I assist you today?
-BE: Do you have a pet?
-AQ: No, I don't have a pet. Do you?
-BE: Taking care of pets must be challenging.
-AQ: Yes, it can be. Do you have pets?
-BE: Is it difficult to stay away overnight when you have pets?
-AQ: Yes, you might need to keep the air conditioner running for them. Do you have pets?
-BE: Yes, we do. The air conditioner is always on.
-AQ: What pets do you have?
-BE: A cat and a hamster.
-AQ: How long have you had the cat?
-BE: We've had the cat for about two years.
-AQ: Did you start caring for it as a kitten?
-BE: My husband originally got the cat, so I'm still learning.
-AQ: That sounds like a learning experience. Do you give your cat Chao Churu?
-BE: No, but I'm considering it.
-AQ: Chao Churu is popular. Would you like tips on feeding cats?
-BE: There is a wide variety of pet food available.
-AQ: Pet foods come with many options. Need recommendations?
-BE: I don't usually pay much attention to the different options.
-AQ: Some cat foods use high-quality ingredients like Makurazaki tuna.
-BE: There are people who buy those kinds of products, right?
-AQ: Yes, many invest in quality pet products.
-BE: Clothing and haircuts for pets are amazing, aren't they?
-AQ: The pet care market has expanded significantly.
-BE: It seems the market is expanding due to COVID-19.
-AQ: More time at home means more time with pets. Have you noticed this too?
-BE: Pets provide great companionship.
-AQ: Pets can benefit mental health. How else can I assist you?",21,15,15,15,15
-9,"BE: Hello!  
 EJ: Hello.  
 BE: What’s your favorite drink?  
 EJ: Ginger ale.  
@@ -269,7 +179,7 @@ BE: I see, I don’t really understand why spicy food is so popular.
 EJ: It's often about the challenge, but moderation is better.  
 BE: Consuming very spicy food might cause stomach issues.  
 EJ: Overconsumption can lead to discomfort.",11,15,15,15,15
-10,"BE: Hello!  
+9,"BE: Hello!
 AQ: Hi there!  
 BE: Have you experienced any surprising events recently?  
 AQ: Yes, I saw an artist I like unexpectedly at a festival over the weekend.  
