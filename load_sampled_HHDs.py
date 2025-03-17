@@ -83,7 +83,7 @@ dialogue_dataset = load_dataset(
 train_dialogue_dataset = dialogue_dataset['train']
 
 # 从第三个数据开始遍历
-for i, row in enumerate(interlocutors_df.iloc[5:].iterrows()):
+for i, row in enumerate(interlocutors_df.iloc[7:].iterrows()):
     _, row_data = row  # iterrows() 返回 (index, row)
     interlocutor_data = row_data[1]  # 提取 JSON 数据
 
@@ -99,7 +99,7 @@ for i, row in enumerate(interlocutors_df.iloc[5:].iterrows()):
     #获取前十二个对话
     # first_twelve_dialogues = filtered_train_dialogue.select(range(min(12, len(filtered_train_dialogue))))
 
-    first_twelve_dialogues = filtered_train_dialogue.select(range(39, 40))
+    first_twelve_dialogues = filtered_train_dialogue.select(range(80, 81))
 
     # 保存到 CSV 文件
     output_file = f'sampled_HHDs/{category}_{interlocutor_id}_example_dialogues.csv'

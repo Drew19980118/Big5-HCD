@@ -119,7 +119,7 @@ DT: How did you manage to get it at a good price?
 EM: It was in decent condition and cost around 400,000 yen.
 DT: Affordable for a vintage car.
 EM: Needed repairs, so it was almost like buying scrap metal.",7,15,15,15,15
-5,"            DT: Please! EM: Please! DT: What did you eat for lunch today? EM: ""It was quite simple. It's like Kama-tama udon."" DT: I often have Kamatama udon for lunch. Do you like it cold or hot? EM: If I had to choose, it's rather warm, but good udon should be eaten cold, right? DT: Interesting. When I eat out, I've only tried Marugame or Hanamaru Udon. EM: Since I prefer home cooking, I tend to look for slightly better places when I eat out! DT: Are there many restaurants with delicious udon? EM: It usually happens during travel, but I had delicious udon in places like Fukushima and Chichibu! Also, Kagawa! DT: I want to try eating in Kagawa. Is it really different there? EM: The one in Kagawa was insanely delicious! It was surprising and cheap too! DT: I'm curious. It's the soul food of Kagawa Prefecture, right? EM: Yes. It's quite famous as a shop operating in a greenhouse. DT: A shop in a greenhouse is unusual. EM: Yes. I don't remember the name, but I can tell you about it! DT: It looks easy to enter casually, so I'll check it out sometime! EM: Sure. As a result of that influence, there are places where they serve kama-tama udon. DT: I see. Do they mix in things like eggs in the original version too? EM: That's right. I only got some croquette or something put on it. DT: That sounds nice. Even though I had lunch, I'm starting to want some udon. EM: Talking about it makes you want to eat it, doesn't it? DT: Exactly! I'm not hungry, but I can eat udon! EM: Indeed. Easy to eat. Maybe I'll have udon again for dinner. DT: Sounds good. But at night, it’s not going to be kamatama, right? EM: Well, the only delicious thing I can make at home is something like Kamatama udon. DT: Is that so? Doesn't the warmth depend on the noodle soup base? EM: The soup is basically ready-made. Shall we make yaki udon instead? DT: That's a great idea! I'll try it. EM: Let's do that!",1,15,15,15,15
+5,"DT: Please! EM: Please! DT: What did you eat for lunch today? EM: ""It was quite simple. It's like Kama-tama udon."" DT: I often have Kamatama udon for lunch. Do you like it cold or hot? EM: If I had to choose, it's rather warm, but good udon should be eaten cold, right? DT: Interesting. When I eat out, I've only tried Marugame or Hanamaru Udon. EM: Since I prefer home cooking, I tend to look for slightly better places when I eat out! DT: Are there many restaurants with delicious udon? EM: It usually happens during travel, but I had delicious udon in places like Fukushima and Chichibu! Also, Kagawa! DT: I want to try eating in Kagawa. Is it really different there? EM: The one in Kagawa was insanely delicious! It was surprising and cheap too! DT: I'm curious. It's the soul food of Kagawa Prefecture, right? EM: Yes. It's quite famous as a shop operating in a greenhouse. DT: A shop in a greenhouse is unusual. EM: Yes. I don't remember the name, but I can tell you about it! DT: It looks easy to enter casually, so I'll check it out sometime! EM: Sure. As a result of that influence, there are places where they serve kama-tama udon. DT: I see. Do they mix in things like eggs in the original version too? EM: That's right. I only got some croquette or something put on it. DT: That sounds nice. Even though I had lunch, I'm starting to want some udon. EM: Talking about it makes you want to eat it, doesn't it? DT: Exactly! I'm not hungry, but I can eat udon! EM: Indeed. Easy to eat. Maybe I'll have udon again for dinner. DT: Sounds good. But at night, it’s not going to be kamatama, right? EM: Well, the only delicious thing I can make at home is something like Kamatama udon. DT: Is that so? Doesn't the warmth depend on the noodle soup base? EM: The soup is basically ready-made. Shall we make yaki udon instead? DT: That's a great idea! I'll try it. EM: Let's do that!",1,15,15,15,15
 6,"DT: Good evening.  
 EN: Good evening.  
 DT: What did you have for dinner today?  
@@ -180,3 +180,63 @@ DT: It'd be nice if spoilers could be avoided.
 EN: Given its popularity, it might be unavoidable.  
 DT: The official stance doesn't prohibit spoilers.  
 EN: It's strange, isn't it?",2,15,15,15,15
+8,"DT: Please.
+EN: Good evening.
+DT: What food do you dislike?
+EN: Chawanmushi.
+DT: Why?
+EN: The smell is unpleasant to me.
+DT: I hadn't thought of that. You're the first person I've heard say that.
+EN: Yes, others dislike it too.
+DT: Do you like any ingredients in it?
+EN: Ginkgo nuts and shiitake mushrooms.
+DT: Noted. Any other dislikes?
+EN: Egg tofu.
+DT: Does it affect you at conveyor belt sushi places?
+EN: Yes, it can be unpleasant to see.
+DT: That must be challenging.
+EN: What food do you dislike?
+DT: Mackerel.
+EN: Why?
+DT: I had a bad experience during morning sickness.
+EN: That must be tough.
+DT: Yes, it's challenging. Do you like other fish?
+EN: Yes. How about you?
+DT: Yes, if they don’t have a fishy smell.
+EN: Do you enjoy sashimi?
+DT: Yes, I do. How about you?
+EN: I love it and often buy it.
+DT: Fresh sashimi is great. Have you tried Hokkaido's?
+EN: No, but I'd like to.
+DT: They must be excellent. I want to try them too.
+EN: Agreed.",53,15,15,15,15
+9,"DT: Good evening.
+DY: Good evening. How can I assist you today?
+DT: What did you have for dinner?
+DY: I had yaki udon.
+DT: That sounds tasty. Do you often make yaki udon?
+DY: Yes, it's simple to prepare, so I cook it frequently. What about you?
+DT: I had saury and a negitoro bowl.
+DY: Pacific saury! It feels like autumn, doesn't it?
+DT: Yes, the package even said ""new product.""
+DY: I see. By the way, today is the first day of September.
+DT: Time really flies, doesn't it?
+DY: It does. It's still a bit hot, though. I hope it cools down soon.
+DT: It's still quite warm. But the sun is setting earlier now.
+DY: True. Did you do anything summery this year?
+DT: I went to the pool once.
+DY: Was it a big pool?
+DT: No, just a pool at the sports gym.
+DY: I understand. I haven't been to the pool this year.
+DT: Unfortunately, it wasn't very enjoyable.
+DY: What happened?
+DT: We tried baby swimming with our 6-month-old, but it was too early. They seemed uncomfortable the entire time.
+DY: That must have been challenging. How do they handle bath time at home?
+DT: Bath time at home is fine. I misunderstood their readiness.
+DY: That was unfortunate.
+DT: Yes, it was disappointing since I was looking forward to it.
+DY: Maybe try again when they are older.
+DT: Yes, it will take some time. It was my mistake.
+DY: I see. It can be difficult with children.
+DT: It's tough, but they're cute, so it's worth it.
+DY: It's good to know that the rewarding moments make it worthwhile.",5,15,15,15,15

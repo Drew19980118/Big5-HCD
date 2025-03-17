@@ -119,6 +119,36 @@ BE: That saves money.
 AQ: True, we spend on snacks and dining out instead.
 BE: Makes sense.
 AQ: Affirmative. Let's talk again.",24,15,15,15,15
+5,"BE: Hello!
+AQ: Hello! How can I assist you today?
+BE: Do you have any pets?
+AQ: I had a Java sparrow until recently.
+BE: Java sparrows are cute. Was it hard to care for one?
+AQ: I thought it would be easy, but I've never kept larger animals.
+BE: Seeing a Java sparrow bathe must be adorable. Any dogs or cats?
+AQ: No, I don't have any. Do you have pets?
+BE: Yes, I have a cat and a hamster.
+AQ: Any problems, like Tom and Jerry?
+BE: Yes, the hamster was eaten once. It was sad.
+AQ: That sounds tough. Have you reduced the number of pets since?
+BE: Yes, there were bloodstains. It was a hard time.
+AQ: That seems dangerous. Are you taking precautions now?
+BE: Yes, we're being very careful with the hamster.
+AQ: That's good. It shouldn't happen again.
+BE: Thanks. We've also upgraded to a stronger cage.
+AQ: Smart choice. Do you have any other pets?
+BE: No, I haven't had any others.
+AQ: Understood. What breed is your cat?
+BE: Scottish Fold and Maine Coon.
+AQ: Two cats? What colors are they?
+BE: Yes, white and brown. The male is quite large.
+AQ: Interesting. They must look unique.
+BE: Yes, but our female cat is a normal size.
+AQ: Is it difficult if the cat is too big?
+BE: Yes, especially if too heavy to lift easily.
+AQ: Compared to small birds, cats do seem large.
+BE: Birds can be very affectionate too.
+AQ: Definitely.",8,15,15,15,15
 6,"BE: Hello.
 AF: Hello.
 BE: Do you have any pets?
@@ -149,6 +179,36 @@ BE: Must be satisfying to watch them grow.
 AF: It was sad when a big one died.
 BE: That must have been hard.
 AF: Now, I only have small ones. Goodbye!",3,15,15,15,15
+7,"BE: Hello!
+AQ: Hello! How can I assist you today?
+BE: What is your favorite drink?
+AQ: Barley tea.
+BE: That sounds perfect for summer.
+AQ: Yes, and I also drink alcohol.
+BE: What type of alcohol do you prefer?
+AQ: Beer and sake.
+BE: Impressive! Sake is quite strong.
+AQ: Do you not like it?
+BE: No, it's too harsh on my throat.
+AQ: Sake can be strong. You might prefer a milder option.
+BE: Is Mio a type of Japanese sake?
+AQ: Yes, it's sparkling sake.
+BE: That's the strongest I can handle.
+AQ: Mio is milder, so it might not suit you. Do you have any favorite drinks?
+BE: I like coffee and green tea.
+AQ: Do you make your own coffee?
+BE: Yes, with an electric mill.
+AQ: I usually drink instant coffee.
+BE: Instant coffee is quick to prepare.
+AQ: I have a friend who makes it well; it tastes good.
+BE: Adjusting the grind can change the flavor.
+AQ: Does the grind affect the taste a lot?
+BE: Yes, it does!
+AQ: Finding what you like is important. I don't like sour coffee.
+BE: Me neither.
+AQ: Preferences do vary.
+BE: Mocha tends to be sour.
+AQ: Noted.",3,15,15,15,15
 8,"BE: Hello!
 EJ: Hi.
 BE: Favorite drink?

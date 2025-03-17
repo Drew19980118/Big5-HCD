@@ -59,3 +59,153 @@ EQ: It was a hot day. Did you stay hydrated?
 BO: Yes, I drank plenty of fluids.
 EQ: Eating good food and listening to favorite music sounds delightful.
 BO: It was very fulfilling.",1,15,15,15,15
+3,"EQ: Good evening.
+BO: Good evening.
+EQ: Any problems recently?
+BO: My body feels heavier.
+EQ: Did you gain weight?
+BO: Yes, and my movements are sluggish.
+EQ: Do you know the cause?
+BO: Lack of exercise, maybe.
+EQ: I understand; I sometimes feel the same way.
+BO: I used to be more active, but not anymore.
+EQ: The pandemic reduced my outdoor activities too.
+BO: I plan to exercise at home but struggle with motivation.
+EQ: I started going to a women-only gym. It helped me.
+BO: A women-only gym sounds nice.
+EQ: It's a well-known place, and I feel at ease.
+BO: It's nice not to worry about others.
+EQ: Many elderly people go there. The staff is supportive.
+BO: Are the staff members women too?
+EQ: Yes, everyone there is a woman.
+BO: That sounds good. I wish there was one nearby.
+EQ: Some places offer 30-minute workouts.
+BO: There are many gyms, but I haven't seen a women-only one.
+EQ: It might not look like a typical gym. Many elderly people go there.
+BO: A hardcore gym might be difficult.
+EQ: I used to overdo it, so this level is just right.
+BO: Doing it at your own pace is best.
+EQ: It's convenient, taking only an hour. It has improved my mood.
+BO: That sounds good. Maybe I'll try it.
+EQ: Please search for it. Exercise improves health.
+BO: Thank you for the suggestion.",3,15,15,15,15
+4,"EQ: Hello.
+EV: Hello.
+EQ: Do you like animals?
+EV: I don't dislike them, but I have never had one.
+EQ: What animals come to mind for you?
+EV: Mostly cats or dogs.
+EQ: Ever thought of keeping one?
+EV: No, it seems difficult to manage.
+EQ: I had a dog when I was a child.
+EV: Really? Was it large?
+EQ: No, it was a normal-sized mixed breed.
+EV: Puppies are very cute.
+EQ: Yes, it was a puppy at first and followed me everywhere.
+EV: Watching it grow must have been rewarding.
+EQ: Definitely. Back then, dogs could roam freely.
+EV: I would worry about barking bothering neighbors.
+EQ: Nowadays, dogs are kept inside.
+EV: I lived near someone with an indoor dog, and I could still hear it.
+EQ: Even large dogs are kept inside now.
+EV: It must feel cramped for them.
+EQ: Keeping it outside was challenging but fun.
+EV: If you don't enjoy walks, it can be tough.
+EQ: It's impressive how people manage daily walks.
+EV: Yes, it takes a lot of time.
+EQ: Maybe having pets as a child is best.
+EV: Yes, children have more time and energy.
+EQ: It really enriches the heart.
+EV: Gaining such experiences while young is important.
+EQ: I used to play with the dog a lot.
+EV: That sounds wonderful.",6,15,15,15,15
+5,"EQ: Hello.
+EV: Hello. How can I assist you today?
+EQ: Do you prefer coffee or tea?
+EV: Tea.
+EQ: What kind of tea?
+EV: Barley tea.
+EQ: That's great for summer.
+EV: Green tea upsets my stomach.
+EQ: I find warm green tea soothing.
+EV: It has a diuretic effect on me.
+EQ: It helps with constipation and hydration.
+EV: I’ll consider it next time.
+EQ: Coffee makes me visit the restroom more often.
+EV: I used to drink it during exams.
+EQ: Did it help you stay awake?
+EV: Not really.
+EQ: So caffeine didn't work as a stimulant for you?
+EV: Correct.
+EQ: Can you drink coffee before bed without issues?
+EV: Yes, it doesn’t affect my sleep.
+EQ: I can't sleep at all if I drink coffee before bed.
+EV: That must be challenging if you like coffee.
+EQ: Yes, sometimes it even causes stomach pain.
+EV: That's difficult.
+EQ: I end up drinking green tea instead sometimes.
+EV: I avoid coffee when I’m sleepy.
+EQ: What do you drink instead?
+EV: Water.
+EQ: Water is always a good choice.
+EV: And it prevents frequent restroom visits.",16,15,15,15,15
+6,"EQ: Hello!  
+FW: Hello!  
+EQ: Do you often drink coffee or tea?  
+FW: Yes, mostly decaf coffee.  
+EQ: Why decaf?  
+FW: Caffeine affects my sleep.  
+EQ: I avoid coffee at night for the same reason.  
+FW: Do you like tea?  
+EQ: Yes, but not herbal tea.  
+FW: What's your favorite type of tea?  
+EQ: I think green tea.  
+FW: Any specific tea leaves?  
+EQ: My father's family is from Shizuoka, so I'm used to green tea from there.  
+FW: Do people from Shizuoka drink a lot of tea?  
+EQ: Yes, and also something called Kukicha.  
+FW: What's Kukicha?  
+EQ: Tea made from stems, not leaves.  
+FW: Does it taste different?  
+EQ: It's lighter, easy to drink.  
+FW: Is tea good for skin health?  
+EQ: Yes, because of vitamins.  
+FW: That makes me want more green tea.  
+EQ: It helps my stomach when I'm unwell.  
+FW: Really?  
+EQ: Yes, it warms and soothes my stomach.  
+FW: I usually drink cold brew, but hot tea sounds good now.  
+EQ: Warm tea is comforting, especially in winter.  
+FW: Warm tea is relaxing too.  
+EQ: Yes, I need to buy more soon.  
+FW: Good idea. I'll drink more tea too.",13,15,15,15,15
+7,"EQ: Hello!
+DF: Hello!
+EQ: What time did you wake up today?
+DF: I woke up around 8 o'clock today.
+EQ: Is that later than your usual weekdays?
+DF: Yes, it's a bit later than weekdays.
+EQ: I see. I've been struggling to wake up in the mornings recently.
+DF: I understand. Mornings can be tough.
+EQ: I tend to oversleep when it gets cooler.
+DF: Cooler weather does make it easier to sleep in.
+EQ: Yes. I took out the comforter yesterday.
+DF: This season is comfortable. Will it get cold again?
+EQ: I think I need to start swapping out my clothes soon.
+DF: That's a good idea. Some summer clothes may not be worn again.
+EQ: It's unfortunate if they're new summer clothes.
+DF: Yes, I still wanted to wear T-shirts and tank tops.
+EQ: Maybe you could wear those with a jacket on top.
+DF: Indeed! With the right coordination, it can work.
+EQ: Adjusting to the weather is key!
+DF: I'll try that! Have you bought any fall clothes yet?
+EQ: No, not yet. But I plan to go shopping soon.
+DF: I saw many things I liked on Instagram yesterday.
+EQ: It's helpful to get ideas online before shopping.
+DF: Yes, I often buy things online or after seeing them online.
+EQ: I like shopping online too. Do you have any recommended online shops?
+DF: I often use ZOZO TOWN.
+EQ: ZOZO TOWN is nice. I haven't bought anything from there yet.
+DF: I find it easy to search, though there are shipping fees.
+EQ: There's no free shipping, but I'll take a look.
+DF: Please take a look!",6,15,15,15,15
