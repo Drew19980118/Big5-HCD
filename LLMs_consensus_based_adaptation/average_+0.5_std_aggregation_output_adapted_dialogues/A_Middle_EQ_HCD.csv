@@ -239,3 +239,33 @@ EQ: My hair frizzes in humid conditions.
 DF: It can be challenging to manage.  
 EQ: I feel my hair texture has changed recently.  
 DF: Hair texture changes can happen.",1,15,15,15,15
+9,"EQ: Hello!
+EV: Hello.
+EQ: Do you have any siblings?
+EV: Yes, one younger sister.
+EQ: So, you're the older brother. I'm the younger sister.
+EV: Correct.
+EQ: I have an older brother who's three years older than me.
+EV: My sister is six years younger.
+EQ: That's quite a gap. Do you enjoy conversations with her?
+EV: Not usually. I don't start them.
+EQ: Did it bother you when she talked to you a lot?
+EV: Sometimes it interrupted my focus.
+EQ: That must have been tough.
+EV: Yes, but living separately now helps.
+EQ: I understand. I prefer being alone too.
+EV: Alone time is good.
+EQ: We used to argue a lot when together.
+EV: We did too, being different.
+EQ: Now we keep a moderate distance, it's better.
+EV: The current distance is good.
+EQ: Being three years apart and different genders makes a difference.
+EV: Our hobbies and age gap affected our relationship.
+EQ: My sister felt frustrated being seen as immature.
+EV: Three years isn't that big of a difference.
+EQ: True, but childhood years and adult years are different.
+EV: Very different. Some younger people seem mature.
+EQ: Age differences don't matter as much to me now.
+EV: It depends. I get nervous around older people.
+EQ: I feel the same around younger people.
+EV: That makes sense.",20,15,15,15,15
