@@ -209,3 +209,33 @@ EQ: ZOZO TOWN is nice. I haven't bought anything from there yet.
 DF: I find it easy to search, though there are shipping fees.
 EQ: There's no free shipping, but I'll take a look.
 DF: Please take a look!",6,15,15,15,15
+8,"EQ: Hello!  
+DF: Hello!  
+EQ: Is COVID-19 spreading recently?  
+DF: I live in Tokyo, and it's calmer than during the peak period, but I caught it last month.  
+EQ: What symptoms did you experience?  
+DF: Initially, I felt discomfort in my throat, which later started to hurt.  
+EQ: Did you have a fever?  
+DF: Yes, it went up to around the high 37 degrees Celsius but went down in a day.  
+EQ: Thank you for sharing.  
+DF: You're welcome! Despite the throat pain, I still had an appetite.  
+EQ: I'm concerned because it hasn't been resolved yet.  
+DF: It's understandable. Throat discomfort can be a sign to watch for.  
+EQ: I'll be careful about my throat.  
+DF: Yes, given how widespread it is, infection can happen anytime.  
+EQ: Hair salons are advising against wearing masks. Why is that?  
+DF: It's often due to the inconvenience when coloring, especially around the ears.  
+EQ: That's true. It can get in the way.  
+DF: Indeed, it can be challenging. Personally, I appreciate silent salons.  
+EQ: I usually chat with my hairstylist, but I agree it's important to be considerate.  
+DF: Absolutely! Recently, I decided to cut my hair short.  
+EQ: That’s a significant change.  
+DF: Yes, it’s been a while since it was short, but it's very convenient.  
+EQ: What prompted the change?  
+DF: I needed a change of pace. The coronavirus situation had been quite depressing.  
+EQ: You must feel refreshed, especially with the high humidity.  
+DF: Yes, the humidity increases as typhoons approach.  
+EQ: My hair frizzes in humid conditions.  
+DF: It can be challenging to manage.  
+EQ: I feel my hair texture has changed recently.  
+DF: Hair texture changes can happen.",1,15,15,15,15

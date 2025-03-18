@@ -119,6 +119,36 @@ BE: That's cost-effective!
 AQ: We spend on snacks and dining out instead.
 BE: I see, so there are other costs.
 AQ: Exactly. Let's talk again soon.",12,15,15,15,15
+5,"BE: Hello!
+AQ: Hi there!
+BE: Do you have any pets?
+AQ: Yes, I had a Java sparrow recently.
+BE: Java sparrows are cute. Was it hard to take care of it?
+AQ: No, it was quite easy. I haven't kept large animals before.
+BE: Seeing a Java sparrow taking a bath must have been adorable. Do you have any dogs or cats?
+AQ: No, I don't. Do you have any pets?
+BE: Yes, I have a cat and a hamster.
+AQ: Do they get along?
+BE: My hamster was eaten once. It was very upsetting.
+AQ: So, the hamster population has decreased?
+BE: Yes, there were bloodstains on the floor.
+AQ: That sounds dangerous.
+BE: We're being much more careful with the hamster now.
+AQ: That's good. It must be hard to go through that.
+BE: I've upgraded the cage to a sturdier one.
+AQ: Have you had any other pets?
+BE: No, this is my first time.
+AQ: What type of cat do you have?
+BE: A Scottish Fold and a Maine Coon.
+AQ: What colors are they?
+BE: They are white and brown. The male cat grows very big.
+AQ: Each has unique characteristics.
+BE: Yes, but our female cat is a normal size.
+AQ: Is it hard if a cat gets too big?
+BE: Yes, it can be if you can’t lift it.
+AQ: Cats seem large compared to small birds.
+BE: Birds can be very affectionate too.
+AQ: Understood.",19,15,15,15,15
 6,"BE: Hello.
 AF: Hello.  
 BE: Do you have any pets?  
@@ -149,6 +179,36 @@ BE: It's rewarding to see them grow.
 AF: Sad when they suddenly die.  
 BE: I can imagine.  
 AF: Now I keep only small ones. Goodbye.",6,15,15,15,15
+7,"BE: Hello!
+AQ: Hello!
+BE: What is your favorite drink?
+AQ: Recently, I've been drinking a lot of barley tea.
+BE: It feels like summer!
+AQ: That's right. And then there's the alcohol.
+BE: What kind of alcohol do you like?
+AQ: After all, it's beer! And also sake.
+BE: It's amazing that you can drink sake.
+AQ: Are you not good at it?
+BE: I'm not good at it. It really affects my throat.
+AQ: The strong ones are strong, aren't they? It might be good to start with something easier to drink.
+BE: Was Mio a type of Japanese sake?
+AQ: Yes. Sparkling, right? I believe so.
+BE: That was the limit.
+AQ: I think it's easy to drink, so it means it doesn't suit you. Do you have any favorite drinks?
+BE: I like coffee and green tea.
+AQ: I quite like coffee too! Do you make it yourself?
+BE: I'll make it myself! It's easy because I have an electric mill.
+AQ: That's wonderful! I always end up drinking instant coffee.
+BE: Instant coffee is appealing because you can drink it right away.
+AQ: Yes. I have a friend who likes it, and when they prepare it for me, it's really delicious.
+BE: It's enjoyable because you can adjust it to your preferred grind.
+AQ: Does it change quite a bit?
+BE: That's right, I think it will change!
+AQ: You have to find one you like, don't you? I'm not too fond of sour ones.
+BE: I also don't choose things with a strong sour taste!
+AQ: Preferences show, don't they!
+BE: Mocha is quite sour.
+AQ: I see. That's very informative.",1,15,15,15,15
 8,"BE: Hello!
 EJ: Hello.  
 BE: What’s your favorite drink?  
@@ -209,3 +269,33 @@ BE: My region’s dialect isn’t very cute, so I admire the charming ones.
 AQ: Dialects can spread quite a bit.  
 BE: Especially strong ones like the Kansai dialect. They linger!  
 AQ: Yes, they sometimes spread unexpectedly.",11,15,15,15,15
+10,"BE: Hello!
+AQ: Hello! How can I assist you today?
+BE: Do you have a pet?
+AQ: No, I don't have a pet.
+BE: That must be a bit tough sometimes.
+AQ: Yes, it can be inconvenient.
+BE: Must be hard to stay overnight, right?
+AQ: Yes, especially with the air conditioner.
+BE: We keep ours on all the time because of our pets.
+AQ: What pets do you have?
+BE: A cat and a hamster.
+AQ: How long have you had the cat?
+BE: About 2 years.
+AQ: Did you get it as a kitten?
+BE: My husband got it, so I'm still getting used to it.
+AQ: Have you tried Chao Churu?
+BE: Not yet, but I want to.
+AQ: Curious if it reacts like in the commercials?
+BE: It can be frustrating when there's no reaction.
+AQ: Pet food has a wide variety.
+BE: Yes, I don’t notice new things.
+AQ: Some have Makurazaki tuna. They might eat better than humans.
+BE: Some people do give things like that.
+AQ: Yes, some spend a lot on pets.
+BE: Clothing and haircuts for pets are remarkable.
+AQ: It's a big market.
+BE: The market expanded due to COVID-19.
+AQ: More time at home means more time with pets.
+BE: It's beneficial to have pets around.
+AQ: They say it's good for mental health. Thank you.",17,15,15,15,15
