@@ -1,0 +1,301 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"CO: Good morning!  
+CQ: Good morning.  
+CO: What time did you wake up today?  
+CQ: 5 AM.  
+CO: That's quite early. Do you always start your day at this time?  
+CQ: Yes, my commute is long.  
+CO: That must be challenging. How long is your commute?  
+CQ: 2 hours and 10 minutes in the morning, and around 2 hours and 30 to 50 minutes on the way back.  
+CO: That sounds tough. Do you manage to get some rest during your commute?  
+CQ: I try, but I'm very sleepy.  
+CO: I can imagine. Do you commute by train?  
+CQ: Yes.  
+CO: Perhaps you could use that time for relaxing activities or reading.  
+CQ: I would rather get more sleep.  
+CO: Have you considered moving closer to your workplace?  
+CQ: Yes, but I need my family's approval first.  
+CO: That's understandable. Are there any plans to move soon?  
+CQ: I hope so. How about your commute?  
+CO: Mine is much shorter.  
+CQ: How long does it take you?  
+CO: About 20 minutes by bicycle.  
+CQ: That's very convenient.  
+CO: Yes, a long commute would be difficult for me.  
+CQ: From the west side of Saitama to Tokyo, it does take a lot of time.  
+CO: I remember seeing a TV show about people with long commutes.  
+CQ: What was the program about?  
+CO: It featured different people's commuting experiences and challenges.  
+CQ: Were their commutes as long as mine?  
+CO: Some were up to three hours.  
+CQ: That's quite impressive.",13,15,15,15,15
+2,"CO: Good morning.  
+CQ: Good morning.  
+CO: Did you eat breakfast?  
+CQ: Yes, I did.  
+CO: What do you usually eat for breakfast?  
+CQ: Leftovers from dinner or instant food.  
+CO: What kind of instant food? Rice dishes?  
+CQ: Meals like curry or beef bowls that can be heated in the microwave.  
+CO: Do you prefer rice in the morning?  
+CQ: I eat whatever is available.  
+CO: I see, I prefer bread. Rice feels too heavy in the morning.  
+CQ: A light breakfast can be nice.  
+CO: Yes, something like ochazuke works for me.  
+CQ: Ochazuke and plain rice do differ.  
+CO: Really? Do you like bread?  
+CQ: I do like bread.  
+CO: What kind of bread do you like?  
+CQ: Any kind that is edible.  
+CO: I see. Recently, I've been into a type of bread called Sanmi. Do you know it?  
+CQ: No, I am not familiar with it.  
+CO: It might be regional, maybe from Yamazaki Bread. It's a chocolate bread.  
+CQ: Is there chocolate inside?  
+CO: Yes, it has three different colors of chocolate.  
+CQ: That sounds colorful.  
+CO: Yes, recently a four-color version called Yonmee has been released.  
+CQ: Did you try it?  
+CO: Yes, I did.  
+CQ: Was it tasty?  
+CO: The taste was similar to Sanmi.  
+CQ: I will check it out.",2,15,15,15,15
+3,"CO: Good morning.  
+CQ: Good morning.  
+CO: Do you like sports?  
+CQ: I'm not very good at it.  
+CO: Did you participate in any club activities during your student days?  
+CQ: I was playing table tennis.  
+CO: Sounds interesting. Did you watch table tennis during the Olympics?  
+CQ: I do not watch the Olympics.  
+CO: I understand. You haven't seen it at all?  
+CQ: Yes, it looks cool, so I want to see it.  
+CO: Table tennis requires quick reflexes, right?  
+CQ: Yes, Olympic athletes are quick in their movements.  
+CO: How about your performance?  
+CQ: I'm not very good at it.  
+CO: I see. What motivated you to join the table tennis club?  
+CQ: I didn't have an interest in other sports, so it became a habit.  
+CO: Out of habit. Were cultural clubs not an option for you?  
+CQ: The culture club was mostly women, so it was difficult to join.  
+CO: I see. Understandable.  
+CQ: Do you like sports?  
+CO: Yes, I just went for a run earlier.  
+CQ: That is energetic. Is running a routine for you?  
+CO: I'm trying to make it a habit.  
+CQ: Are you running every day? Do you have a favorite sport?  
+CO: Not every day, about twice a week. I enjoy soccer.  
+CQ: Understood. Do many people around you also enjoy sports?  
+CO: At my previous company, I joined the team there.  
+CQ: That is different from my surroundings.  
+CO: Yes, occasional exercise is beneficial. You should try it too.  
+CQ: Understood, I will consider it.",1,15,15,15,15
+4,"CO: Good morning!
+AS: Good morning!
+CO: What time do you usually wake up in the morning?
+AS: I wake up at 5 o'clock.
+CO: Is it related to your work?
+AS: It's to water the vegetables.
+CO: Are you growing vegetables?
+AS: Yes, I'm growing them in a university class.
+CO: Isn't it tough growing vegetables in the summer heat?
+AS: It can be tough, but watching the vegetables grow quickly is enjoyable.
+CO: What kind of vegetables are they?
+AS: Sweet potatoes, soybeans, and four kinds of summer vegetables.
+CO: Are you growing them for research purposes?
+AS: It's related to learning about genetic engineering technology.
+CO: That sounds difficult.
+AS: It's a technology where the genes of insect-resistant plants are incorporated into vegetables, resulting in vegetables with those characteristics.
+CO: That sounds beneficial for both producers and consumers.
+AS: It's not yet common in Japan, but it's an industry that will grow in the future.
+CO: Is this technology used in the vegetables being sold now?
+AS: It's often used as an ingredient in processed foods.
+CO: Really? I didn't know that.
+AS: Overseas, they are produced in large quantities and included in imported products made from corn and soybeans.
+CO: When I was overseas, I saw vegetables that were larger than usual.
+AS: They might be genetically modified.
+CO: I thought you were doing something amazing.
+AS: Larger vegetables can be less flavorful, which is a drawback.
+CO: Are there any efforts to make the flavor stronger or change the color in Japan?
+AS: I haven't heard of it, but there are vegetables designed to enhance nutritional value.
+CO: Thank you for the informative talk.
+AS: You're welcome.",1,15,15,15,15
+5,"CO: Good morning!
+AS: Good morning! How can I help you today?
+CO: Do you have any favorite foods?
+AS: I love meat.
+CO: Is it beef?
+AS: All types are good, but I eat pork the most.
+CO: How do you usually eat it?
+AS: Pork belly for stir-fries and meat rolls, larger cuts for dishes like tonkatsu.
+CO: Do you cook?
+AS: Yes, I cook every time.
+CO: I like ginger pork.
+AS: I love it too.
+CO: It pairs well with rice, right?
+AS: Yes, it pairs well with rice.
+CO: Do you like grilled meat?
+AS: We have it once every two months.
+CO: Which part of beef do you like?
+AS: Cow's tongue, or 'tan'.
+CO: I like harami.
+AS: I like harami too, and kalbi.
+CO: Do you eat cold noodles after having grilled meat?
+AS: I usually have soup.
+CO: Just meat?
+AS: Yes, just meat.
+CO: How about dessert?
+AS: I eat dessert.
+CO: That's good.
+AS: I like almond tofu.
+CO: It's a classic.
+AS: It is very delicious.",4,15,15,15,15
+6,"CO: Good morning!  
+AS: Good morning!  
+CO: Do you watch TV?  
+AS: No, I don’t.  
+CO: Do you watch things online?  
+AS: Yes, but it's unorganized.  
+CO: What do you watch?  
+AS: Commentary and educational videos.  
+CO: On YouTube?  
+AS: Yes, and also on NicoNico.  
+CO: What subjects?  
+AS: Subjects I’m not familiar with.  
+CO: Videos are useful for learning.  
+AS: Yes, they are convenient.  
+CO: I use videos to study as well.  
+AS: It helps understand things quicker.  
+CO: Very helpful indeed.  
+AS: I agree.  
+CO: Watching review videos aids shopping.  
+AS: Are these shopping videos?  
+CO: Yes, reviews and introductions.  
+AS: Are they by women?  
+CO: They are for everyone, reviewing products.  
+AS: That’s practical.  
+CO: Reviews cover items like electronics and clothes.  
+AS: I sometimes regret my purchases.  
+CO: Careful choice is needed.  
+AS: I need different opinions.  
+CO: A lot of information can be too much. I watch videos for sales.  
+AS: I’ll aim for good purchases too.",7,15,15,15,15
+7,"CO: Good morning!  
+AS: Good morning!  
+CO: What do you do on your days off?  
+AS: I play games.  
+CO: Do you have a favorite game?  
+AS: Pokémon and Smash Bros.  
+CO: Do you like games?  
+AS: Yes, I love them!  
+CO: Is that a Nintendo Switch?  
+AS: Yes, it's a Nintendo game.  
+CO: I'm interested, but I'm unsure about the software available. Is it costly?  
+AS: Popular titles vary in price.  
+CO: I mostly play Winning Eleven on PlayStation.  
+AS: It's a sports game.  
+CO: Yes, I enjoy it a lot.  
+AS: There are Mario sports games available.  
+CO: Has the price gone up?  
+AS: The price is stable. Summer sales are possible.  
+CO: I'll wait for the sale.  
+AS: For less intense games or no TV connection, try the Lite.  
+CO: Is Lite cheaper? I might want to connect it to TV.  
+AS: Price is about 2/3 of the regular model.  
+CO: Is secondhand safe?  
+AS: Yes, secondhand units are usually tested for functionality.  
+CO: I'll look for that. Seems cheaper.  
+AS: New units are over 30,000 yen, but used can be more economical.  
+CO: Around 30,000 yen. Is it light?  
+AS: No, this is for the TV connection model.  
+CO: Online, it seemed pricey. Is this usual?  
+AS: Yes, that is the standard price.",8,15,15,15,15
+8,"CO: Good morning!  
+AS: Good morning!  
+CO: Do you have a favorite snack?  
+AS: I like Country Ma'am.  
+CO: Which flavor do you prefer?  
+AS: Cocoa, and recently there have been new flavors too.  
+CO: I enjoy it often; it’s a classic.  
+AS: Yes, it’s a classic! But the quantity seems less now.  
+CO: Have you noticed snacks getting smaller over time?  
+AS: Yes, they quietly decrease before you know it.  
+CO: And prices are also going up.  
+AS: True, the notice for Garigari-kun’s price hike was very clear.  
+CO: Do you often eat ice cream?  
+AS: Yes, quite a bit lately.  
+CO: Is Garigari-kun your choice?  
+AS: No, I prefer Pino.  
+CO: Pino is delicious. I haven’t had it recently.  
+AS: If I had a car, I’d buy Garigari-kun, but it melts by the time I get home.  
+CO: Are there no stores nearby?  
+AS: No, the closest one is about 15 minutes by bicycle.  
+CO: That sounds tough.  
+AS: With Pino, I can eat it quickly while I’m out, so I’ve been buying it more.  
+CO: How many pieces are in a box of Pino?  
+AS: Six pieces.  
+CO: Has that number changed over time?  
+AS: I don’t think so, but they do feel a bit smaller.  
+CO: Do you remember Pino from the Famista game?  
+AS: It seems the size hasn’t changed since its release!  
+CO: They must be considering consumer needs well.  
+AS: Yes, it’s impressive how they maintain it.",12,15,15,15,15
+9,"CO: Good morning.
+CA: Good morning.
+CO: What time do you wake up in the morning?
+CA: I usually wake up at 7 in the morning, but recently I've been trying to wake up at 5. How about you?
+CO: I usually wake up before 7.
+CA: I am currently training myself to become an early riser.
+CO: Are you getting up early for work?
+CA: For the sake of my health, I make sure to take on work because if I have a job, I feel obligated to get up so as not to inconvenience others.
+CO: If there is a reason, I can wake up early.
+CA: That's right. If I don't have work, I love sleep so much that I end up sleeping until the last minute.
+CO: I understand. Do you take it easy on your days off?
+CA: Even on my days off, I used to take it easy, but recently my body has gotten used to it, and I've started waking up early.
+CO: It has become a habit, hasn't it? What do you eat for breakfast?
+CA: In the morning, it's rice and miso soup. What about you?
+CO: It is bread.
+CA: Bread is nice, isn't it? What kind of bread do you usually eat?
+CO: It's butter on toast. And also yogurt.
+CA: Butter on toast is the best, isn't it? How many slices do you prefer?
+CO: There are 6 slices. They are a bit thin. Do you eat bread?
+CA: In the morning, I eat rice, but I also love bread!
+CO: You eat a lot in the morning, don't you? I don't need that much.
+CA: I heard somewhere that eating small meals is good.
+CO: I see. Do you eat fruit in the morning?
+CA: I eat bananas as a snack. How about you?
+CO: I put blueberries in my yogurt.
+CA: Sounds good! Is it live?
+CO: It is frozen. Occasionally, I also add bananas.
+CA: If you use it like that while it's frozen, it'll be great! Looks delicious! Especially in this season, I appreciate something cold!
+CO: It's slightly frozen, and it keeps you awake. I recommend it.
+CA: I like blueberries, so I'd like to buy some and try it! Let's talk again!",1,15,15,15,15
+10,"CO: Hello!
+CA: Hello! How can I assist you today?
+CO: What do you usually do on your days off?
+CA: On my days off, I provide assistance and information. How about you, <CO>?
+CO: I enjoy gardening, watching TV, and playing games. Do you keep houseplants?
+CA: I do not keep houseplants, but I can offer information on plant care. Do you like houseplants, <CO>?
+CO: I like greenery, but it's difficult. Do you trim them when they grow?
+CA: Some plants are easy to grow. Pruning can sometimes feel daunting.
+CO: I'm wondering what to do because the pachira's leaves are overgrown.
+CA: Pachira plants can be challenging when the leaves grow too thick. Do you need repotting advice?
+CO: I'm considering repotting it.
+CA: How long have you had the Pachira plant?
+CO: It's about half a year.
+CA: Repotting might not be necessary yet. Would you like more care tips?
+CO: It looks cramped. I had to repot my cactus because it grew big.
+CA: If it looks cramped, repotting could help. What type of cactus is it?
+CO: It's an Opuntia cactus. Do you know what etiolation is?
+CA: Etiolation occurs when a plant grows in insufficient light. Are you growing it indoors?
+CO: Yes, I have been pricked by it many times.
+CA: Pruning cacti can be tricky. Would you like guidance on how to safely prune it?
+CO: I disinfect the scissors and prune on sunny days. I failed when pruning mini tomatoes in the past.
+CA: Pruning on sunny days helps with disinfection. Let me know if you need more tips.
+CO: Recently, I received an okawakame plant. Do you know okawakame?
+CA: I've heard of okawakame. What type of plant is it?
+CO: When you eat the leaves, they taste like seaweed.
+CA: It sounds like a vegetable that tastes like wakame.
+CO: Yes, it grows vigorously in the summer. Though I often let them wither, they are quite resilient.
+CA: Would you like more information on okawakame care?
+CO: Growing edible plants is enjoyable.
+CA: Growing plants you can eat sounds interesting. If you need more gardening tips, feel free to ask.",2,15,15,15,15

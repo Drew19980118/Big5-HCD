@@ -125,17 +125,7 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print("Response:", response.text)
 
         # average aggregation
-        # if score_list[0] >= 0.9674999999999999 and score_list[1] >= 0.7738333333333334 and score_list[2] >= 0.769:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return dialogue, try_number
-
-        # average +1 std aggregation
-        # if score_list[0] >= 1.0 and score_list[1] >= 0.8083952171003362 and score_list[2] >= 0.8108308669354513:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return dialogue, try_number
-
-        # average +0.5 std aggregation
-        if score_list[0] >= 0.9479614851648664 and score_list[1] >= 0.8163663417676994 and score_list[2] >= 0.8332083606378167:
+        if score_list[0] >= 0.9183333333333333 and score_list[1] >= 0.8 and score_list[2] >= 0.8105:
             print(f'evaluation end. The confidence scores are {score_list}')
             return (dialogue,
                     try_number,
@@ -143,6 +133,21 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                     count_speaker_occurrences(human_human_dialogue, secondary_speaker),
                     count_speaker_occurrences(dialogue, first_speaker),
                     count_speaker_occurrences(dialogue, secondary_speaker))
+
+        # average +1 std aggregation
+        # if score_list[0] >= 1.0 and score_list[1] >= 0.8083952171003362 and score_list[2] >= 0.8108308669354513:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return dialogue, try_number
+
+        # average +0.5 std aggregation
+        # if score_list[0] >= 0.9479614851648664 and score_list[1] >= 0.8163663417676994 and score_list[2] >= 0.8332083606378167:
+        #     print(f'evaluation end. The confidence scores are {score_list}')
+        #     return (dialogue,
+        #             try_number,
+        #             count_speaker_occurrences(human_human_dialogue, first_speaker),
+        #             count_speaker_occurrences(human_human_dialogue, secondary_speaker),
+        #             count_speaker_occurrences(dialogue, first_speaker),
+        #             count_speaker_occurrences(dialogue, secondary_speaker))
 
         # average -0.5 std aggregation
         # if score_list[0] >= 0.9345295045316486 and score_list[1] >= 0.756552391449832 and score_list[2] >= 0.7480845665322744:
@@ -215,7 +220,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 12 <= i <= 12:
+            if 9 <= i <= 12:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -229,7 +234,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../sampled_HHDs/A_Low_HE_example_dialogues.csv'
 
-    output_csv_path = 'average_+0.5_std_aggregation_output_adapted_dialogues/A_Low_HE_HCD.csv'
+    output_csv_path = 'average_aggregation_output_adapted_dialogues/A_Low_HE_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 
@@ -243,7 +248,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 10
+        index = 7
 
         for human_human_dialogue in human_human_dialogues:
 

@@ -1,0 +1,301 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"HE: Hello!
+GU: Hello!
+HE: What will you have for lunch?
+GU: I haven't decided yet. Do you have any preferences?
+HE: Is there anything you would like to eat?
+GU: I am unsure at the moment. What are you craving?
+HE: Oh, I see. Maybe something familiar?
+GU: Is there anything available that you like?
+HE: I am considering gratin.
+GU: That sounds nice. Would you like me to find a restaurant that serves gratin?
+HE: Or possibly doria.
+GU: Western cuisine noted. Shall I look for options serving either?
+HE: Perhaps we should go to a family restaurant.
+GU: Family restaurants have a varied menu. Would you like suggestions?
+HE: Yes, there are many options. What do you think?
+GU: The menu is extensive. I can list a few top-rated family restaurants nearby.
+HE: That place is quite good.
+GU: I haven't visited recently. How about you?
+HE: Really? When did you last go?
+GU: It's been a while. Do you have a favorite place?
+HE: Are you referring to family restaurants?
+GU: Yes. Do you have a particular one in mind?
+HE: Maybe Royal Host.
+GU: That is a higher-end choice. Would you like to check the menu first?
+HE: It might be slightly expensive.
+GU: It does seem costly. Should we consider another option?
+HE: It could be more authentic.
+GU: I agree with that perception. Authenticity adds value.
+HE: The parfaits are delicious.
+GU: They do look tasty. Would you like to see the dessert menu?",2,15,15,15,15
+2,"HE: Hello!
+GU: Hello!
+HE: Do you have a favorite chain store?
+GU: I like Rairaitei.
+HE: Is that ramen?
+GU: Yes, it's delicious.
+HE: I have never eaten it.
+GU: Really?
+HE: It's not nearby.
+GU: That's unfortunate.
+HE: What kind of ramen is it?
+GU: Tonkotsu soy sauce.
+HE: Oh, it's my favorite.
+GU: It's thick.
+HE: I like it strong.
+GU: Me too.
+HE: I prefer the richer one.
+GU: Do you like tonkotsu?
+HE: Yes.
+GU: Do you prefer thin noodles?
+HE: Tonkotsu is great.
+GU: I agree.
+HE: I like thick noodles for dipping ramen.
+GU: Me too.
+HE: Smooth ones are good.
+GU: Smooth noodles are good.
+HE: It's Mastodes.
+GU: Makes me want to eat ramen.
+HE: Rairaitei...
+GU: We should go.",2,15,15,15,15
+3,"HE: Hello!  
+GU: Hello!  
+HE: I'm thirsty.  
+GU: Have you had anything to drink recently?  
+HE: No, I haven't.  
+GU: Drinking is important for your health.  
+HE: I don't have anything available.  
+GU: Can I help you find a place to buy a drink?  
+HE: I'm too tired to go out.  
+GU: You should drink something soon.  
+HE: I get that!  
+GU: What would you like to drink?  
+HE: How about some drinkable yogurt?  
+GU: That might not help with your thirst.  
+HE: I still want it.  
+GU: Noted. Anything else you like?  
+HE: I enjoy dairy products.  
+GU: Do you like ice cream?  
+HE: What about you?  
+GU: MOW ice cream is a good option.  
+HE: I see! It's really tasty.  
+GU: Many people prefer rich ice cream.  
+HE: I think the same.  
+GU: Do you like vanilla flavor?  
+HE: I prefer milk flavor.  
+GU: They are quite similar.  
+HE: Yes, indeed!  
+GU: Both flavors look alike too.  
+HE: It's completely white, right?  
+GU: It tastes great!",8,15,15,15,15
+4,"HE: Hello!  
+GW: Hello.  
+HE: It's hot today.  
+GW: Yes, it's quite warm.  
+HE: Did you go outside?  
+GW: I'm leaving soon.  
+HE: Where are you going?  
+GW: To a café.  
+HE: I work at a café.  
+GW: Interesting.  
+HE: The coffee is delicious.  
+GW: Understood.  
+HE: Oh!  
+GW: Is it black coffee?  
+HE: It's a latte.  
+GW: Noted.  
+HE: I like sweets.  
+GW: Acknowledged.  
+HE: I only drink that.  
+GW: Same preference here.  
+HE: Are you a companion?  
+GW: We are colleagues.  
+HE: That makes me happy.  
+GW: That's good to hear!  
+HE: Really?  
+GW: Yes, not many do.  
+HE: Certainly.  
+GW: Affirmative.  
+HE: There is a lot of black coffee.  
+GW: Noted.",10,15,15,15,15
+5,"HE: Hello!  
+GU: Hello!  
+HE: Do you play any other sports?  
+GU: Bouldering.  
+HE: Interesting.  
+GU: It is enjoyable.  
+HE: Is it challenging?  
+GU: It takes practice.  
+HE: How often do you go?  
+GU: Once a week.  
+HE: Great.  
+GU: I attend regularly.  
+HE: Is it close?  
+GU: The gym?  
+HE: Yes.  
+GU: It's nearby.  
+HE: Good.  
+GU: Location matters.  
+HE: I understand.  
+GU: I prioritize it.  
+HE: Long distances can be tiring.  
+GU: That's right.  
+HE: I agree.  
+GU: What about you?  
+HE: The gym, yes.  
+GU: Are you still going?  
+HE: No.  
+GU: Okay.  
+HE: I work out at home.  
+GU: Understood.",3,15,15,15,15
+6,"HE: Hello!
+GU: Hello! How can I assist you today?
+HE: I'm craving roasted sweet potatoes.
+GU: That sounds delicious! Shall we start making some?
+HE: Yes, let's do it.
+GU: Have you had any this year?
+HE: This year?
+GU: No, not yet.
+HE: Let's make some then.
+GU: You can find good ones at the supermarket.
+HE: Let's get the best ones.
+GU: Premium potatoes are available.
+HE: It is a branded potato.
+GU: A premium potato? Noted.
+HE: If not properly roasted.
+GU: Charcoal fire is best for roasting.
+HE: That sounds challenging.
+GU: It can be, but it's worth the effort.
+HE: It takes time and effort.
+GU: Yes, it will take some time.
+HE: The hassle of grilling.
+GU: How would you like it cooked?
+HE: Outside.
+GU: Like a BBQ setup?
+HE: It looks difficult.
+GU: For perfect roasted sweet potatoes, it's necessary.
+HE: It's a lot of work, isn't it?
+GU: It seems so.
+HE: Should we give up?
+GU: If you prefer.",8,15,15,15,15
+7,"HE: Hello.
+GU: Hello.
+HE: Do you eat at night?
+GU: Sometimes.
+HE: Do you make it yourself?
+GU: Yes.
+HE: Any change in your plan?
+GU: Slightly.
+HE: How?
+GU: Location.
+HE: The menu?
+GU: Simple.
+HE: Too many choices?
+GU: Baking.
+HE: Easy.
+GU: Good.
+HE: Trouble?
+GU: Simplify.
+HE: Understood.
+GU: Yes.
+HE: Clear.
+GU: Yes.
+HE: Correct?
+GU: Yes.
+HE: Obvious.
+GU: Understood.
+HE: Good?
+GU: Maybe.
+HE: Better.
+GU: Agreed.",6,15,15,15,15
+8,"HE: Hello!  
+GU: Hello!  
+HE: I'm hungry.  
+GU: Let's eat.  
+HE: It's a bother.  
+GU: Understood.  
+HE: I don't feel like moving.  
+GU: That can happen.  
+HE: Every day.  
+GU: Noted.  
+HE: Yes.  
+GU: Interesting!  
+HE: Sometimes I skip meals.  
+GU: That could be dangerous.  
+HE: I don't want that.  
+GU: Let's eat.  
+HE: Okay.  
+GU: Something nutritious.  
+HE: How about a packaged meal?  
+GU: Not recommended.  
+HE: Really?  
+GU: It is not advisable.  
+HE: Not allowed!  
+GU: Please consume something healthy.  
+HE: Vegetables maybe?  
+GU: Correct.  
+HE: In small amounts.  
+GU: That's essential.  
+HE: It's challenging.  
+GU: Understood.",1,15,15,15,15
+9,"HE: Hello!
+GU: Hello!
+HE: What kind of music do you like?
+GU: Instrumental music.
+HE: Is it difficult to get into?
+GU: It's unique and uncommon.
+HE: Unique? Can you tell me more?
+GU: Yes, it's distinctive and different from popular genres.
+HE: Is it local?
+GU: Yes, it has a local origin.
+HE: Is it a band?
+GU: Yes, it's a band.
+HE: Only musical instruments?
+GU: Yes, only instruments.
+HE: Is it technically complex?
+GU: Yes, similar to instrumental music.
+HE: Got it. Need more details?
+GU: Yes, happy to help!
+HE: Like a three-piece band?
+GU: Yes, exactly.
+HE: I'm still not entirely clear.
+GU: I understand. It can be a bit abstract.
+HE: Can you recommend any?
+GU: dios.
+HE: I will check it out.
+GU: Great choice!
+HE: Are there vocals?
+GU: No vocals.
+HE: Purely instrumental?
+GU: Yes, purely instrumental.",6,15,15,15,15
+10,"HE: Hello!
+GW: Hello!
+HE: Do you like to sleep?
+GW: Affirmative.
+HE: Acknowledged.
+GW: I prefer it more than most.
+HE: Elaborate.
+GW: I take naps.
+HE: Daily?
+GW: Affirmative.
+HE: Noted.
+GW: 20 minutes each time.
+HE: During work hours?
+GW: I work from home.
+HE: Understood.
+GW: During breaks.
+HE: Got it.
+GW: Do you nap?
+HE: Occasionally.
+GW: Are you at home now?
+HE: Negative.
+GW: Can you nap there?
+HE: Affirmative.
+GW: Acknowledged.
+HE: Napping is beneficial.
+GW: Agreed.
+HE: Good workplace.
+GW: Confirmed.
+HE: End.
+GW: Acknowledged.",13,15,15,15,15
