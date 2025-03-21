@@ -33,8 +33,8 @@ for element in ['whiskers', 'caps', 'medians']:
 
 # 添加标题和标签
 ax.set_title('Distribution of The Final Confidence Scores Across Three LLM Evaluators', fontsize=20, pad=20, weight='bold')
-ax.set_ylabel('Scores', fontsize=20, weight='bold')
-ax.set_xlabel('Models', fontsize=20, weight='bold')
+ax.set_ylabel('Confidence Score', fontsize=20, weight='bold')
+ax.set_xlabel('Model', fontsize=20, weight='bold')
 
 # 设置网格线（科研图表中常用）
 ax.grid(True, linestyle='--', alpha=0.6)
