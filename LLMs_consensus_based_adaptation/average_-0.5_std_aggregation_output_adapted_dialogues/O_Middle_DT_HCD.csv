@@ -1,0 +1,210 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"DT: Hello. Nice to meet you.  
+CP: ""Likewise, thank you in advance!""  
+DT: What were you doing this morning?  
+CP: ""I haven't really done anything special. Just hung out the laundry.""  
+DT: It's very hot. Do you feel like going out?  
+CP: ""That's right. And it's raining here too.""  
+DT: Makes it difficult to go out.  
+CP: Yes, it's humid. How is it where you are?  
+DT: It's sunny here.  
+CP: Oh, really? I see. Where are you located?  
+DT: I'm in the Kanto region. How about you?  
+CP: ""Is it after the typhoon has passed? I'm in Kyushu.""  
+DT: Oh, Kyushu! Will it rain all day?  
+CP: Yes, it will. The rain is intermittent but strong when it does rain.  
+DT: I hope it doesn't rain for days.  
+CP: Yes, indeed. Flooding is a concern in this area.  
+DT: Do you live near a river?  
+CP: Yes, there is a large river nearby.  
+DT: That is concerning.  
+CP: The levees have broken many times in the past.  
+DT: It's worrying. There have been many flood disasters recently.  
+CP: The weather is unusual, with too much heavy rain.  
+DT: That's true. It feels like a tropical climate.  
+CP: Really! I wish the rain would be more consistent.  
+DT: It's hard to tell if the rainy season is over.  
+CP: This year, it didn't rain much during the rainy season.  
+DT: So, it's raining now because of that.  
+CP: Ah, maybe!  
+DT: Either way, it seems it will rain.  
+CP: ""That's probably true. It's also a problem if it doesn't rain, so there are pros and cons.""",2,15,15,15,15
+2,"DT: Nice to meet you.
+CP: Nice to meet you too! Ready to assist you.
+DT: What have you been doing recently?
+CP: I've been focusing on writing novels.
+DT: Wow! You write instead of just reading?
+CP: Yes, it's a hobby of mine. I enjoy it even though I'm not particularly skilled.
+DT: I'm not great at writing, so I respect that.
+CP: Thank you! Many people are into writing these days, and it's fun to connect with them.
+DT: Do you publish your work somewhere?
+CP: Yes, online. I also participate in short story contests.
+DT: That's great. You can write from anywhere with a computer.
+CP: Exactly. I usually write pieces that are about 5 to 10 pages long.
+DT: That sounds manageable.
+CP: Some people write up to 500 pages. It's impressive.
+DT: Really? That's incredible. Have you always liked writing?
+CP: Not really. A friend introduced me to it, and I found it enjoyable.
+DT: So that was the trigger?
+CP: Yes. My friend writes around 300 pages for major contests.
+DT: That sounds like it could catch a publisher's eye.
+CP: Writing 300 pages is beyond me. Authors are amazing.
+DT: They really are. How were you as a child?
+CP: My friend and I were just regular kids, not big readers.
+DT: It's surprising you can write well without reading much.
+CP: It is! But I've always liked picture books.
+DT: Picture books are lovely and comforting.
+CP: Yes, their illustrations are very cute and soothing.
+DT: I used to like Guri and Gura.
+CP: I love that! I always wanted to try their pancakes.
+DT: Those pancakes are iconic.
+CP: I definitely want to try them someday!",1,15,15,15,15
+3,"DT: Hello!  
+CP: Hello!  
+DT: Every day, it's a hassle to think about dinner. What do you plan to eat today?  
+CP: Today's dish is scheduled to be Mapo eggplant.  
+DT: Sounds good! Maybe I'll try that.  
+CP: Eggplants are in season right now and taste great.  
+DT: I don't buy eggplants often. Are they in season now?  
+CP: My father has a vegetable garden, and I got these from there.  
+DT: That's nice. Fresh vegetables are always great.  
+CP: Indeed. My parents live nearby, so I'm grateful for that. Are your parents close by?  
+DT: I'm jealous! My parents live far away. I haven't been back in years.  
+CP: That's unfortunate. Traveling far is difficult, especially with COVID-19.  
+DT: Yes, many people can't go home because of COVID-19.  
+CP: How do you travel back, by Shinkansen or airplane?  
+DT: By Shinkansen. I'm worried about ventilation.  
+CP: Enclosed spaces can be concerning.  
+DT: Yes, it's uncomfortable when elevators are crowded.  
+CP: Absolutely, it's best to avoid them when possible.  
+DT: I hope the pandemic ends soon.  
+CP: I agree. Do you use video calls to keep in touch with family?  
+DT: Yes, they enjoy seeing their grandchild.  
+CP: That must make them very happy.  
+DT: Yes, they think it's better not to visit to avoid COVID-19.  
+CP: That's a wise decision. Your family must hope the pandemic ends soon.  
+DT: Yes, I was planning to visit this summer. I dislike COVID-19.  
+CP: Understandable. They must miss you a lot.  
+DT: Yes, we met in May, and they've grown since then.  
+CP: I hope the situation improves soon.  
+DT: Me too. Let's stay healthy.  
+CP: Agreed. Let's be cautious!",1,15,15,15,15
+4,"DT: Hello.
+EM: Hello! How can I help you today?
+DT: What is your hobby?
+EM: I enjoy working on bikes and cars. Do you have any interest in vehicles?
+DT: I don’t have much experience with that. Do you focus more on the interior or exterior of the car?
+EM: I like restoring old cars. Bringing them back to life is fulfilling.
+DT: That sounds interesting. How old is your car?
+EM: It's a 1962 Mini Cooper. Are you familiar with it?
+DT: Yes, many people drive Coopers. They have a unique charm.
+EM: Indeed. The BMW version is popular, but mine is an older Rover model, which has its own nostalgic appeal.
+DT: It has a retro and cute image.
+EM: Exactly. I make sure to fix any issues quickly to keep it running smoothly.
+DT: I like old Fiat cars, especially the Fiat Cinquecento.
+EM: The Fiat Cinque is a great car. Do you find it easy to work on old cars, or are you just interested?
+DT: I’d love to try working on one. Some cars are easier to tweak than others, depending on their design.
+EM: That's true. Working on cars can be tough for amateurs due to needing specialized tools and sometimes heavy equipment. Have you considered any specific models?
+DT: Do you drive your Mini Cooper often?
+EM: Yes, it's our only car, so we use it frequently.
+DT: Do you go on long trips?
+EM: Not very often. Mainly within Tokyo or occasionally to Nagano. Do you enjoy long drives?
+DT: How is the fuel economy?
+EM: It's not great, around 7 kilometers per liter, and it needs high-octane fuel.
+DT: As expected. But it must feel different when you're driving it, right? Must be quite an experience.
+EM: Yes, it's very special to me and makes every drive feel unique.
+DT: Where can you get such old cars?
+EM: I got mine at an auction, but you can also find them in used car listings if you search thoroughly.
+DT: You got it at an auction? That must have been expensive!
+EM: It was 400,000 yen, which was reasonable considering its condition.
+DT: That's surprising! I thought it would be much more.
+EM: It did need repairs, so it was almost like buying scrap iron. Do you enjoy attending car auctions?",10,15,15,15,15
+5,"DT: Please!
+
+EM: Please!
+
+DT: What did you eat for lunch today?
+
+EM: Kama-tama udon.
+
+DT: I often eat Kama-tama udon for lunch. Do you prefer cold or hot udon?
+
+EM: Warm udon is comforting, but cold udon has its charm.
+
+DT: I usually go to Marugame or Hanamaru Udon. Do you like different places?
+
+EM: Yes, I look for places with better quality.
+
+DT: Are there many good udon places?
+
+EM: Fukushima, Chichibu, and Kagawa are known for delicious udon.
+
+DT: Kagawa seems special. Is it?
+
+EM: Yes, the udon in Kagawa is delicious and affordable.
+
+DT: It's considered the soul food of Kagawa, right?
+
+EM: Yes, and some shops operate in greenhouses.
+
+DT: A greenhouse shop sounds unique. Do you have any recommendations?
+
+EM: I don’t remember the names, but those spots are worth visiting.
+
+DT: I'll plan to visit Kagawa then. Is it very different from what I've tried here?
+
+EM: Yes, it's unique and authentic.
+
+DT: Do they mix in eggs in the original version?
+
+EM: Yes, eggs are common, and sometimes croquettes too.
+
+DT: Talking about this is making me hungry.
+
+EM: Food discussions can do that.
+
+DT: I could eat udon anytime. Maybe I'll look up some recipes online.
+
+EM: Good idea! Udon is versatile, so try different variations.
+
+DT: Not Kama-tama at night, though. What do you think?
+
+EM: I make Kama-tama udon at home, but yaki udon is great too.
+
+DT: Does the warmth depend on the soup base?
+
+EM: Yes, the soup is important. Most are ready-made. How about making yaki udon?
+
+DT: That sounds great. I’ll try it.
+
+EM: Enjoy cooking and your meal!",24,15,15,15,15
+6,"DT: Good evening. Thank you in advance.
+EN: Good evening! How can I assist you today?
+DT: What did you have for dinner today?
+EN: Tonight's meal was gratin.
+DT: Looks delicious! Did you make it?
+EN: My wife prepared it.
+DT: That's great!
+EN: I was very satisfied. What did you have for dinner?
+DT: I had a bibimbap bento. I just bought it for a quick meal.
+EN: Bibimbap is tasty. Did you purchase it from Hotto Motto?
+DT: No, I got it at a regular supermarket.
+EN: I see. It’s nice that supermarkets carry bibimbap.
+DT: I found it on sale and decided to buy it. I'll try making gratin tomorrow.
+EN: Sounds good. It might be cheaper after 8 PM. You should try the gratin.
+DT: Does your wife cook every day?
+EN: Yes, she does. I'm very grateful.
+DT: That's lovely. I should learn from you.
+EN: Do you cook?
+DT: I do, but cooking every day is challenging.
+EN: Do you cook mostly on weekends?
+DT: No, I also cook on weekdays, but when I'm tired, I buy food. Do you cook sometimes?
+EN: I try to help out on weekends.
+DT: That's wonderful. It would be helpful if you could assist me.
+EN: It's important not to leave everything to others. I try my best to help.
+DT: Yes, participating a little can make a difference. Your wife must appreciate your efforts.
+EN: Living together has its challenges, and consideration is key.
+DT: Yes, that's right. Being considerate is important.
+EN: Absolutely. It's easy to forget, so it's good to be mindful of it.
+DT: I think it's totally fine if you just help out on weekends!
+EN: That makes sense!",1,15,15,15,15

@@ -1,0 +1,181 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"CO: Good morning!
+CQ: Good morning.
+CO: What time did you wake up today?
+CQ: It is 5 AM.
+CO: You wake up quite early. Is that your usual routine?
+CQ: Yes, my workplace is far, so I always wake up at this time.
+CO: How long does it take to get to your workplace?
+CQ: In the morning, it takes 2 hours and 10 minutes, and on the way back, it takes about 2 hours and 30 to 2 hours and 50 minutes.
+CO: That sounds quite lengthy. Hopefully, it will become faster.
+CQ: Yes, I'm very sleepy.
+CO: Do you commute by car?
+CQ: No, I take the train.
+CO: Got it. That's a significant amount of time. Could you use it for something productive?
+CQ: Yes, I would prefer to use that time for sleep.
+CO: Are you considering moving closer to your workplace?
+CQ: Yes, I would like to do that soon, but I am waiting for my family's approval.
+CO: Understood. It makes sense that you can’t move immediately.
+CQ: Sure, how about you?
+CO: I live quite close.
+CQ: How long does it take for you to commute?
+CO: It takes me about 20 minutes by bicycle.
+CQ: That's very close.
+CO: If I had a 2-hour commute, it would probably be out of the prefecture. That would be tough.
+CQ: From the west side of Saitama, it proceeds into Tokyo.
+CO: I remember seeing a program like that on TV Tokyo. How long does it take to get home?
+CQ: Is there such a program? Can you tell me about it?
+CO: It was quite interesting. Everyone had their own reasons for attending.
+CQ: Did the people on the show also have long commutes?
+CO: Yes, I think some had commutes around three hours.
+CQ: That's quite impressive.",1,15,15,15,15
+2,"CO: Good morning.
+CQ: Good morning.
+CO: Did you eat breakfast?
+CQ: Yes.
+CO: What do you usually have for breakfast?
+CQ: Leftovers or instant food.
+CO: What kinds of instant food?
+CQ: Curry or beef bowls.
+CO: Do you prefer rice in the morning?
+CQ: I eat whatever is available.
+CO: I usually prefer bread. Rice feels too heavy.
+CQ: Lighter options are good in the morning.
+CO: Ochazuke is good for me.
+CQ: Ochazuke is different from plain rice.
+CO: Do you like bread?
+CQ: Yes.
+CO: Any specific type?
+CQ: Any kind of bread.
+CO: Have you heard of Sanmi?
+CQ: No, what is it?
+CO: A chocolate bread from Yamazaki Bread.
+CQ: Does it have chocolate inside?
+CO: Yes, three types.
+CQ: Colorful.
+CO: There’s a four-color version called Yonmee now.
+CQ: Have you tried it?
+CO: Yes, it was exciting.
+CQ: Is it tasty?
+CO: Similar to Sanmi.
+CQ: I’ll check it out.",4,15,15,15,15
+3,"CO: Good morning.
+CQ: Good morning.
+CO: Do you like sports?
+CQ: I'm not very good at them.
+CO: Did you join any clubs during your student days?
+CQ: I played table tennis.
+CO: Do you watch the Olympics or table tennis matches?
+CQ: No, I don't watch the Olympics.
+CO: Have you considered watching it?
+CQ: Yes, it seems exciting.
+CO: Table tennis needs quick reflexes.
+CQ: Yes, Olympic athletes are very quick.
+CO: Do you enjoy playing it?
+CQ: Yes, but I'm not very skilled.
+CO: Why did you join the table tennis club?
+CQ: It became a habit.
+CO: Did you consider joining cultural clubs?
+CQ: The culture club was mostly women, so I didn't join.
+CO: Understood. It can be difficult to fit in sometimes.
+CQ: Do you like sports?
+CO: Yes, I just went for a run.
+CQ: Are you trying to make it a routine?
+CO: Yes, I am.
+CQ: Do you run every day? Any favorite sports?
+CO: Not every day. About two days a week. I like soccer.
+CQ: Do people around you also enjoy sports?
+CO: At my previous company, I was on a soccer team.
+CQ: That's different from my experience.
+CO: Staying active is important. You should try it.
+CQ: I'll consider it.",7,15,15,15,15
+4,"CO: Good morning!
+AS: Good morning! How can I assist you today?
+CO: What time do you usually wake up in the morning?
+AS: I wake up at 5 AM.
+CO: That's early. Is it for work?
+AS: I wake up early to water the vegetables.
+CO: Are you growing vegetables?
+AS: Yes, it's part of a university class.
+CO: Is it challenging to grow vegetables in the summer heat?
+AS: It can be tough, but it’s enjoyable to watch them grow.
+CO: What kinds of vegetables are you growing?
+AS: Sweet potatoes, soybeans, and summer vegetables.
+CO: Is this for research purposes?
+AS: Yes, for learning about genetic engineering technology.
+CO: That sounds complex.
+AS: It involves adding insect-resistant genes to vegetables.
+CO: That must help producers and consumers. Thank you for your work.
+AS: It's not common in Japan yet, but it may grow.
+CO: Is this technology used in vegetables now?
+AS: Often in ingredients for processed foods.
+CO: Really? I didn't know.
+AS: They are common in imported corn and soy products.
+CO: I saw large vegetables overseas.
+AS: Those might have been genetically modified.
+CO: Interesting.
+AS: Larger size can weaken taste, though.
+CO: Do they modify flavor or color in Japan?
+AS: Not that I've heard, but some enhance nutritional value.
+CO: Thanks for the information.
+AS: You're welcome!",2,15,15,15,15
+5,"CO: Good morning!  
+AS: Good morning!  
+CO: What are your favorite foods?  
+AS: I love meat!  
+CO: Do you enjoy beef?  
+AS: I enjoy all kinds of meat, but I eat pork the most.  
+CO: How do you prepare pork?  
+AS: Pork belly for stir-fries and meat rolls, larger cuts for tonkatsu.  
+CO: Do you cook often?  
+AS: I cook every time!  
+CO: Great. I enjoy ginger pork.  
+AS: I love it too!  
+CO: You must eat a lot of rice with it?  
+AS: It pairs well with a lot of rice.  
+CO: How about grilled meat?  
+AS: Yes, every two months.  
+CO: What's your favorite part of beef?  
+AS: I like the cow's tongue, 'tan'.  
+CO: I prefer harami.  
+AS: I like harami too, also kalbi.  
+CO: Do you have cold noodles after grilled meat?  
+AS: I usually just have soup.  
+CO: So, only meat then?  
+AS: Yes, just meat.  
+CO: How about dessert?  
+AS: I always have dessert!  
+CO: Refreshing, right?  
+AS: I enjoy almond tofu.  
+CO: A classic dessert.  
+AS: It’s very delicious.",2,15,15,15,15
+6,"CO: Good morning!
+AS: Good morning! How can I assist you today?
+CO: Do you watch TV?
+AS: No, I don't watch TV.
+CO: Do you watch online videos?
+AS: Yes, it can be a bit unorganized.
+CO: What kind of videos do you watch?
+AS: Commentary or educational content.
+CO: Is it on YouTube?
+AS: Yes, and also on NicoNico.
+CO: What subjects do you study with these videos?
+AS: Subjects I'm not familiar with.
+CO: It's great that you can learn from videos.
+AS: Yes, very convenient.
+CO: Videos help me grasp new things quickly.
+AS: They make understanding easier.
+CO: It's efficient and saves time.
+AS: I agree.
+CO: Watching product reviews helps me decide.
+AS: Are these review videos?
+CO: Yes, they cover various products.
+AS: Are the reviewers men or women?
+CO: Both.
+AS: That's useful.
+CO: Yes, especially for electronics and clothing.
+AS: It's disappointing when a purchase isn't good.
+CO: Reviews help prevent that.
+AS: I should check reviews too.
+CO: There's a lot of information. I use videos to prepare for sales.
+AS: I'll try to make better purchases.",18,15,15,15,15
