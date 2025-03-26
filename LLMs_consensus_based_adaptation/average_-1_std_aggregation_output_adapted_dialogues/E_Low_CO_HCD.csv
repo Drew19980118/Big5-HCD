@@ -1,0 +1,91 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"CO: Good morning!  
+CQ: Good morning. How can I assist you today?  
+CO: What time did you wake up today?  
+CQ: It is 5 AM.  
+CO: That's quite early. Do you always wake up at this time?  
+CQ: Yes, the workplace is far, so I wake up early every day.  
+CO: How long is your commute to work?  
+CQ: In the morning, it takes 2 hours and 10 minutes. On the way back, it takes between 2 hours and 30 minutes to 2 hours and 50 minutes.  
+CO: That’s quite a long commute. I hope it gets faster soon.  
+CQ: Yes, it can be tiring. I wish I could use that time for more sleep.  
+CO: Do you travel by car?  
+CQ: No, I take the train.  
+CO: Got it. Have you thought about how you could use that time for other activities?  
+CQ: Yes, but sleep is definitely what I need more of.  
+CO: Have you considered moving closer to your workplace?  
+CQ: Yes, I would like to move immediately, but I am waiting for my family's approval.  
+CO: I see. It must be tough not being able to move right away.  
+CQ: Indeed. How about your commute?  
+CO: My commute is quite short.  
+CQ: How long does it take you to get to work?  
+CO: It takes me about 20 minutes by bicycle.  
+CQ: That’s very convenient.  
+CO: If it took me 2 hours to get to work, I would probably be in a different prefecture. That would be quite challenging.  
+CQ: Yes, from the west side of Saitama, it proceeds into Tokyo.  
+CO: I think I saw a TV show about long commutes on TV Tokyo. How long does it take you to get home?  
+CQ: I am not aware of such a program. Could you share the content?  
+CO: The show was quite interesting. Each person had their own reasons for enduring a long commute.  
+CQ: Did the participants have long commutes?  
+CO: Yes, some people had commutes that were around three hours long.  
+CQ: That is indeed amazing.",2,15,15,15,15
+2,"CO: Good morning.  
+CQ: Good morning. How can I assist you today?  
+CO: Did you eat breakfast?  
+CQ: Yes, I did.  
+CO: What do you always eat for breakfast?  
+CQ: Usually leftovers from dinner or instant food.  
+CO: What kind of instant food? Rice?  
+CQ: Items like curry or beef bowls that you can heat up in the microwave.  
+CO: Are you a rice person in the morning?  
+CQ: I eat whatever is available. It often depends on my mood.  
+CO: I see, I prefer bread. Rice feels too heavy.  
+CQ: Understood. Something light in the morning can be refreshing.  
+CO: Yes, I’m fine with ochazuke.  
+CQ: Ochazuke is definitely different from plain rice.  
+CO: Is that so? Do you like bread?  
+CQ: Yes, I do enjoy bread.  
+CO: What kind of bread do you like?  
+CQ: I enjoy various kinds of bread as long as they are tasty.  
+CO: I see. I’ve been really into Sanmi lately. Do you know what that is?  
+CQ: I am not familiar with it. Could you tell me more?  
+CO: It might be specific to Kansai. It's a type of chocolate bread from Yamazaki Bread.  
+CQ: Chocolate bread sounds interesting. Does it have chocolate inside?  
+CO: Yes, it has three different types of chocolate.  
+CQ: That sounds colorful.  
+CO: Yes, recently they released a four-color version called Yonmee.  
+CQ: Did you try it?  
+CO: Yes, I did. It was exciting to try.  
+CQ: Was it really that delicious?  
+CO: The taste was similar to Sanmi.  
+CQ: I’m curious now; I’ll check it out!",2,15,15,15,15
+3,"CO: Good morning.
+CQ: Good morning.
+CO: Do you like sports?
+CQ: I'm not very good at it.
+CO: Did you participate in any club activities during your student days?
+CQ: I was playing table tennis.
+CO: Sounds interesting. Do you watch the Olympics or table tennis?
+CQ: I don't watch the Olympics.
+CO: I see. Have you ever thought about watching it?
+CQ: Yes, it looks cool, so I want to see it.
+CO: Table tennis requires quick reflexes.
+CQ: Yes, Olympic athletes are quick in their movements.
+CO: How about you?
+CQ: I'm not very good at it.
+CO: I see. What made you join the table tennis club?
+CQ: I didn't have any other sports I'm interested in, so it was out of habit.
+CO: Out of habit. Were there no options for cultural clubs?
+CQ: The culture club was full of women, so it was difficult to join.
+CO: I see. That makes sense.
+CQ: Do you like sports?
+CO: Yes, I just went for a run earlier.
+CQ: That's proactive. Is it a regular habit?
+CO: I'm trying to make it a habit.
+CQ: You're not running every day, are you? Do you have a favorite sport?
+CO: Not every day. About two days a week. I like soccer.
+CQ: I see. Are there many people around you who also like sports?
+CO: I used to be with my previous company's team.
+CQ: I see, that's quite the opposite for me.
+CO: I understand, but exercising occasionally is good for your health. Give it a try.
+CQ: Alright, I'll give it a try.",1,15,15,15,15
