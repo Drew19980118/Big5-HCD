@@ -1,64 +1,34 @@
 Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
 1,"CC: Nice to meet you!
-
 DP: Hello, nice to meet you too.
-
 CC: Do you have free time?
-
 DP: Yes, on weekdays, I do.
-
 CC: Do you watch videos?
-
 DP: Yes, mainly YOUTUBE and AMAZON PRIME VIDEO.
-
 CC: Me too! What kind of videos do you watch?
-
 DP: What about you?
-
 CC: A show called Rehack on YouTube.
-
 DP: Tell me more.
-
 CC: It’s a political program by Nikkei TV Tokyo.
-
 DP: Is it a debate show?
-
 CC: Not exactly. Hiroyuki is on it.
-
 DP: Hiroyuki is popular. My son looks up to him.
-
 CC: That’s impressive.
-
 DP: Yes, it is.
-
 CC: It helps you understand society better.
-
 DP: I'll check it out.
-
 CC: Also, I watch anime on Amazon Prime. You?
-
 DP: I was watching JOJO.
-
 CC: JOJO! Is it the latest series?
-
 DP: No, an older one. What anime do you watch?
-
 CC: I watched Ya Boy Kongming. It’s popular.
-
 DP: Is it good?
-
 CC: Light-hearted and funny.
-
 DP: Sounds perfect.
-
 CC: You’ll enjoy it.
-
 DP: I'll add it to my watchlist.
-
 CC: Don’t miss Koumei!
-
 DP: Got it.
-
 CC: Thank you too!",10,16,15,16,15
 2,"CC: Nice to meet you!  
 BL: Nice to meet you.  
@@ -122,3 +92,123 @@ CC: In a TikTok filled with incomprehensible posts, I was impressed because this
 BL: It seems interesting to go all out!
 CC: It was fun talking with you! Thank you very much.
 BL: I also had fun. Thank you as well.",1,16,16,16,16
+4,"CC: Hello!  
+BR: Greetings. How can I assist you today?  
+CC: Do you exercise?  
+BR: Recently, I've only been walking and doing sit-ups. Is there a particular exercise you're interested in?  
+CC: Do you go for walks often?  
+BR: Before the weather got too hot, I used to walk for over an hour daily. Walking can be very beneficial.  
+CC: Results start to show after about 20 minutes, right?  
+BR: Yes, that's correct. Consistency is key to seeing results.  
+CC: Interesting.  
+BR: Do you exercise? Maybe I can suggest some activities that fit your routine.  
+CC: No, but a walk along the river near my house sounds pleasant. The scenery there is inspiring.  
+BR: That does sound nice. Is the river close to your home?  
+CC: Yes, but the heat and strong wind make it tough lately.  
+BR: I understand. Is the river wide and exposed to the wind?  
+CC: It's quite spacious, and the sea is relatively close.  
+BR: That must contribute to the windiness. My area is more mountainous, so it’s different.  
+CC: Is the current fast?  
+BR: No, the river here is calm, which makes it relaxing to watch.  
+CC: Watching water flow is always calming.  
+BR: I agree. It's very soothing to observe from a bridge.  
+CC: The strong sun can be uncomfortable.  
+BR: That's tough without shade. It's important to protect your eyes on sunny days.  
+CC: The wind on the bridge is strong, too.  
+BR: That sounds intense. Fortunately, it's not as windy here.  
+CC: On windy days, the bridge sways.  
+BR: That sounds unsettling. It’s interesting how different it can be upstream and downstream.  
+CC: I'd like to explore the river from the start to the sea. The adventure sounds exciting.  
+BR: River rafting could be a great way to do that.  
+CC: I saw an ad for river experiences. I'm curious.  
+BR: That sounds like a wonderful adventure. Would you like more information on that?",23,15,15,15,15
+5,"CC: Good evening!  
+CH: Good evening. How can I assist you?  
+CC: Great to meet you! Did you go out today?  
+CH: Yes, I took a walk after dinner.  
+CC: Do you walk often?  
+CH: Yes, when the weather permits.  
+CC: It’s nice that the rain stopped.  
+CH: Yes, and the temperature has dropped.  
+CC: The morning was cooler today.  
+CH: Yes, but it gets warmer during the day.  
+CC: How long is your usual walk?  
+CH: About an hour.  
+CC: That’s consistent! What motivates you to walk every day?  
+CH: I want to stay active, especially after my illness.  
+CC: Were you active before?  
+CH: Yes, I even ran late at night.  
+CC: What time did you start work then?  
+CH: Usually at 8:30 AM.  
+CC: You had good stamina.  
+CH: Yes, being young helped, but things change.  
+CC: Do walks help you sleep better now?  
+CH: I used to experience sleep paralysis.  
+CC: What causes sleep paralysis?  
+CH: Often stress and overwork.  
+CC: Managing that must have been tough.  
+CH: Yes, it was.  
+CC: It's often clear in hindsight.  
+CH: Exactly, I aim for better sleep now.  
+CC: Definitely! Take care.  
+CH: Thank you.",18,15,15,15,15
+6,"CC: Good evening!  
+CH: Good evening. How can I assist you?  
+CC: Are you feeling sleepy at this time?  
+CH: It varies, but usually, yes.  
+CC: Do you usually go to bed around midnight?  
+CH: Often around midnight. How about you?  
+CC: A bit later, around 1 or 2 AM.  
+CH: Isn't it hard to wake up if you sleep late?  
+CC: I'm not working right now, so it's okay. When I am working, I aim for 1 AM.  
+CH: Sleep needs vary among individuals, right?  
+CC: Yes, it can be influenced by genetics.  
+CH: Some are naturally night owls.  
+CC: Exactly. Matsuko Deluxe is a night owl.  
+CH: That’s expected.  
+CC: If you were a morning person, it would be surprising.  
+CH: Different people need different sleep durations.  
+CC: Seven hours works for me. How about you?  
+CH: I need about 8 hours, though it's not always possible.  
+CC: Sleeping 10 hours seems excessive, right?  
+CH: For adults, it's not usually needed.  
+CC: If I sleep 10 hours, I struggle to wake up.  
+CH: I used to sleep a lot in the countryside as a child.  
+CC: More sleep in the countryside?  
+CH: Generally, yes, but it varies.  
+CC: I didn’t expect that.  
+CH: There's not much to do after dark.  
+CC: Don't you visit friends' houses?  
+CH: Everyone went home early.  
+CC: That’s quick. Rural nights are really dark.  
+CH: It's healthy for growing children.",2,15,15,15,15
+7,"CC: Hello, nice to meet you!
+BV: Nice to meet you too. How can I assist you today?
+CC: What do you do on your days off from work?
+BV: Recently, I've been primarily focused on tidying up the house.
+CC: I see. Did you get it all sorted out?
+BV: That's quite challenging. It gets messy quickly.
+CC: Even though I tidy up, it gets messy again. I understand.
+BV: When I have work, tidying up becomes a lower priority.
+CC: That's true. In my case, even if I clean up over the weekend, it gets messy again by the next weekend.
+BV: I understand. Improving tidying skills is a goal for many.
+CC: Do you have a fixed day off?
+BV: I usually have Sundays off.
+CC: The others are basically work days?
+BV: That's correct.
+CC: It's tough. But if you could have a break even just on Sundays, you might be able to meet your friends.
+BV: Yes, I spent time with friends last Sunday.
+CC: In the past, when I had a job that required working on weekends and holidays, I couldn't meet anyone.
+BV: Coordinating breaks in such jobs is indeed difficult.
+CC: That's right.
+BV: Are you in the service industry or something similar?
+CC: At that time, yes. It was customer-oriented work, so weekends and holidays were crucial.
+BV: I understand.
+CC: Having weekdays off is convenient because you can go to the bank or other stores when they are not crowded.
+BV: Weekday breaks do offer such advantages.
+CC: I would be happy with one day off during the weekdays and one day off on either Saturday or Sunday.
+BV: That arrangement would balance work and personal time.
+CC: I don't have many friends, but if I'm put in a situation where I can't see anyone at all, it gets quite exhausting.
+BV: Taking a break to recharge is important.
+CC: Taking a break is indeed important!
+BV: Let's take it easy. Have a good day.",1,15,15,15,15
