@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from statistics import mean
 
-folder_path = 'average_-0.5_std_aggregation_output_adapted_dialogues'
+folder_path = 'average_-1_std_aggregation_output_adapted_dialogues'
 
 final_list = []
 
@@ -18,7 +18,7 @@ for filename in os.listdir(folder_path):
 
 average_value = mean(final_list)
 
-output_file = 'average_-0.5_std_aggregation_try_number.txt'
+output_file = 'average_-1_std_aggregation_try_number.txt'
 with open(output_file, 'w') as file:
     file.write("Final List:\n")
     file.write(str(final_list) + "\n\n")
