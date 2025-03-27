@@ -164,37 +164,36 @@ GD: That commercial is impactful. Cooking omelettes with mayo makes them easier.
 GQ: I'll give it a try! Stir-frying vegetables with mayo looks tasty too.
 GD: Frying rice with a bit of burned mayonnaise adds great flavor.
 ",1,15,15,15,15
-6,"
-            GQ: Good morning. 
-            GD: Good morning. 
-            GQ: Do you have any pets? 
-            GD: I used to have a rabbit. 
-            GQ: Oh, what kind was it? 
-            GD: Mine had droopy ears called a lop-eared rabbit. 
-            GQ: It's a Nether mix. Its ears were standing up. 
-            GD: Is it a small breed? Did it get bigger because it's a mix? 
-            GQ: It was palm-sized at first, but got fairly big, though not to the point of being troublesome. 
-            GD: Rabbits are just the right size. 
-            GQ: Yes, I have a dog and a cat now, but having a rabbit of that size would be easy. 
-            GD: Is it one at a time? Feeding and walking them seems difficult. 
-            GQ: Yes, the cost of food is straining the household budget. We have one dog and one to two cats, depending on the day. 
-            GD: It sounds like a daily special. 
-            GQ: Originally, we only had dogs, but since we keep them outside, a cat has settled in. 
-            GD: Is the cat there to see the dog? 
-            GQ: At first, they came to eat the dog's food, but the one we have now was raised on the dog's milk. 
-            GD: Oh, a nurse cat. Did it get separated from its mother? 
-            GQ: It seems so. But my dog hasn't given birth. 
-            GD: It might be due to maternal instinct. How mysterious. 
-            GQ: It's truly mysterious. Motherhood is amazing. 
-            GD: Even humans experience such things, but it's amazing that it transcends species. 
-            GQ: Certainly. Other cats tend to come home only occasionally as they grow up, but that one has always stayed with us. 
-            GD: It probably thinks of you as its parents. Has it become a house cat that doesn't go outside? 
-            GQ: No, since we keep the dog in the garage, the cat also goes out to play. 
-            GD: It sounds like even if they go outside, they know it's their home and come back. Do you make food for them? 
-            GQ: No, I buy the dry ones. The recent price increases are so bad, it makes me feel like crying. 
-            GD: Even pet feed has gone up in price. Various things have gone up again recently. It's tough for people too. 
-            GQ: It makes me feel depressed every time I go shopping. 
-            GD: It's not a good price increase.",1,15,15,15,15
+6,"GQ: Good morning.
+GD: Good morning.
+GQ: Do you have any pets?
+GD: I used to have a rabbit.
+GQ: Oh, what kind was it?
+GD: Mine had droopy ears called a lop-eared rabbit.
+GQ: It's a Nether mix. Its ears were standing up.
+GD: Is it a small breed? Did it get bigger because it's a mix?
+GQ: It was palm-sized at first, but got fairly big, though not to the point of being troublesome.
+GD: Rabbits are just the right size.
+GQ: Yes, I have a dog and a cat now, but having a rabbit of that size would be easy.
+ GD: Is it one at a time? Feeding and walking them seems difficult.
+GQ: Yes, the cost of food is straining the household budget. We have one dog and one to two cats, depending on the day.
+GD: It sounds like a daily special.
+GQ: Originally, we only had dogs, but since we keep them outside, a cat has settled in.
+GD: Is the cat there to see the dog?
+GQ: At first, they came to eat the dog's food, but the one we have now was raised on the dog's milk.
+GD: Oh, a nurse cat. Did it get separated from its mother?
+GQ: It seems so. But my dog hasn't given birth.
+GD: It might be due to maternal instinct. How mysterious.
+GQ: It's truly mysterious. Motherhood is amazing.
+GD: Even humans experience such things, but it's amazing that it transcends species.
+GQ: Certainly. Other cats tend to come home only occasionally as they grow up, but that one has always stayed with us.
+GD: It probably thinks of you as its parents. Has it become a house cat that doesn't go outside?
+GQ: No, since we keep the dog in the garage, the cat also goes out to play.
+GD: It sounds like even if they go outside, they know it's their home and come back. Do you make food for them?
+GQ: No, I buy the dry ones. The recent price increases are so bad, it makes me feel like crying.
+GD: Even pet feed has gone up in price. Various things have gone up again recently. It's tough for people too.
+GQ: It makes me feel depressed every time I go shopping.
+GD: It's not a good price increase.",1,15,15,15,15
 7,"GQ: Thank you in advance.  
 GD: You're welcome.  
 GQ: It's the season of good appetite, but are you thinking about dieting?  
@@ -225,3 +224,93 @@ GQ: Considering shelf life, a three-day pace sounds good.
 GD: Planning within that span could work.  
 GQ: I'll try that.  
 GD: I will too.",16,15,15,15,15
+8,"GQ: Thank you in advance.
+GD: You're welcome.
+GQ: Do you often eat out?
+GD: About three times a month.
+GQ: Do you have any favorite restaurants?
+GD: There's a yakiniku restaurant in the neighborhood that I visit once a month.
+GQ: Is the food good there?
+GD: It used to be, but recently it hasn't been as good.
+GQ: Sometimes places can be inconsistent, right?
+GD: Yes, the first manager was friendly and always spoke to me. Since the fire, I've been keeping an eye on it.
+GQ: People can make such a difference. Was everything okay in the neighborhood?
+GD: Yes, the fire only affected that store. They renovated and switched to gas after it.
+GQ: It's great that they recovered. I know of a restaurant that didn't make it after a fire.
+GD: That's right. I was worried it might close. I also worried when it shut down due to COVID-19.
+GQ: I heard some restaurants did well during the COVID-19 closures.
+GD: Really? How?
+GQ: If they owned the land and building, the subsidies could be more than usual sales.
+GD: That makes sense. I read something about it on the news.
+GQ: Some politicians mentioned differences between rural and urban areas.
+GD: It must have been tough for major companies.
+GQ: Definitely. Here, a lot of people were buying new cars, building houses, and restaurants were doing well.
+GD: That's good. In Tokyo, many restaurants closed, which was sad.
+GQ: The stylish café nearby also disappeared.
+GD: Rented shops struggled a lot. Many non-chain ramen shops vanished.
+GQ: It feels like the number of ramen shops has decreased.
+GD: The office district must have been empty.
+GQ: Certainly. Everyone was working online. Was your husband working from home too?
+GD: I started remote work last week. Seems late for IT.
+GQ: It does seem late.
+GD: Company regulations don't allow sharing customer information outside, which is annoying.",3,15,15,15,15
+9,"GQ: Hello!
+GD: Hello.
+GQ: Do you have plans for the long weekend?
+GD: Currently, I don't have any specific plans. I was considering going to karaoke.
+GQ: The kids often request karaoke.
+GD: You must be good at singing.
+GQ: No, it's just that they enjoy it. They prefer to sing themselves.
+GD: Oh, they want to join you, not just listen.
+GQ: Yes, that's right! What kind of songs do you sing?
+GD: Mostly anime songs and some by Gen Hoshino.
+GQ: Hoshino Gen is excellent, isn't he?
+GD: Yes. There are music videos too, which makes it fun to sing along and watch. What songs are popular with kids these days?
+GQ: Songs that are trending on Vocaloid and TikTok.
+GD: TikTok! It seems music trends have shifted away from TV programs.
+GQ: It's interesting that old songs become popular again. Right now, ""Ai no Shirushi"" by PUFFY is popular.
+GD: That's nostalgic. Wasn't ""Megumi no Hito"" popular recently?
+GQ: Yes, and I often get asked, ""Do you know this song?""
+GD: It's nice to share music across generations.
+GQ: But I can't sing at karaoke. It's a bit sad.
+GD: Hehe, they won't give you the microphone, will they?
+GQ: Exactly!
+GD: If you could sing, what song would you choose?
+GQ: I'm from the Dreams Come True generation, so I'd pick something from them. I also like Aiko.
+GD: DREAMS COME TRUE might be more suited for you.
+GQ: What kind of music is common in anime?
+GD: Many songs from the 90s. I find recent ones less familiar.
+GQ: I'd like to try singing the theme song from the Jujutsu Kaisen movie.
+GD: Are you referring to the movie with ""0"" in the title?
+GQ: Yes, the one by King Gnu. It seems challenging.
+GD: That does sound difficult.",1,15,15,15,15
+10,"GQ: Good morning!  
+EB: Good morning.  
+GQ: Did you have breakfast?  
+EB: I haven't eaten. How about you?  
+GQ: I had a fried egg.  
+EB: Is it only fried eggs?  
+GQ: Yes, with ham. No vegetables.  
+EB: Understood. You don't eat much in the morning, do you?  
+GQ: Are you okay without breakfast?  
+EB: No problem at all.  
+GQ: Do you usually not eat?  
+EB: I don't always eat. Do you eat it every day?  
+GQ: Yes, I always eat because I have children.  
+EB: That's important. I used to eat it when I was a child.  
+GQ: Are you living alone?  
+EB: That's right.  
+GQ: I was like that too when I lived alone.  
+EB: That happens, doesn't it? It takes effort.  
+GQ: Are you going to make dinner?  
+EB: I'll make lunch and dinner. As much as possible.  
+GQ: Great! What are you good at?  
+EB: Simple dishes like pork kimchi and yakisoba.  
+GQ: But it's good that you make it properly.  
+EB: I thought I should eat vegetables.  
+GQ: Somehow, I end up thinking like a mother, but it is reassuring.  
+EB: But, I gained weight since I started living alone.  
+GQ: Eh! Is it because you started drinking alcohol?  
+EB: Rather, I think it's because I can eat as much of what I like as I want.  
+GQ: Be careful, it's dangerous.  
+EB: I will be careful. Things like sweets.  ",1,15,15,15,15
