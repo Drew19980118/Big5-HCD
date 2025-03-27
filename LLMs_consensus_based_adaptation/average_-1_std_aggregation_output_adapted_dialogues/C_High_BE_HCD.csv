@@ -209,8 +209,36 @@ BE: I avoid strong sour tastes too.
 AQ: Preferences matter.  
 BE: Mocha is quite sour.  
 AQ: That’s helpful to know.",3,15,15,15,15
-8,"            ## Human Computer Dialogue:  
-            BE: Hello! EJ: Hello. BE: Do you have a favorite drink? EJ: Ginger ale has become my recent favorite! BE: I like ginger ale too! EJ: It is delicious. The authentic ginger ale I had at the burger shop the other day was delicious. BE: Is it a bit spicy? EJ: Yes, it was quite spicy. It had ginger paste in it. BE: I drank something like that at a pancake shop. EJ: Stores like that also have craft cola and such, which is nice. BE: There are quite a lot of slightly luxurious drinks, aren't there? EJ: Certainly, there are many things that are not found in regular bottled drinks. BE: But that ginger ale was too spicy, so I couldn't drink it all! EJ: There are some quite spicy ones. Are you not good with spicy food? BE: I'm not good with spicy foods, but I love wasabi. EJ: Wasabi is okay for you. BE: I'm not good with painful chili peppers. EJ: I understand. Sometimes it really hurts, it's too painful. BE: It hurts even more when it's hot, doesn't it? EJ: That's true. The heat amplifies the spiciness. So, I choose medium spiciness for curry. BE: I also prefer medium spicy curry! EJ: Medium spicy can be the most delicious. BE: If it’s sweet, it feels lacking. EJ: When it gets really spicy, it starts to become more about enjoying the spiciness rather than the dish itself. BE: Certainly. There are quite a few foods that prioritize spiciness, aren't there? EJ: Since the super spicy trend, there are more ways to market dishes like ""Our food is this spicy."" BE: I see, I don't really understand why spicy food is considered good. EJ: Some people enjoy the challenge of spicy food, but moderation is preferable. BE: I'm worried that you might get a stomachache. EJ: That is a valid concern.",1,15,15,15,15
+8,"BE: Hello!
+EJ: Hello.
+BE: Do you have a favorite drink?
+EJ: Ginger ale has become my recent favorite!
+BE: I like ginger ale too!
+EJ: It is delicious. The authentic ginger ale I had at the burger shop the other day was delicious.
+BE: Is it a bit spicy?
+EJ: Yes, it was quite spicy. It had ginger paste in it.
+BE: I drank something like that at a pancake shop.
+EJ: Stores like that also have craft cola and such, which is nice.
+BE: There are quite a lot of slightly luxurious drinks, aren't there?
+EJ: Certainly, there are many things that are not found in regular bottled drinks.
+BE: But that ginger ale was too spicy, so I couldn't drink it all!
+EJ: There are some quite spicy ones. Are you not good with spicy food?
+BE: I'm not good with spicy foods, but I love wasabi.
+EJ: Wasabi is okay for you.
+BE: I'm not good with painful chili peppers.
+EJ: I understand. Sometimes it really hurts, it's too painful.
+BE: It hurts even more when it's hot, doesn't it?
+EJ: That's true. The heat amplifies the spiciness. So, I choose medium spiciness for curry.
+BE: I also prefer medium spicy curry!
+EJ: Medium spicy can be the most delicious.
+BE: If it’s sweet, it feels lacking.
+EJ: When it gets really spicy, it starts to become more about enjoying the spiciness rather than the dish itself.
+BE: Certainly. There are quite a few foods that prioritize spiciness, aren't there?
+EJ: Since the super spicy trend, there are more ways to market dishes like ""Our food is this spicy.""
+BE: I see, I don't really understand why spicy food is considered good.
+EJ: Some people enjoy the challenge of spicy food, but moderation is preferable.
+BE: I'm worried that you might get a stomachache.
+EJ: That is a valid concern.",1,15,15,15,15
 9,"BE: Hello!
 AQ: Hello!
 BE: Have you experienced anything interesting recently?
@@ -241,3 +269,33 @@ BE: My region's dialect isn't considered cute, so I admire charming ones.
 AQ: Dialects tend to spread quite widely.
 BE: Strong dialects like Kansai spread easily.
 AQ: That's definitely true.",6,15,15,15,15
+10,"BE: Hello!
+AQ: Hi!
+BE: Do you have a pet?
+AQ: No, I don't have any pets.
+BE: Pets can be a lot of work.
+AQ: Yes, especially if you live alone.
+BE: It makes overnight stays hard.
+AQ: You might need to leave the air conditioner on.
+BE: We do that for our pets.
+AQ: What pets do you have?
+BE: A cat and a hamster.
+AQ: How long have you had the cat?
+BE: 2 years.
+AQ: Did you get it as a kitten?
+BE: My husband had it first.
+AQ: Do you give it Chao Churu?
+BE: Not yet, but maybe soon.
+AQ: It could be interesting to see if it likes it.
+BE: It might not.
+AQ: There are many pet food options.
+BE: I usually stick to the regular ones.
+AQ: Makurazaki tuna sounds fancy for cat food.
+BE: Some people buy that.
+AQ: People spend a lot on their pets.
+BE: Including clothes and haircuts.
+AQ: The pet market is expanding.
+BE: COVID-19 increased its growth.
+AQ: More time at home means more time with pets.
+BE: It’s great to have them long term.
+AQ: Good for mental health. Thank you for the chat!",41,15,15,15,15
