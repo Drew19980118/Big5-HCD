@@ -1,0 +1,61 @@
+Index,Dialogue,Try_Number,hhd_fs_count,hhd_ss_count,hcd_fs_count,hcd_ss_count
+1,"DE: Hello. Nice to meet you.
+CR: Hello. How can I assist you?
+DE: What are your hobbies?
+CR: I stay active by training at the gym.
+DE: Is it some kind of sport? Or is it training or something?
+CR: I train at the gym.
+DE: That sounds cool. I also went to the gym, but I couldn't keep it up.
+CR: Having a goal could help with motivation.
+DE: I see. I usually just walk my dog.
+CR: Walking the dog sounds enjoyable.
+DE: The heat was so intense in the summer that I hesitated to go for a walk, but walking together is enjoyable.
+CR: Weather impacts activities.
+DE: Yes, yes. The gym isn't affected by the heat or cold, right?
+CR: The gym environment is stable year-round.
+DE: Do you also use running machines?
+CR: Yes, I run on the treadmill for 30 minutes.
+DE: That's healthy. I used to use a machine with an adjustable incline at the gym.
+CR: The incline makes it tougher.
+DE: When there's an incline, it puts quite a load on you. It felt like mountain climbing.
+CR: Walking at an incline is challenging.
+DE: How many hours a day do you train?
+CR: I train twice a week for 2 hours each.
+DE: That's a moderate amount. Consistency is key.
+CR: If it's too much, you might quit.
+DE: I see. And then I retired. Hahaha.
+CR: Balance is important.
+DE: During the pandemic, I did Zumba indoors.
+CR: Did you use YouTube videos?
+DE: Yes. The music keeps me motivated.
+CR: That sounds fun.",7,15,15,15,15
+2,"DE: Hello.
+CR: Hello.
+DE: Do you plan to go out in the fall?
+CR: I'm considering a trip, but...
+DE: How is the COVID-19 situation?
+CR: It remains a concern.
+DE: Where do you want to go?
+CR: Noto.
+DE: Noto or Toyama?
+CR: Yes, I've never been there.
+DE: The fish are delicious, like sweet shrimp and yellowtail.
+CR: I want to try the fish.
+DE: Fish from the Sea of Japan are tasty.
+CR: They are known for their variety.
+DE: Considering the Hokuriku Shinkansen?
+CR: Deciding between the plane or the Shinkansen.
+DE: Planes are fast.
+CR: Is the Shinkansen fast?
+DE: It depends on the airport location.
+CR: It's complex.
+DE: Renting a car is an option.
+CR: Renting from the airport is convenient.
+DE: You can visit many places.
+CR: There are interesting spots in smaller areas.
+DE: A trip to Hokuriku sounds good. Visiting Kanazawa?
+CR: If staying for two nights, I want to visit Kanazawa.
+DE: The castle town is nice, like Kenrokuen.
+CR: I've been to Kanazawa before.
+DE: Planning is part of the fun.
+CR: Hoping COVID-19 settles down.",3,15,15,15,15

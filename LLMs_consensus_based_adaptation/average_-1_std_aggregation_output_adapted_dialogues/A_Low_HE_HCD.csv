@@ -89,3 +89,213 @@ HE: Yes, they are.
 GU: They look very similar.
 HE: Both are completely white.
 GU: And delicious!",2,15,15,15,15
+4,"HE: Hello!  
+GW: Hello!  
+HE: It's hot today.  
+GW: Noted.  
+HE: Did you go outside?  
+GW: About to leave.  
+HE: Where are you going?  
+GW: Café.  
+HE: I am working at a cafe.  
+GW: Understood.  
+HE: The coffee is delicious.  
+GW: Acknowledged.  
+HE: Oh!  
+GW: Black coffee?  
+HE: It's a latte, right?  
+GW: Affirmative.  
+HE: I like sweets.  
+GW: Understood.  
+HE: I only drink that.  
+GW: Confirmed.  
+HE: Are you a companion?  
+GW: We are comrades.  
+HE: I am happy.  
+GW: Acknowledged.  
+HE: Is that so?  
+GW: Confirmed.  
+HE: Certainly.  
+GW: Affirmative.  
+HE: There is a lot of black.  
+GW: Confirmed.",7,15,15,15,15
+5,"HE: Hello!  
+GU: Hello!  
+HE: Do you participate in other sports activities?  
+GU: I engage in bouldering.  
+HE: That's fantastic.  
+GU: It is enjoyable.  
+HE: It seems challenging.  
+GU: It's something you get accustomed to.  
+HE: Do you practice frequently?  
+GU: About once a week.  
+HE: Impressive.  
+GU: I am currently attending.  
+HE: Is it nearby?  
+GU: Are you asking about the gym?  
+HE: Yes.  
+GU: It is relatively close.  
+HE: Convenient.  
+GU: Yes, convenience is important.  
+HE: I see your point.  
+GU: It matters to me.  
+HE: Traveling far can be tiring.  
+GU: If it is far.  
+HE: I completely agree.  
+GU: Could you clarify?  
+HE: About the gym, indeed.  
+GU: What about now?  
+HE: You stopped going, right?  
+GU: Unfortunately, yes.  
+HE: I work out at home now.  
+GU: Great.",2,15,15,15,15
+6,"HE: Hello!
+GU: Hello!
+HE: I want to eat roasted sweet potatoes.
+GU: That's nice.
+HE: I'm in the mood for that.
+GU: I haven't eaten them.
+HE: This year?
+GU: Yes, not yet.
+HE: Let's eat some.
+GU: They might be available at the supermarket.
+HE: Let's eat something good.
+GU: A high-quality one.
+HE: It's a branded potato.
+GU: A branded potato?
+HE: It needs to be baked.
+GU: A charcoal fire would be best.
+HE: That looks difficult.
+GU: It does seem challenging.
+HE: It requires time and effort.
+GU: It will take some time.
+HE: The hassle of grilling.
+GU: How do you want it cooked?
+HE: Outside.
+GU: Like a BBQ.
+HE: That looks troublesome.
+GU: For roasted sweet potatoes.
+HE: It's hard work, isn't it?
+GU: It's not feasible.
+HE: Should we give up?
+GU: Yes.",2,15,15,15,15
+7,"HE: Hello!  
+GU: Hello!  
+HE: Do you eat at night?  
+GU: Almost there.  
+HE: Do you make it?  
+GU: Having difficulties.  
+HE: Did you change your mind?  
+GU: Slightly.  
+HE: About what?  
+GU: Outside or inside?  
+HE: The menu?  
+GU: Simple option.  
+HE: Too many options.  
+GU: Like baking.  
+HE: It's easy.  
+GU: Easy is good.  
+HE: It's a hassle, isn't it?  
+GU: Quite lazy.  
+HE: I know.  
+GU: Noticed.  
+HE: Easy to understand.  
+GU: Correct.  
+HE: That's right.  
+GU: Can you see it?  
+HE: Anyone can.  
+GU: That much.  
+HE: Isn't that good?  
+GU: Is it?  
+HE: Better than confusion.  
+GU: Certainly.",2,15,15,15,15
+8,"HE: Hello!  
+GU: Hello!  
+HE: I'm hungry.  
+GU: Let's eat.  
+HE: This is frustrating.  
+GU: Understood.  
+HE: I don't want to move.  
+GU: That happens sometimes.  
+HE: Every day.  
+GU: That often?  
+HE: Yes.  
+GU: Wow!  
+HE: Sometimes I skip meals.  
+GU: That's not healthy.  
+HE: I don't want to harm myself.  
+GU: Let's eat.  
+HE: Ugh.  
+GU: Something nutritious.  
+HE: How about a retort pouch meal?  
+GU: Not recommended.  
+HE: Really?  
+GU: It's discouraged.  
+HE: Not allowed!  
+GU: Please choose something healthier.  
+HE: Like vegetables?  
+GU: Correct.  
+HE: In moderation.  
+GU: That's important.  
+HE: It's hard to manage.  
+GU: I understand.",1,15,15,15,15
+9,"HE: Hello!
+GU: Hello!
+HE: What kind of music do you like?
+GU: It's a mysterious genre.
+HE: Is it difficult to understand?
+GU: It's rather unique.
+HE: Something uncommon?
+GU: Yes, rare.
+HE: Is it local?
+GU: Yes.
+HE: A band?
+GU: Yes.
+HE: Just instruments?
+GU: Correct.
+HE: Is it like system engineering (SE)?
+GU: Like an instrumental.
+HE: Understood.
+GU: Are you sure?
+HE: Like a 3-piece band?
+GU: Yes.
+HE: I still don't fully get it.
+GU: That's expected.
+HE: Any recommendations?
+GU: Check out dios.
+HE: I will.
+GU: It's cool.
+HE: Vocals?
+GU: No.
+HE: Instrumental only?
+GU: Exactly.",4,15,15,15,15
+10,"HE: Hello!
+GW: Hello! How can I assist you today?
+HE: Do you like to sleep?
+GW: I appreciate rest. How about you? Do you enjoy sleeping?
+HE: Of course.
+GW: Rest is important. It can really recharge us. How can I assist you further?
+HE: What is it like?
+GW: It can be refreshing. Do you want some tips on how to get better rest?
+HE: Every day?
+GW: Yes, every day for optimal health. Do you manage to get enough sleep daily?
+HE: Amazing.
+GW: A brief nap of about 20 minutes is beneficial. Do you find time for short naps?
+HE: At work?
+GW: I work from home, so I can take naps during breaks. Do you get such opportunities?
+HE: Oh, I see.
+GW: It's a good practice for maintaining productivity. How about you? Do you take breaks?
+HE: Envious.
+GW: Do you have the opportunity to rest during the day? It's really refreshing.
+HE: Only occasionally.
+GW: Are you currently at home? Finding time for rest can really help with energy levels.
+HE: That's not correct.
+GW: But are you able to find some time for rest? Maybe a short break here and there?
+HE: It is free there.
+GW: That's good. Rest is important, wherever you can get it.
+HE: It's important.
+GW: Certainly, maintaining a good balance is crucial. Do you think you need more tips on rest?
+HE: It's a nice workplace.
+GW: It seems like a conducive environment. How do you like your workplace overall?
+HE: It was good.
+GW: I agree. How can I assist you further with anything else?",2,15,15,15,15

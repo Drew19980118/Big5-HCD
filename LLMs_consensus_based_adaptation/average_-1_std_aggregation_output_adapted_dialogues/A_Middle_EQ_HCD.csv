@@ -59,3 +59,243 @@ EQ: It must have been a hot day. Were you able to stay hydrated?
 BO: Yes, I made sure to drink plenty of fluids.  
 EQ: Enjoying good food and music sounds like a wonderful experience.  
 BO: It was very fulfilling indeed.",2,15,15,15,15
+3,"EQ: Good evening.
+BO: Hello.
+EQ: Are you experiencing any issues recently?
+BO: My body feels heavier.
+EQ: Does that mean you've gained weight?
+BO: Yes, and I'm moving slower.
+EQ: Do you know why?
+BO: Probably due to lack of exercise.
+EQ: Age sometimes makes me feel sluggish too.
+BO: I used to be more active.
+EQ: The pandemic has reduced my outings.
+BO: I plan to exercise at home but lack motivation.
+EQ: I joined a women-only gym recently. It's been helpful.
+BO: That sounds interesting.
+EQ: It's well-advertised and relaxed. No need to worry.
+BO: That’s convenient.
+EQ: Many elderly people go there, and the staff is friendly.
+BO: Are the staff women as well?
+EQ: Yes, everyone is.
+BO: Sounds good. I wish there was one nearby.
+EQ: Some gyms offer 30-minute sessions.
+BO: There are many gyms, but not women-only ones.
+EQ: It might not feel like a gym. It's the right amount of exercise for me.
+BO: A hardcore gym might be too much for me.
+EQ: I used to overdo it and get tired. This is just right.
+BO: Exercising at your own pace is best.
+EQ: It's convenient. Only takes an hour in total.
+BO: That sounds efficient. I’ll look into it.
+EQ: Please do. Exercise improves physical and mental health.
+BO: Thank you for the suggestion.",5,15,15,15,15
+4,"EQ: Hello.  
+EV: Hello, nice to meet you.  
+EQ: Do you like animals?  
+EV: I don't dislike them, but I can't say much since I've never had one.  
+EQ: What comes to mind when you think of animals?  
+EV: Mostly cats or dogs.  
+EQ: I thought so. Would you like to keep one?  
+EV: It seems difficult.  
+EQ: I had a dog when I was a child.  
+EV: Was it large?  
+EQ: No, it was normal size, a mixed breed.  
+EV: Puppies are cute.  
+EQ: Yes, it was a puppy once, followed me everywhere.  
+EV: Watching it grow must have been rewarding.  
+EQ: Yes, it was. Dogs used to roam freely more often.  
+EV: I'd worry about a dog barking.  
+EQ: Now, most dogs stay inside.  
+EV: I could hear indoor dogs in my neighborhood.  
+EQ: Even large dogs are kept inside now.  
+EV: It must feel cramped for them.  
+EQ: Keeping a dog outside was tough but fun.  
+EV: Taking walks is necessary.  
+EQ: Daily walks are impressive.  
+EV: It takes a lot of time.  
+EQ: Having pets seems best when you have time.  
+EV: Yes, like when you're young.  
+EQ: Pets enrich your heart.  
+EV: Gaining experience young is important.  
+EQ: Playing with my dog brought joy.  
+EV: That sounds wonderful.",5,15,15,15,15
+5,"EQ: Hello.
+EV: Hello, nice to meet you.
+EQ: What drink do you like: coffee or tea?
+EV: I drink more tea.
+EQ: That's interesting. Which type of tea do you prefer?
+EV: Barley tea.
+EQ: Barley tea is perfect for summer, isn't it?
+EV: Yes, but green tea upsets my stomach, so I can't drink a lot of it.
+EQ: I understand. Warm green tea soothes my stomach when I drink it.
+EV: Green tea has a diuretic effect, so I can't drink it in large amounts.
+EQ: Green tea can help with constipation and warm green tea can prevent dehydration.
+EV: I'll keep that in mind for next time.
+EQ: I like coffee, but it makes me go to the restroom more frequently.
+EV: I can relate. I used to drink coffee during exam periods.
+EQ: You've been drinking it since you were young. Did the caffeine help you stay awake?
+EV: Not really. It didn't work well for me. Maybe it's just how my body responds.
+EQ: So caffeine didn't work as a stimulant for you?
+EV: That's correct. I still felt sleepy.
+EQ: So you can drink coffee before bed without any issues?
+EV: Yes, I think it’s okay for me.
+EQ: I wish I could do that. Coffee keeps me up all night.
+EV: It affects some people more strongly.
+EQ: I also find that it aggravates stomach pain when I have it.
+EV: That must be difficult if you enjoy coffee.
+EQ: It is. When that happens, I switch to green tea.
+EV: I've stopped drinking coffee when I'm sleepy.
+EQ: What do you drink instead?
+EV: Water. It helps me sleep peacefully.
+EQ: Water is universal. That might be a good choice.
+EV: I prefer not waking up to use the toilet.",2,15,15,15,15
+6,"EQ: Hello!
+FW: Hello! How can I assist you today?
+EQ: Do you often drink coffee or tea?
+FW: Yes, I consume a significant amount. I prefer coffee, but I usually choose decaffeinated.
+EQ: Is there a reason for choosing decaf?
+FW: My body is sensitive to caffeine, which affects my sleep at night.
+EQ: I can relate. I avoid coffee at night for the same reason.
+FW: Do you enjoy tea as well?
+EQ: Yes, I drink various types, though herbal teas aren't my favorite.
+FW: Do you have a specific favorite?
+EQ: I think green tea is my favorite. I'm quite fond of it.
+FW: Any preference for the type of tea leaves?
+EQ: Not really. My father’s family is from Shizuoka, so I've grown up drinking their tea.
+FW: That sounds wonderful. I imagine people from Shizuoka have many opportunities to drink tea.
+EQ: Yes, it's quite common. I’ve also tried Kukicha.
+FW: I’m unfamiliar with Kukicha. Can you describe it?
+EQ: It includes the stem part of the tea plant, not just the leaves.
+FW: Interesting. Does it taste different?
+EQ: It's lighter in flavor but very easy to drink.
+FW: That sounds appealing. I recall seeing tea farmers in Shizuoka with very smooth skin.
+EQ: Tea is good for beauty, probably due to the vitamins it contains.
+FW: I’ve heard it has many vitamins.
+EQ: Green tea is also good for my stomach.
+FW: Does it help you feel better?
+EQ: Yes, when I'm not feeling well, I avoid coffee and drink green tea to warm my stomach.
+FW: That sounds beneficial. I usually drink cold brew, but with the colder weather, I will switch to hot tea.
+EQ: In the summer, I mostly drink barley tea. Warm tea is more soothing.
+FW: Warm tea is indeed comforting.
+EQ: I need to buy more soon.
+FW: That sounds like a good plan.",4,15,15,15,15
+7,"EQ: Hello!
+DF: Hello!
+EQ: What time did you wake up today?
+DF: I woke up around 8 o'clock today.
+EQ: Is that later than weekdays?
+DF: Yes, it's a bit later than weekdays.
+EQ: Lately, I've been struggling to wake up in the morning.
+DF: That sounds frustrating. I'm not a morning person either.
+EQ: The cooler weather makes me oversleep.
+DF: It's quite easy to fall asleep in this season.
+EQ: Yes. I brought out the comforter yesterday.
+DF: Do you think it will get cold again soon? This season is really the best.
+EQ: I need to start swapping out my clothes soon.
+DF: That's correct. I have some summer clothes I haven't worn yet, but it seems like I won't get the chance.
+EQ: That would be unfortunate if they were new.
+DF: Yes, I still wanted to wear T-shirts and tank tops.
+EQ: You could wear those with a jacket on top.
+DF: That's a good idea! It can be managed with the right coordination.
+EQ: Show only what you want to show.
+DF: I'll try that! Did you buy any fall clothes yet?
+EQ: Not yet, but I want to go shopping soon.
+DF: I understand. I was looking at various things on Instagram yesterday and ended up wanting them.
+EQ: It's good to gather information before shopping.
+DF: I agree! I often buy things after seeing them online or just purchase them online.
+EQ: I also like online shopping. Do you have any recommended shops?
+DF: I often use ZOZO TOWN.
+EQ: ZOZO TOWN sounds nice, though I haven't bought from there yet.
+DF: It's easy to search, but there are shipping fees.
+EQ: There is no free shipping? I'll take a look anyway.
+DF: Please do!",3,15,15,15,15
+8,"EQ: Hello!
+DF: Hello!
+EQ: Is COVID-19 spreading recently?
+DF: I live in Tokyo. It's calmer than during the peak period, but I caught it last month.
+EQ: What were your symptoms?
+DF: Initial throat discomfort, followed by pain.
+EQ: Did you have a fever?
+DF: The fever reached high 37 degrees Celsius but lasted only a day.
+EQ: Thanks for the info.
+DF: You're welcome. My throat hurt, but I kept my appetite.
+EQ: That sounds worrying.
+DF: Pay attention to throat discomfort.
+EQ: I'll be careful.
+DF: Given its prevalence, infection isn't surprising.
+EQ: At hair salons, they tell you not to wear a mask. Why is that?
+DF: Masks can interfere, especially during coloring.
+EQ: It might get in the way near the ears.
+DF: Exactly. Some prefer silent salons if talking isn't comfortable.
+EQ: I talk to my hairstylist, but mutual consideration is key.
+DF: Speaking of salons, I recently got a short haircut.
+EQ: How do you feel about it?
+DF: It's much easier now.
+EQ: Did something change your mindset?
+DF: It's a change of pace.
+EQ: You must feel refreshed with the high humidity.
+DF: Indeed. Humidity rises with approaching typhoons.
+EQ: When it's humid, my hair frizzes.
+DF: It can be challenging to manage.
+EQ: My hair texture might have changed.
+DF: Changes in hair texture are possible.",5,15,15,15,15
+9,"EQ: Hello!
+EV: Hello, nice to meet you.
+EQ: Do you have any siblings?
+EV: I have one younger sister.
+EQ: You’re the older brother, right? I'm the younger sister.
+EV: Yes.
+EQ: I have an older brother who is three years older than me.
+EV: I am six years apart from my sister.
+EQ: That’s quite a difference. Do you enjoy talking with her?
+EV: I don't initiate conversations. She is talkative.
+EQ: Was it nice having her talk to you?
+EV: I liked to be alone, so it was annoying when I was concentrating.
+EQ: I see.
+EV: Now that we don't live together, the distance is good.
+EQ: I also enjoy alone time.
+EV: Yes, occasional interaction is just right.
+EQ: We argue when we’re together too long.
+EV: Different personalities can clash.
+EQ: Exactly. We now keep a balanced distance.
+EV: You've found a comfortable balance.
+EQ: With a three-year gap and different genders, it’s tricky.
+EV: Different hobbies and the age gap made it hard to get along.
+EQ: My sister found it tough being seen as immature.
+EV: Three years isn't much difference now.
+EQ: True. It feels different for children compared to adults.
+EV: Younger people can seem mature.
+EQ: Now I don’t worry much about age differences.
+EV: It depends. I get nervous around much older people.
+EQ: I see. I get nervous around much younger people.
+EV: Interesting, that's the opposite.",2,15,15,15,15
+10,"EQ: Hello!
+BV: Hello!
+EQ: Do you watch videos often?
+BV: Yes, I do.
+EQ: I watch YouTube often!
+BV: What kind?
+EQ: Mostly stretching, audition shows, and cooking.
+BV: What's an audition program?
+EQ: Like ""Got Talent"" on AGT.
+BV: Oh, the famous one?
+EQ: Yes, Susan Boyle is well-known from it.
+BV: Is it interesting?
+EQ: Yes, a variety of people appear, from children to adults.
+BV: What do they showcase?
+EQ: Songs, dances, and more.
+BV: There are many videos on YouTube.
+EQ: Yes, I cook while watching YouTube.
+BV: Good idea.
+EQ: I made Taiwanese castella cake recently.
+BV: What's that like?
+EQ: Fluffy, chewy, and gently sweet.
+BV: Amazing! Can you make it at home?
+EQ: Yes, using a rice cooker.
+BV: Was it good?
+EQ: Very delicious. Search for Taiwan castella recipes online.
+BV: I'll look into it.
+EQ: I used rice flour instead of wheat flour.
+BV: Isn't using rice flour difficult?
+EQ: It's not. I use it for everything now.
+BV: Impressive!",6,15,15,15,15
