@@ -124,7 +124,7 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print("Response:", response.text)
 
         # average -1 std aggregation
-        if score_list[0] >= 0.85907702967026702 and score_list[1] >= 0.76726731646460114 and score_list[2] >= 0.765083278724366595:
+        if score_list[0] >= 0.9183333333333333 and score_list[1] >= 0.8 and score_list[2] >= 0.8105:
             print(f'evaluation end. The confidence scores are {score_list}')
             return (dialogue,
                     try_number,

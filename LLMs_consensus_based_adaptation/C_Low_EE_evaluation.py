@@ -125,8 +125,7 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print("Response:", response.text)
 
         # average +1 std aggregation
-        if score_list[0] >= 0.9775896369963996 and score_list[1] >= 0.83273268353539886 and score_list[
-            2] >= 0.8559167212756334:
+        if score_list[0] >= 0.9183333333333333 and score_list[1] >= 0.8 and score_list[2] >= 0.8105:
             print(f'evaluation end. The confidence scores are {score_list}')
             return (dialogue,
                     try_number,
@@ -190,7 +189,7 @@ def read_dialogues_from_csv(file_path):
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for i, row in enumerate(reader, start=1):
-            if 4 <= i <= 12:
+            if 3 <= i <= 12:
                 dialogues.append(row['Dialogue'])
     return dialogues
 
@@ -218,7 +217,7 @@ if __name__ == "__main__":
             writer.writeheader()
 
         # Initialize an index counter
-        index = 2
+        index = 1
 
         for human_human_dialogue in human_human_dialogues:
 
