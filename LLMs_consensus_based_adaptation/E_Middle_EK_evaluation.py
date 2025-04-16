@@ -5,7 +5,7 @@ import re
 import os
 
 # Configuration
-API_KEY = '50a857aec1164241a3411b5e38e99982'
+API_KEY = 'Your API Key'
 
 headers = {
     "Content-Type": "application/json",
@@ -27,7 +27,7 @@ def llm_response(prompt):
         "max_tokens": 2000
     }
 
-    ENDPOINT = "https://genai-jp.openai.azure.com/openai/deployments/ln-gpt40/chat/completions?api-version=2024-02-15-preview"
+    ENDPOINT = "Your Endpoint"
 
     try:
         response = requests.post(ENDPOINT, headers=headers, json=payload)
@@ -124,41 +124,6 @@ def evaluate_dialogue(dialogue, additional_knowledge, human_human_dialogue, eval
                 print(f"Failed to fetch {evaluator} data. Status code: {response.status_code}")
                 print("Response:", response.text)
 
-        # average aggregation
-        # if score_list[0] >= 0.9183333333333333 and score_list[1] >= 0.8 and score_list[2] >= 0.8105:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return (dialogue,
-        #             try_number,
-        #             count_speaker_occurrences(human_human_dialogue, first_speaker),
-        #             count_speaker_occurrences(human_human_dialogue, secondary_speaker),
-        #             count_speaker_occurrences(dialogue, first_speaker),
-        #             count_speaker_occurrences(dialogue, secondary_speaker))
-
-        # average +1 std aggregation
-        # if score_list[0] >= 1.0 and score_list[1] >= 0.8083952171003362 and score_list[2] >= 0.8108308669354513:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return dialogue, try_number
-
-        # average +0.5 std aggregation
-        # if score_list[0] >= 0.9479614851648664 and score_list[1] >= 0.8163663417676994 and score_list[2] >= 0.8332083606378167:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return (dialogue,
-        #             try_number,
-        #             count_speaker_occurrences(human_human_dialogue, first_speaker),
-        #             count_speaker_occurrences(human_human_dialogue, secondary_speaker),
-        #             count_speaker_occurrences(dialogue, first_speaker),
-        #             count_speaker_occurrences(dialogue, secondary_speaker))
-
-        # average -0.5 std aggregation
-        # if score_list[0] >= 0.8887051815018002 and score_list[1] >= 0.7836336582323006 and score_list[2] >= 0.7877916393621833:
-        #     print(f'evaluation end. The confidence scores are {score_list}')
-        #     return (dialogue,
-        #             try_number,
-        #             count_speaker_occurrences(human_human_dialogue, first_speaker),
-        #             count_speaker_occurrences(human_human_dialogue, secondary_speaker),
-        #             count_speaker_occurrences(dialogue, first_speaker),
-        #             count_speaker_occurrences(dialogue, secondary_speaker))
-
         # average +1 std aggregation
         if score_list[0] >= 0.85907702967026702 and score_list[1] >= 0.76726731646460114 and score_list[2] >= 0.765083278724366595:
             print(f'evaluation end. The confidence scores are {score_list}')
@@ -238,7 +203,7 @@ if __name__ == "__main__":
 
     csv_file_path = '../sampled_HHDs/E_Middle_EK_example_dialogues.csv'
 
-    output_csv_path = 'average_-1_std_aggregation_output_adapted_dialogues/E_Middle_EK_HCD.csv'
+    output_csv_path = 'data/average_-1_std_aggregation_output_adapted_dialogues/E_Middle_EK_HCD.csv'
 
     human_human_dialogues = read_dialogues_from_csv(csv_file_path)
 
