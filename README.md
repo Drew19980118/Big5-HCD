@@ -14,8 +14,7 @@ We introduce Big5-HCD, the first HCD dataset with fine-grained Big Five personal
 
 We provide demonstration data under ``LLMs_consensus_based_adaptation/data/``, which includes samples for different benchmark thresholds.
 
-The whole dataset will be available on request via: 
-📧 zhangweidong98@outlook.com
+The whole dataset will be available on request. As this manuscript is currently under peer review, corresponding contact information will be made publicly available once the review process is completed.
 
 
 ## Abstract
