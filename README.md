@@ -12,7 +12,7 @@
 
 We introduce Big5-HCD, the first HCD dataset with fine-grained Big Five personality annotations. 
 
-We provide demonstration data under ``LLMs_consensus_based_adaptation/data/``, which includes samples for different benchmark thresholds.
+We provide demonstration data under ``LLMs_consensus_based_adaptation/data/``, which includes samples for different benchmark thresholds. We also present some sampled interlocutors' HHDs and the corresponding role model HCDs, available respectively in ``sampled_HCDs`` and ``role_model_HCDs``.
 
 The whole dataset will be available on request. As this manuscript is currently under peer review, corresponding contact information will be made publicly available once the review process is completed.
 
