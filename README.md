@@ -26,7 +26,7 @@ Personality-aware Human-Computer Dialogue (HCD) systems are critical for enablin
 
 ![](./assets/interlocutor_proportion.png)
 
-![](./assets/dataset_statistics.png)
+![](./assets/stat.png)
 
 ## Pipeline
 
@@ -36,6 +36,14 @@ The four-stage semi-supervised pipeline of Big5-HCD: (1) Sampling-Based HHDs Sub
 
 ## Experiment Results
 
-![](./assets/RQ1.png)
+![](./assets/RQ1.1.png)
+
+![](./assets/RQ1.2.png)
 
 ![](./assets/RQ2.png)
+
+![](./assets/RQ3.png)
+
+![](./assets/RQ4.png)
+
+![](./assets/RQ5.png)
