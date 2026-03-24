@@ -1,5 +1,5 @@
 <div align= "center">
-    <h1> Big5-HCD: A Human-Computer Dialogue Dataset with Personality Annotations via Semi-Supervised Adaptation </h1>
+    <h1> Big5-HCD: A Human-Computer Dialogue Benchmark with Personality Annotations via Semi-Supervised Adaptation </h1>
 </div>
 
 [//]: # (<p align="center">  )
@@ -10,7 +10,7 @@
 
 [//]: # (</p>)
 
-We introduce Big5-HCD, the first HCD dataset with fine-grained Big Five personality annotations. 
+We introduce Big5-HCD, the first HCD benchmark with fine-grained Big Five personality annotations. 
 
 We provide demonstration data under ``LLMs_consensus_based_adaptation/data/``, which includes samples for different benchmark thresholds. We also present some sampled interlocutors' HHDs and the corresponding role model HCDs, available respectively in ``sampled_HCDs`` and ``role_model_HCDs``.
 
@@ -19,10 +19,10 @@ The whole dataset will be available on request. As this manuscript is currently 
 
 ## Abstract
 
-Personality-aware Human-Computer Dialogue (HCD) systems are critical for enabling personalized interactions. However, to the best of our knowledge, existing HCD datasets lack explicit personality trait annotations, creating a fundamental barrier to developing robust personality-aware HCD systems. To address this, we introduce Big5-HCD, the first HCD dataset with fine-grained Big Five personality annotations. This dataset was derived from RealPersonaChat—a Human-Human Dialogue (HHD) dataset—through a four-stage semi-supervised pipeline: (1) Construction of a subset based on sampling of HHDs from RealPersonaChat; (2) Construction of role-model HCDs with validation by human evaluators; (3) Construction of a human-calibrated Large Language Model (LLM) evaluation benchmark for automatic adaptation; and (4) Adapation based on LLM evaluators' consensus for HCD scaling. Experimental evaluations of adaptation effectiveness on Big5-HCD showed high approval rates and tolerance scores from human evaluators, confirming its reliability as a personality-annotated HCD dataset for developing personality-aware HCD systems.
+Personality-aware Human-Computer Dialogue (HCD) systems are critical for enabling personalized interactions. However, to the best of our knowledge, existing HCD benchmarks lack explicit personality trait annotations, creating a fundamental barrier to developing robust personality-aware HCD systems. To address this, we introduce \textbf{Big5-HCD}, the first HCD benchmark with fine-grained Big Five personality annotations. This benchmark was derived from RealPersonaChat—a Human-Human Dialogue (HHD) benchmark—through a four-stage semi-supervised pipeline: (1) Construction of a subset based on sampling of HHDs from RealPersonaChat; (2) Construction of role-model HCDs with validation by human evaluators; (3) Construction of a human-calibrated Large Language Model (LLM) evaluation benchmark for automatic adaptation; and (4) Adapation based on LLM evaluators' consensus for HCD scaling. Experimental evaluations of adaptation effectiveness on Big5-HCD showed high approval rates and tolerance scores from human evaluators, confirming its reliability as a personality-annotated HCD benchmark for developing personality-aware HCD systems.
 
 
-## Dataset Statistics
+## Benchmark Statistics
 
 ![](./assets/interlocutor_proportion.png)
 
