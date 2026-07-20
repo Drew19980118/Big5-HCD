@@ -12,7 +12,7 @@
 
 ## News
 
-  - [2027.07.02] Big5-HCD has been accepted to ICMI 2026.
+  - [2026.07.02] Big5-HCD has been accepted to ICMI 2026.
 
 ## Usage
 
@@ -20,7 +20,7 @@ We introduce Big5-HCD, the first HCD benchmark with fine-grained Big Five person
 
 We provide demonstration data under ``LLMs_consensus_based_adaptation/data/``, which includes samples for different benchmark thresholds. We also present some sampled interlocutors' HHDs and the corresponding role model HCDs, available respectively in ``sampled_HCDs`` and ``role_model_HCDs``.
 
-The whole dataset will be available on request.
+The whole dataset will be available on request. Email: zhangweidong98@outlook.com
 
 ## Abstract
 
