@@ -10,7 +10,7 @@
 
 [//]: # (</p>)
 
-- News
+## News
   - [2027.07.02] Q-RM accepted to ICMI 2026.
 
 We introduce Big5-HCD, the first HCD benchmark with fine-grained Big Five personality annotations. 
