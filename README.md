@@ -1,7 +1,3 @@
-<div align= "center">
-    <h1> Big5-HCD: A Human-Computer Dialogue Benchmark with Personality Annotations via Semi-Supervised Adaptation </h1>
-</div>
-
 [//]: # (<p align="center">  )
 
 [//]: # (<a href="https://arxiv.org/pdf/2310.00746.pdf">Paper</a>; )
@@ -12,7 +8,7 @@
 
 ## News
 
-  - [2026.07.02] Big5-HCD has been accepted to ICMI 2026.
+  - [2026.07.02] Our paper **"Big5-HCD: A Human-Computer Dialogue Benchmark with Personality Annotations via Semi-Supervised Adaptation"** has been accepted to ICMI 2026.
 
 ## Usage
 
