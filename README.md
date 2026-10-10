@@ -48,3 +48,17 @@ The four-stage semi-supervised pipeline of Big5-HCD: (1) Sampling-Based HHDs Sub
 ![](./assets/RQ4.png)
 
 ![](./assets/RQ5.png)
+
+## 📝 Citation
+
+If you find this repository useful, please cite the corresponding paper.
+
+```bibtex
+@inproceedings{zhang2026big5,
+  title={Big5-HCD: A Human-Computer Dialogue Benchmark with Personality Annotations via Semi-Supervised Adaptation},
+  author={Zhang, Weidong and Guo, Haifeng and Wang, Weiming and Xie, Haoran and Wang, Fu Lee},
+  booktitle={Proceedings of the 28th International Conference On Multimodal Interaction},
+  pages={131--140},
+  year={2026}
+}
+```
